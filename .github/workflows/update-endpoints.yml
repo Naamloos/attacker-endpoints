@@ -1,0 +1,24 @@
+name: Update Endpoints
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+
+jobs:
+  update-endpoints:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Fetch new endpoints data
+      run: curl -o endpoints.json https://naamloos.dev/attacker-endpoints
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add endpoints.json
+        git commit -m "Update endpoints.json $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+        git push
