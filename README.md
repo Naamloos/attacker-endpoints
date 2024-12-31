@@ -1,13 +1,15 @@
 # Attacker Endpoints
-My personal resume site gets scanned a lot. To me, this is interesting data. It might also be interesting to you. Feel free to use this to add a catch-all to your server to mess with said bots ;)
 
-This list gets updated twice a day through a GitHub action based on data gathered on naamloos.dev through a catch-all endpoint. I try to filter out invalid endpoints, but some "valid" endpoints may slip through the cracks.
+My personal resume site experiences frequent scans, which I find to be interesting data. You might find it useful as well. Feel free to use this information to set up a catch-all on your server to thwart these bots.
+
+This list is updated twice daily via a GitHub action, based on data collected from naamloos.dev through a catch-all endpoint. While I strive to filter out invalid endpoints, some "valid" endpoints may still slip through.
 
 ## Format
-The file `endpoints.json` contains a JSON array with objects that contain the following fields:
 
-| Field | Type | Description |
-|-------|------|-------------|
-| endpoint | string | Endpoint that the bot tried to call |
-| method | string | HTTP method: `GET`, `HEAD`, `POST`, `PUT`, `DELETE`, `CONNECT`, `OPTIONS`, `TRACE`, `PATCH` |
-| occurences | integer | Amount of occurences at the time of updating |
+The `endpoints.json` file contains a JSON array with objects that include the following fields:
+
+| Field      | Type    | Description                                                   |
+|------------|---------|---------------------------------------------------------------|
+| endpoint   | string  | The endpoint that the bot attempted to access                 |
+| method     | string  | HTTP method: `GET`, `HEAD`, `POST`, `PUT`, `DELETE`, `CONNECT`, `OPTIONS`, `TRACE`, `PATCH` |
+| occurrences | integer | The number of occurrences at the time of the update           |
