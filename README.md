@@ -4,9 +4,6 @@ My personal resume site experiences frequent scans, which I find to be interesti
 
 This list is updated twice daily via a GitHub action, based on data collected from naamloos.dev through a catch-all endpoint. While I strive to filter out invalid endpoints, some "valid" endpoints may still slip through.
 
-> [!NOTE]
-> Although I have a real-time endpoint configured on my site, I recommend using the list provided through GitHub to save me some bandwidth. **Thank you!**
-
 ## Format
 
 > [!WARNING]
