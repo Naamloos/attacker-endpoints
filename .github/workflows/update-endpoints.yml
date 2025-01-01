@@ -14,7 +14,8 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Fetch new endpoints data
-      run: curl -o endpoints.json https://naamloos.dev/attacker-endpoints
+      run: |
+        curl -H "X-Auth-Token: ${{ secrets.NAAMLOOS_TOKEN }}" -o endpoints.json https://naamloos.dev/attacker-endpoints
 
     - name: Commit and push changes
       run: |
