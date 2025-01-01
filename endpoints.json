@@ -5467,7 +5467,7 @@
     {
         "endpoint": ".env",
         "method": "GET",
-        "occurences": 8
+        "occurences": 9
     },
     {
         "endpoint": "wp-content",
@@ -8402,7 +8402,7 @@
     {
         "endpoint": ".git\/config",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "wordpress",
@@ -8776,6 +8776,46 @@
     },
     {
         "endpoint": "log.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "admin.zip",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "backup.zip",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "administrator.zip",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "database.zip",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "dump.sql",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "assets\/admin\/plugins\/elfinder\/connectors\/php\/connector.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "config\/secrets.yml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "wp-content\/plugins\/wp-file-manager-pro\/lib\/php\/connector.minimal.php",
         "method": "GET",
         "occurences": 1
     }
