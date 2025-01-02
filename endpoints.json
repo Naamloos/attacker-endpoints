@@ -12,7 +12,7 @@
     {
         "endpoint": ".well-known\/discord",
         "method": "GET",
-        "occurences": 3
+        "occurences": 4
     },
     {
         "endpoint": "\/wordpress",
@@ -5467,7 +5467,7 @@
     {
         "endpoint": ".env",
         "method": "GET",
-        "occurences": 9
+        "occurences": 11
     },
     {
         "endpoint": "wp-content",
@@ -5477,47 +5477,47 @@
     {
         "endpoint": "wordpress",
         "method": "HEAD",
-        "occurences": 5
+        "occurences": 6
     },
     {
         "endpoint": "wp",
         "method": "HEAD",
-        "occurences": 5
+        "occurences": 6
     },
     {
         "endpoint": "bc",
         "method": "HEAD",
-        "occurences": 5
+        "occurences": 6
     },
     {
         "endpoint": "bk",
         "method": "HEAD",
-        "occurences": 5
+        "occurences": 6
     },
     {
         "endpoint": "backup",
         "method": "HEAD",
-        "occurences": 5
+        "occurences": 6
     },
     {
         "endpoint": "old",
         "method": "HEAD",
-        "occurences": 5
+        "occurences": 6
     },
     {
         "endpoint": "new",
         "method": "HEAD",
-        "occurences": 5
+        "occurences": 6
     },
     {
         "endpoint": "main",
         "method": "HEAD",
-        "occurences": 5
+        "occurences": 6
     },
     {
         "endpoint": "home",
         "method": "HEAD",
-        "occurences": 5
+        "occurences": 6
     },
     {
         "endpoint": "go.php",
@@ -5992,7 +5992,7 @@
     {
         "endpoint": "index.html",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "a.js",
@@ -8402,7 +8402,7 @@
     {
         "endpoint": ".git\/config",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "wordpress",
