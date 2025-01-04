@@ -12,7 +12,7 @@
     {
         "endpoint": ".well-known\/discord",
         "method": "GET",
-        "occurences": 5
+        "occurences": 6
     },
     {
         "endpoint": "\/wordpress",
@@ -5522,7 +5522,7 @@
     {
         "endpoint": "go.php",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "5173e.php",
@@ -7197,7 +7197,7 @@
     {
         "endpoint": "wp-content\/plugins\/about.php",
         "method": "GET",
-        "occurences": 2
+        "occurences": 3
     },
     {
         "endpoint": "plugins\/phpThumb\/404.php",
@@ -8237,7 +8237,7 @@
     {
         "endpoint": "makeasmtp.php",
         "method": "GET",
-        "occurences": 5
+        "occurences": 6
     },
     {
         "endpoint": "wp-admin\/css\/colors\/blue\/lock.php",
@@ -8827,7 +8827,7 @@
     {
         "endpoint": "style.php",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "wp-content\/plugins\/hellopress\/wp_filemanager.php",
@@ -9262,7 +9262,7 @@
     {
         "endpoint": "beef_128.png",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "wp-content\/plugins\/WordPressCore\/include.php",
@@ -9441,6 +9441,56 @@
     },
     {
         "endpoint": "input.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "wp-content\/themes\/too.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "wp-admin\/includes\/nav.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "wp-includes\/sodium_compat\/src\/Core32\/Curve25519\/Ge\/Core32.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "wp-content\/themes\/digital-download\/new.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "wp-admin\/css\/makeasmtp.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "wp-admin\/js\/makeasmtp.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "wp-includes\/rest-api\/search\/makeasmtp.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "assets\/elfinder\/connectors\/php\/connector.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "links.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "wp-admin\/includes\/links.php",
         "method": "GET",
         "occurences": 1
     }
