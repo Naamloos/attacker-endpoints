@@ -5467,7 +5467,7 @@
     {
         "endpoint": ".env",
         "method": "GET",
-        "occurences": 32
+        "occurences": 33
     },
     {
         "endpoint": "wp-content",
@@ -9765,16 +9765,6 @@
         "occurences": 2
     },
     {
-        "endpoint": "https%3A\/fonts.googleapis.com\/css2%3Ffamily%3DRaleway%3Awght%40500%26family%3DRoboto%26display%3Dswap",
-        "method": "GET",
-        "occurences": 2
-    },
-    {
-        "endpoint": "https%3A\/fonts.googleapis.com\/https%3A\/naamloos.dev",
-        "method": "GET",
-        "occurences": 2
-    },
-    {
         "endpoint": "adminer-3.0.1-mysql.php",
         "method": "GET",
         "occurences": 1
@@ -9915,11 +9905,6 @@
         "occurences": 1
     },
     {
-        "endpoint": "include\/me.jpg",
-        "method": "GET",
-        "occurences": 2
-    },
-    {
         "endpoint": "adminer-3.2.2-mysql-en.php",
         "method": "GET",
         "occurences": 1
@@ -9938,11 +9923,6 @@
         "endpoint": ".env.bak",
         "method": "GET",
         "occurences": 1
-    },
-    {
-        "endpoint": "donate.html",
-        "method": "GET",
-        "occurences": 2
     },
     {
         "endpoint": "adminer-3.7.0-mysql.php",
@@ -10061,11 +10041,6 @@
     },
     {
         "endpoint": "plugins\/elfinder\/php\/connector.php",
-        "method": "GET",
-        "occurences": 1
-    },
-    {
-        "endpoint": "naamloos",
         "method": "GET",
         "occurences": 1
     },
