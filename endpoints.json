@@ -12,7 +12,7 @@
     {
         "endpoint": ".well-known\/discord",
         "method": "GET",
-        "occurences": 14
+        "occurences": 15
     },
     {
         "endpoint": "\/wordpress",
@@ -5477,47 +5477,47 @@
     {
         "endpoint": "wordpress",
         "method": "HEAD",
-        "occurences": 18
+        "occurences": 19
     },
     {
         "endpoint": "wp",
         "method": "HEAD",
-        "occurences": 18
+        "occurences": 19
     },
     {
         "endpoint": "bc",
         "method": "HEAD",
-        "occurences": 18
+        "occurences": 19
     },
     {
         "endpoint": "bk",
         "method": "HEAD",
-        "occurences": 18
+        "occurences": 19
     },
     {
         "endpoint": "backup",
         "method": "HEAD",
-        "occurences": 18
+        "occurences": 19
     },
     {
         "endpoint": "old",
         "method": "HEAD",
-        "occurences": 18
+        "occurences": 19
     },
     {
         "endpoint": "new",
         "method": "HEAD",
-        "occurences": 18
+        "occurences": 19
     },
     {
         "endpoint": "main",
         "method": "HEAD",
-        "occurences": 18
+        "occurences": 19
     },
     {
         "endpoint": "home",
         "method": "HEAD",
-        "occurences": 18
+        "occurences": 19
     },
     {
         "endpoint": "go.php",
@@ -5742,7 +5742,7 @@
     {
         "endpoint": "simple.php",
         "method": "GET",
-        "occurences": 8
+        "occurences": 9
     },
     {
         "endpoint": "contentloader1.php",
@@ -6107,7 +6107,7 @@
     {
         "endpoint": "wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 9
+        "occurences": 11
     },
     {
         "endpoint": "wordpress\/wp-admin\/setup-config.php",
@@ -6177,7 +6177,7 @@
     {
         "endpoint": "wp-content\/themes\/include.php",
         "method": "GET",
-        "occurences": 5
+        "occurences": 6
     },
     {
         "endpoint": "wp-admin\/network\/about.php",
@@ -7262,7 +7262,7 @@
     {
         "endpoint": "wp-admin\/install.php",
         "method": "GET",
-        "occurences": 5
+        "occurences": 7
     },
     {
         "endpoint": "cgi-bin\/1.php",
@@ -8342,7 +8342,7 @@
     {
         "endpoint": "file.php",
         "method": "GET",
-        "occurences": 14
+        "occurences": 15
     },
     {
         "endpoint": "wp-admin\/index.php",
@@ -8407,47 +8407,47 @@
     {
         "endpoint": "wordpress",
         "method": "GET",
-        "occurences": 4
+        "occurences": 5
     },
     {
         "endpoint": "wp",
         "method": "GET",
-        "occurences": 4
+        "occurences": 5
     },
     {
         "endpoint": "blog",
         "method": "GET",
-        "occurences": 3
+        "occurences": 4
     },
     {
         "endpoint": "new",
         "method": "GET",
-        "occurences": 3
+        "occurences": 4
     },
     {
         "endpoint": "old",
         "method": "GET",
-        "occurences": 3
+        "occurences": 4
     },
     {
         "endpoint": "newsite",
         "method": "GET",
-        "occurences": 3
+        "occurences": 4
     },
     {
         "endpoint": "test",
         "method": "GET",
-        "occurences": 3
+        "occurences": 5
     },
     {
         "endpoint": "main",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "testing",
         "method": "GET",
-        "occurences": 3
+        "occurences": 4
     },
     {
         "endpoint": "site",
@@ -8457,42 +8457,42 @@
     {
         "endpoint": "backup",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "demo",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "home",
         "method": "GET",
-        "occurences": 3
+        "occurences": 4
     },
     {
         "endpoint": "tmp",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "dev",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "cms",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "portal",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "web",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "keybase.txt",
@@ -8827,7 +8827,7 @@
     {
         "endpoint": "style.php",
         "method": "GET",
-        "occurences": 8
+        "occurences": 9
     },
     {
         "endpoint": "wp-content\/plugins\/hellopress\/wp_filemanager.php",
@@ -9262,7 +9262,7 @@
     {
         "endpoint": "wp-content\/plugins\/WordPressCore\/include.php",
         "method": "GET",
-        "occurences": 3
+        "occurences": 4
     },
     {
         "endpoint": ".aws\/credentials",
@@ -9942,7 +9942,7 @@
     {
         "endpoint": "donate.html",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "adminer-3.7.0-mysql.php",
@@ -10191,6 +10191,11 @@
     },
     {
         "endpoint": "contact.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "app\/.git\/config",
         "method": "GET",
         "occurences": 1
     }
