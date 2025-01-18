@@ -5467,7 +5467,7 @@
     {
         "endpoint": ".env",
         "method": "GET",
-        "occurences": 46
+        "occurences": 47
     },
     {
         "endpoint": "wp-content",
@@ -9627,7 +9627,7 @@
     {
         "endpoint": "media\/system\/js\/core.js",
         "method": "GET",
-        "occurences": 7
+        "occurences": 8
     },
     {
         "endpoint": "admin\/elfinder\/php\/connector.minimal.php",
@@ -9652,7 +9652,7 @@
     {
         "endpoint": "wp-includes\/js\/jquery\/jquery.js",
         "method": "GET",
-        "occurences": 6
+        "occurences": 7
     },
     {
         "endpoint": "wp-content\/plugins\/litespeed-cache\/readme.txt",
@@ -9707,7 +9707,7 @@
     {
         "endpoint": "actuator\/env",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "server",
@@ -11338,5 +11338,30 @@
         "endpoint": "wp-ver.php",
         "method": "GET",
         "occurences": 1
+    },
+    {
+        "endpoint": "env",
+        "method": "GET",
+        "occurences": 2
+    },
+    {
+        "endpoint": "admin\/actuator\/env",
+        "method": "GET",
+        "occurences": 2
+    },
+    {
+        "endpoint": "api\/env",
+        "method": "GET",
+        "occurences": 2
+    },
+    {
+        "endpoint": "admin\/env",
+        "method": "GET",
+        "occurences": 2
+    },
+    {
+        "endpoint": "api\/actuator\/env",
+        "method": "GET",
+        "occurences": 2
     }
 ]
