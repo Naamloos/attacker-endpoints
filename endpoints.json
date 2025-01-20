@@ -7,7 +7,7 @@
     {
         "endpoint": "wp-login.php",
         "method": "GET",
-        "occurences": 16
+        "occurences": 17
     },
     {
         "endpoint": ".well-known\/discord",
@@ -5467,12 +5467,12 @@
     {
         "endpoint": ".env",
         "method": "GET",
-        "occurences": 52
+        "occurences": 53
     },
     {
         "endpoint": "wp-content",
         "method": "GET",
-        "occurences": 3
+        "occurences": 4
     },
     {
         "endpoint": "wordpress",
@@ -5567,7 +5567,7 @@
     {
         "endpoint": "NewFile.php",
         "method": "GET",
-        "occurences": 3
+        "occurences": 4
     },
     {
         "endpoint": "alumni_reg.php",
@@ -8502,72 +8502,72 @@
     {
         "endpoint": "wp-includes\/ID3\/license.txt",
         "method": "GET",
-        "occurences": 9
+        "occurences": 10
     },
     {
         "endpoint": "xmlrpc.php",
         "method": "GET",
-        "occurences": 21
+        "occurences": 22
     },
     {
         "endpoint": "blog\/wp-includes\/wlwmanifest.xml",
         "method": "GET",
-        "occurences": 13
+        "occurences": 14
     },
     {
         "endpoint": "web\/wp-includes\/wlwmanifest.xml",
         "method": "GET",
-        "occurences": 13
+        "occurences": 14
     },
     {
         "endpoint": "wordpress\/wp-includes\/wlwmanifest.xml",
         "method": "GET",
-        "occurences": 13
+        "occurences": 14
     },
     {
         "endpoint": "wp\/wp-includes\/wlwmanifest.xml",
         "method": "GET",
-        "occurences": 13
+        "occurences": 14
     },
     {
         "endpoint": "2020\/wp-includes\/wlwmanifest.xml",
         "method": "GET",
-        "occurences": 9
+        "occurences": 10
     },
     {
         "endpoint": "2019\/wp-includes\/wlwmanifest.xml",
         "method": "GET",
-        "occurences": 13
+        "occurences": 14
     },
     {
         "endpoint": "2021\/wp-includes\/wlwmanifest.xml",
         "method": "GET",
-        "occurences": 9
+        "occurences": 10
     },
     {
         "endpoint": "shop\/wp-includes\/wlwmanifest.xml",
         "method": "GET",
-        "occurences": 13
+        "occurences": 14
     },
     {
         "endpoint": "wp1\/wp-includes\/wlwmanifest.xml",
         "method": "GET",
-        "occurences": 13
+        "occurences": 14
     },
     {
         "endpoint": "test\/wp-includes\/wlwmanifest.xml",
         "method": "GET",
-        "occurences": 13
+        "occurences": 14
     },
     {
         "endpoint": "site\/wp-includes\/wlwmanifest.xml",
         "method": "GET",
-        "occurences": 13
+        "occurences": 14
     },
     {
         "endpoint": "cms\/wp-includes\/wlwmanifest.xml",
         "method": "GET",
-        "occurences": 13
+        "occurences": 14
     },
     {
         "endpoint": "bypass.php",
@@ -10072,7 +10072,7 @@
     {
         "endpoint": "baxa1.php",
         "method": "GET",
-        "occurences": 2
+        "occurences": 3
     },
     {
         "endpoint": ".well-known\/\/index.php",
@@ -11691,6 +11691,56 @@
     },
     {
         "endpoint": "getid3-core.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "build\/assets\/app-BexuCb3n.css",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "build\/assets\/Index-CLUcXC_h.js",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "plugins\/elrte\/src\/elrte.src.html",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "heh.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "wp-content\/plugins\/view-more\/ioxi.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "wp-content\/plugins\/erinyani\/baxa1.php7",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "baxa1.php7",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "wp-content\/plugins\/erinyani\/baxa1.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "wp-content\/plugins\/seoxx\/randkeyword.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "assets\/jquery-file-upload\/server\/php\/index.php",
         "method": "GET",
         "occurences": 1
     }
