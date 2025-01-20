@@ -12,7 +12,7 @@
     {
         "endpoint": ".well-known\/discord",
         "method": "GET",
-        "occurences": 18
+        "occurences": 19
     },
     {
         "endpoint": "\/wordpress",
@@ -5467,7 +5467,7 @@
     {
         "endpoint": ".env",
         "method": "GET",
-        "occurences": 51
+        "occurences": 52
     },
     {
         "endpoint": "wp-content",
@@ -5477,47 +5477,47 @@
     {
         "endpoint": "wordpress",
         "method": "HEAD",
-        "occurences": 26
+        "occurences": 27
     },
     {
         "endpoint": "wp",
         "method": "HEAD",
-        "occurences": 26
+        "occurences": 27
     },
     {
         "endpoint": "bc",
         "method": "HEAD",
-        "occurences": 26
+        "occurences": 27
     },
     {
         "endpoint": "bk",
         "method": "HEAD",
-        "occurences": 26
+        "occurences": 27
     },
     {
         "endpoint": "backup",
         "method": "HEAD",
-        "occurences": 26
+        "occurences": 27
     },
     {
         "endpoint": "old",
         "method": "HEAD",
-        "occurences": 26
+        "occurences": 27
     },
     {
         "endpoint": "new",
         "method": "HEAD",
-        "occurences": 26
+        "occurences": 27
     },
     {
         "endpoint": "main",
         "method": "HEAD",
-        "occurences": 26
+        "occurences": 27
     },
     {
         "endpoint": "home",
         "method": "HEAD",
-        "occurences": 26
+        "occurences": 27
     },
     {
         "endpoint": "go.php",
@@ -9707,7 +9707,7 @@
     {
         "endpoint": "actuator\/env",
         "method": "GET",
-        "occurences": 4
+        "occurences": 5
     },
     {
         "endpoint": "server",
@@ -11342,27 +11342,27 @@
     {
         "endpoint": "env",
         "method": "GET",
-        "occurences": 3
+        "occurences": 4
     },
     {
         "endpoint": "admin\/actuator\/env",
         "method": "GET",
-        "occurences": 3
+        "occurences": 4
     },
     {
         "endpoint": "api\/env",
         "method": "GET",
-        "occurences": 3
+        "occurences": 4
     },
     {
         "endpoint": "admin\/env",
         "method": "GET",
-        "occurences": 3
+        "occurences": 4
     },
     {
         "endpoint": "api\/actuator\/env",
         "method": "GET",
-        "occurences": 3
+        "occurences": 4
     },
     {
         "endpoint": ".env.php",
