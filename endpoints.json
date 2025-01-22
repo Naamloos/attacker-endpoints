@@ -12,7 +12,7 @@
     {
         "endpoint": ".well-known\/discord",
         "method": "GET",
-        "occurences": 20
+        "occurences": 21
     },
     {
         "endpoint": "\/wordpress",
@@ -5467,7 +5467,7 @@
     {
         "endpoint": ".env",
         "method": "GET",
-        "occurences": 53
+        "occurences": 56
     },
     {
         "endpoint": "wp-content",
@@ -5742,7 +5742,7 @@
     {
         "endpoint": "simple.php",
         "method": "GET",
-        "occurences": 12
+        "occurences": 13
     },
     {
         "endpoint": "contentloader1.php",
@@ -6062,37 +6062,37 @@
     {
         "endpoint": "wp-admin\/css",
         "method": "GET",
-        "occurences": 19
+        "occurences": 21
     },
     {
         "endpoint": ".well-known",
         "method": "GET",
-        "occurences": 17
+        "occurences": 18
     },
     {
         "endpoint": "sites\/default\/files",
         "method": "GET",
-        "occurences": 15
+        "occurences": 16
     },
     {
         "endpoint": "admin\/controller\/extension\/extension",
         "method": "GET",
-        "occurences": 13
+        "occurences": 14
     },
     {
         "endpoint": "uploads",
         "method": "GET",
-        "occurences": 15
+        "occurences": 17
     },
     {
         "endpoint": "images",
         "method": "GET",
-        "occurences": 17
+        "occurences": 19
     },
     {
         "endpoint": "files",
         "method": "GET",
-        "occurences": 14
+        "occurences": 16
     },
     {
         "endpoint": "vendor\/phpunit\/phpunit\/src\/Util\/PHP\/eval-stdin.php",
@@ -6107,12 +6107,12 @@
     {
         "endpoint": "wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 13
+        "occurences": 14
     },
     {
         "endpoint": "wordpress\/wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "wp-includes\/Text\/network.php",
@@ -6177,7 +6177,7 @@
     {
         "endpoint": "wp-content\/themes\/include.php",
         "method": "GET",
-        "occurences": 8
+        "occurences": 9
     },
     {
         "endpoint": "wp-admin\/network\/about.php",
@@ -8402,7 +8402,7 @@
     {
         "endpoint": ".git\/config",
         "method": "GET",
-        "occurences": 31
+        "occurences": 32
     },
     {
         "endpoint": "wordpress",
@@ -8822,12 +8822,12 @@
     {
         "endpoint": "sitemap.xml",
         "method": "GET",
-        "occurences": 4
+        "occurences": 5
     },
     {
         "endpoint": "style.php",
         "method": "GET",
-        "occurences": 10
+        "occurences": 11
     },
     {
         "endpoint": "wp-content\/plugins\/hellopress\/wp_filemanager.php",
@@ -9192,7 +9192,7 @@
     {
         "endpoint": "wp-content\/plugins\/pwnd\/pwnd.php",
         "method": "GET",
-        "occurences": 2
+        "occurences": 3
     },
     {
         "endpoint": "sms_config.json",
@@ -9262,7 +9262,7 @@
     {
         "endpoint": "wp-content\/plugins\/WordPressCore\/include.php",
         "method": "GET",
-        "occurences": 5
+        "occurences": 6
     },
     {
         "endpoint": ".aws\/credentials",
@@ -9707,7 +9707,7 @@
     {
         "endpoint": "actuator\/env",
         "method": "GET",
-        "occurences": 5
+        "occurences": 7
     },
     {
         "endpoint": "server",
@@ -11342,27 +11342,27 @@
     {
         "endpoint": "env",
         "method": "GET",
-        "occurences": 4
+        "occurences": 6
     },
     {
         "endpoint": "admin\/actuator\/env",
         "method": "GET",
-        "occurences": 4
+        "occurences": 7
     },
     {
         "endpoint": "api\/env",
         "method": "GET",
-        "occurences": 4
+        "occurences": 7
     },
     {
         "endpoint": "admin\/env",
         "method": "GET",
-        "occurences": 4
+        "occurences": 7
     },
     {
         "endpoint": "api\/actuator\/env",
         "method": "GET",
-        "occurences": 4
+        "occurences": 7
     },
     {
         "endpoint": ".env.php",
@@ -11751,6 +11751,11 @@
     },
     {
         "endpoint": "assets",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "wp-content\/plugins\/wp-file-upload\/xl2024.php",
         "method": "GET",
         "occurences": 1
     }
