@@ -12,7 +12,7 @@
     {
         "endpoint": ".well-known\/discord",
         "method": "GET",
-        "occurences": 22
+        "occurences": 24
     },
     {
         "endpoint": "\/wordpress",
@@ -5467,7 +5467,7 @@
     {
         "endpoint": ".env",
         "method": "GET",
-        "occurences": 57
+        "occurences": 58
     },
     {
         "endpoint": "wp-content",
@@ -5477,47 +5477,47 @@
     {
         "endpoint": "wordpress",
         "method": "HEAD",
-        "occurences": 31
+        "occurences": 32
     },
     {
         "endpoint": "wp",
         "method": "HEAD",
-        "occurences": 31
+        "occurences": 32
     },
     {
         "endpoint": "bc",
         "method": "HEAD",
-        "occurences": 31
+        "occurences": 32
     },
     {
         "endpoint": "bk",
         "method": "HEAD",
-        "occurences": 31
+        "occurences": 32
     },
     {
         "endpoint": "backup",
         "method": "HEAD",
-        "occurences": 31
+        "occurences": 32
     },
     {
         "endpoint": "old",
         "method": "HEAD",
-        "occurences": 31
+        "occurences": 32
     },
     {
         "endpoint": "new",
         "method": "HEAD",
-        "occurences": 31
+        "occurences": 32
     },
     {
         "endpoint": "main",
         "method": "HEAD",
-        "occurences": 31
+        "occurences": 32
     },
     {
         "endpoint": "home",
         "method": "HEAD",
-        "occurences": 31
+        "occurences": 32
     },
     {
         "endpoint": "go.php",
@@ -6177,7 +6177,7 @@
     {
         "endpoint": "wp-content\/themes\/include.php",
         "method": "GET",
-        "occurences": 14
+        "occurences": 16
     },
     {
         "endpoint": "wp-admin\/network\/about.php",
@@ -8402,7 +8402,7 @@
     {
         "endpoint": ".git\/config",
         "method": "GET",
-        "occurences": 33
+        "occurences": 34
     },
     {
         "endpoint": "wordpress",
@@ -12536,6 +12536,11 @@
     },
     {
         "endpoint": "Nexus.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "_profiler\/empty\/search\/results",
         "method": "GET",
         "occurences": 1
     }
