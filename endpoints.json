@@ -5477,47 +5477,47 @@
     {
         "endpoint": "wordpress",
         "method": "HEAD",
-        "occurences": 32
+        "occurences": 34
     },
     {
         "endpoint": "wp",
         "method": "HEAD",
-        "occurences": 32
+        "occurences": 34
     },
     {
         "endpoint": "bc",
         "method": "HEAD",
-        "occurences": 32
+        "occurences": 34
     },
     {
         "endpoint": "bk",
         "method": "HEAD",
-        "occurences": 32
+        "occurences": 34
     },
     {
         "endpoint": "backup",
         "method": "HEAD",
-        "occurences": 32
+        "occurences": 34
     },
     {
         "endpoint": "old",
         "method": "HEAD",
-        "occurences": 32
+        "occurences": 34
     },
     {
         "endpoint": "new",
         "method": "HEAD",
-        "occurences": 32
+        "occurences": 34
     },
     {
         "endpoint": "main",
         "method": "HEAD",
-        "occurences": 32
+        "occurences": 34
     },
     {
         "endpoint": "home",
         "method": "HEAD",
-        "occurences": 32
+        "occurences": 34
     },
     {
         "endpoint": "go.php",
@@ -12541,6 +12541,51 @@
     },
     {
         "endpoint": "_profiler\/empty\/search\/results",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "admin\/js\/ckeditor\/filemanager\/index.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "naamloos.dev\/build\/assets\/app-g-C5jmaF.js\/computeMetadata\/v1\/instance\/service-accounts\/default\/token",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "naamloos.dev\/build\/assets\/basedcord-CTXhpHU2.js\/computeMetadata\/v1\/instance\/service-accounts\/default\/token",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "naamloos.dev\/build\/assets\/Index-Lt3JRjUB.js\/computeMetadata\/v1\/instance\/service-accounts\/default\/token",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "naamloos.dev\/build\/assets\/index-BO25ZH14.js\/computeMetadata\/v1\/instance\/service-accounts\/default\/token",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "naamloos.dev\/build\/assets\/index-BO25ZH14.js\/metadata\/identity\/oauth2\/token",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "naamloos.dev\/build\/assets\/Index-Lt3JRjUB.js\/metadata\/identity\/oauth2\/token",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "naamloos.dev\/build\/assets\/app-g-C5jmaF.js\/metadata\/identity\/oauth2\/token",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "naamloos.dev\/build\/assets\/basedcord-CTXhpHU2.js\/metadata\/identity\/oauth2\/token",
         "method": "GET",
         "occurences": 1
     }
