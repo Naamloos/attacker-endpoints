@@ -12,7 +12,7 @@
     {
         "endpoint": ".well-known\/discord",
         "method": "GET",
-        "occurences": 24
+        "occurences": 25
     },
     {
         "endpoint": "\/wordpress",
@@ -5477,47 +5477,47 @@
     {
         "endpoint": "wordpress",
         "method": "HEAD",
-        "occurences": 34
+        "occurences": 35
     },
     {
         "endpoint": "wp",
         "method": "HEAD",
-        "occurences": 34
+        "occurences": 35
     },
     {
         "endpoint": "bc",
         "method": "HEAD",
-        "occurences": 34
+        "occurences": 35
     },
     {
         "endpoint": "bk",
         "method": "HEAD",
-        "occurences": 34
+        "occurences": 35
     },
     {
         "endpoint": "backup",
         "method": "HEAD",
-        "occurences": 34
+        "occurences": 35
     },
     {
         "endpoint": "old",
         "method": "HEAD",
-        "occurences": 34
+        "occurences": 35
     },
     {
         "endpoint": "new",
         "method": "HEAD",
-        "occurences": 34
+        "occurences": 35
     },
     {
         "endpoint": "main",
         "method": "HEAD",
-        "occurences": 34
+        "occurences": 35
     },
     {
         "endpoint": "home",
         "method": "HEAD",
-        "occurences": 34
+        "occurences": 35
     },
     {
         "endpoint": "go.php",
@@ -6062,7 +6062,7 @@
     {
         "endpoint": "wp-admin\/css",
         "method": "GET",
-        "occurences": 23
+        "occurences": 24
     },
     {
         "endpoint": ".well-known",
@@ -6072,22 +6072,22 @@
     {
         "endpoint": "sites\/default\/files",
         "method": "GET",
-        "occurences": 16
+        "occurences": 17
     },
     {
         "endpoint": "admin\/controller\/extension\/extension",
         "method": "GET",
-        "occurences": 14
+        "occurences": 15
     },
     {
         "endpoint": "uploads",
         "method": "GET",
-        "occurences": 17
+        "occurences": 18
     },
     {
         "endpoint": "images",
         "method": "GET",
-        "occurences": 19
+        "occurences": 20
     },
     {
         "endpoint": "files",
@@ -8402,7 +8402,7 @@
     {
         "endpoint": ".git\/config",
         "method": "GET",
-        "occurences": 34
+        "occurences": 35
     },
     {
         "endpoint": "wordpress",
