@@ -6002,7 +6002,7 @@
     {
         "endpoint": "ads.txt",
         "method": "GET",
-        "occurences": 3
+        "occurences": 4
     },
     {
         "endpoint": "app-ads.txt",
@@ -8827,7 +8827,7 @@
     {
         "endpoint": "style.php",
         "method": "GET",
-        "occurences": 11
+        "occurences": 12
     },
     {
         "endpoint": "wp-content\/plugins\/hellopress\/wp_filemanager.php",
@@ -8847,7 +8847,7 @@
     {
         "endpoint": "wp-content\/plugins\/wp-theme-editor\/include.php",
         "method": "GET",
-        "occurences": 14
+        "occurences": 15
     },
     {
         "endpoint": "wp-content\/plugins\/awesome-coming-soon\/come.php",
@@ -9262,7 +9262,7 @@
     {
         "endpoint": "wp-content\/plugins\/WordPressCore\/include.php",
         "method": "GET",
-        "occurences": 11
+        "occurences": 12
     },
     {
         "endpoint": ".aws\/credentials",
@@ -9627,7 +9627,7 @@
     {
         "endpoint": "media\/system\/js\/core.js",
         "method": "GET",
-        "occurences": 16
+        "occurences": 17
     },
     {
         "endpoint": "admin\/elfinder\/php\/connector.minimal.php",
@@ -9652,7 +9652,7 @@
     {
         "endpoint": "wp-includes\/js\/jquery\/jquery.js",
         "method": "GET",
-        "occurences": 15
+        "occurences": 16
     },
     {
         "endpoint": "wp-content\/plugins\/litespeed-cache\/readme.txt",
@@ -11072,7 +11072,7 @@
     {
         "endpoint": "wp-content\/plugins\/core-plugin\/include.php",
         "method": "GET",
-        "occurences": 4
+        "occurences": 5
     },
     {
         "endpoint": "wp-content\/uploads\/wp-login.php",
@@ -11762,12 +11762,12 @@
     {
         "endpoint": "wp-includes\/images\/include.php",
         "method": "GET",
-        "occurences": 2
+        "occurences": 3
     },
     {
         "endpoint": "wp-includes\/widgets\/include.php",
         "method": "GET",
-        "occurences": 5
+        "occurences": 6
     },
     {
         "endpoint": "gzak2w.php",
@@ -12781,6 +12781,11 @@
     },
     {
         "endpoint": "inc\/me_but_safe.jpg",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "js\/plupload\/plupload.js",
         "method": "GET",
         "occurences": 1
     }
