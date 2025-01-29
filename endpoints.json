@@ -12,7 +12,7 @@
     {
         "endpoint": ".well-known\/discord",
         "method": "GET",
-        "occurences": 28
+        "occurences": 29
     },
     {
         "endpoint": "\/wordpress",
@@ -12821,6 +12821,11 @@
     },
     {
         "endpoint": "naamloos\/env",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "wp-content\/themes\/optimizepress\/lib\/admin\/media-upload.php",
         "method": "GET",
         "occurences": 1
     }
