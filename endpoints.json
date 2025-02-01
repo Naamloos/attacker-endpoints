@@ -2,7 +2,7 @@
     {
         "endpoint": "wp-admin",
         "method": "GET",
-        "occurences": 2
+        "occurences": 3
     },
     {
         "endpoint": "wp-login.php",
@@ -8497,7 +8497,7 @@
     {
         "endpoint": "keybase.txt",
         "method": "GET",
-        "occurences": 5
+        "occurences": 6
     },
     {
         "endpoint": "wp-includes\/ID3\/license.txt",
@@ -8822,7 +8822,7 @@
     {
         "endpoint": "sitemap.xml",
         "method": "GET",
-        "occurences": 5
+        "occurences": 6
     },
     {
         "endpoint": "style.php",
@@ -13571,6 +13571,11 @@
     },
     {
         "endpoint": "wp-content\/upgrade\/post.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "products.json",
         "method": "GET",
         "occurences": 1
     }
