@@ -12,7 +12,7 @@
     {
         "endpoint": ".well-known\/discord",
         "method": "GET",
-        "occurences": 35
+        "occurences": 36
     },
     {
         "endpoint": "\/wordpress",
@@ -5467,7 +5467,7 @@
     {
         "endpoint": ".env",
         "method": "GET",
-        "occurences": 80
+        "occurences": 82
     },
     {
         "endpoint": "wp-content",
@@ -5477,47 +5477,47 @@
     {
         "endpoint": "wordpress",
         "method": "HEAD",
-        "occurences": 47
+        "occurences": 49
     },
     {
         "endpoint": "wp",
         "method": "HEAD",
-        "occurences": 42
+        "occurences": 44
     },
     {
         "endpoint": "bc",
         "method": "HEAD",
-        "occurences": 41
+        "occurences": 43
     },
     {
         "endpoint": "bk",
         "method": "HEAD",
-        "occurences": 41
+        "occurences": 43
     },
     {
         "endpoint": "backup",
         "method": "HEAD",
-        "occurences": 41
+        "occurences": 43
     },
     {
         "endpoint": "old",
         "method": "HEAD",
-        "occurences": 41
+        "occurences": 43
     },
     {
         "endpoint": "new",
         "method": "HEAD",
-        "occurences": 41
+        "occurences": 43
     },
     {
         "endpoint": "main",
         "method": "HEAD",
-        "occurences": 41
+        "occurences": 43
     },
     {
         "endpoint": "home",
         "method": "HEAD",
-        "occurences": 41
+        "occurences": 43
     },
     {
         "endpoint": "go.php",
@@ -6107,12 +6107,12 @@
     {
         "endpoint": "wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 35
+        "occurences": 93
     },
     {
         "endpoint": "wordpress\/wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 17
+        "occurences": 81
     },
     {
         "endpoint": "wp-includes\/Text\/network.php",
@@ -8402,7 +8402,7 @@
     {
         "endpoint": ".git\/config",
         "method": "GET",
-        "occurences": 40
+        "occurences": 42
     },
     {
         "endpoint": "wordpress",
