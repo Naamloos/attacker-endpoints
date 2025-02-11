@@ -6107,12 +6107,12 @@
     {
         "endpoint": "wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 461
+        "occurences": 503
     },
     {
         "endpoint": "wordpress\/wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 463
+        "occurences": 509
     },
     {
         "endpoint": "wp-includes\/Text\/network.php",
@@ -9627,7 +9627,7 @@
     {
         "endpoint": "media\/system\/js\/core.js",
         "method": "GET",
-        "occurences": 19
+        "occurences": 20
     },
     {
         "endpoint": "admin\/elfinder\/php\/connector.minimal.php",
@@ -9652,7 +9652,7 @@
     {
         "endpoint": "wp-includes\/js\/jquery\/jquery.js",
         "method": "GET",
-        "occurences": 18
+        "occurences": 19
     },
     {
         "endpoint": "wp-content\/plugins\/litespeed-cache\/readme.txt",
@@ -9717,7 +9717,7 @@
     {
         "endpoint": ".vscode\/sftp.json",
         "method": "GET",
-        "occurences": 8
+        "occurences": 9
     },
     {
         "endpoint": "about",
@@ -9942,7 +9942,7 @@
     {
         "endpoint": "sftp-config.json",
         "method": "GET",
-        "occurences": 3
+        "occurences": 4
     },
     {
         "endpoint": ".env.base-distante",
@@ -14991,6 +14991,16 @@
     },
     {
         "endpoint": "wp-admin\/css\/colors\/blue\/blue.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "wp-content\/themes\/lightspeed\/framework\/_scripts\/valums_uploader\/php.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "wp-content\/plugins\/wp-file-upload\/readme.txt",
         "method": "GET",
         "occurences": 1
     }
