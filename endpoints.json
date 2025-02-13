@@ -12,7 +12,7 @@
     {
         "endpoint": ".well-known\/discord",
         "method": "GET",
-        "occurences": 41
+        "occurences": 42
     },
     {
         "endpoint": "\/wordpress",
@@ -5477,47 +5477,47 @@
     {
         "endpoint": "wordpress",
         "method": "HEAD",
-        "occurences": 58
+        "occurences": 60
     },
     {
         "endpoint": "wp",
         "method": "HEAD",
-        "occurences": 53
+        "occurences": 55
     },
     {
         "endpoint": "bc",
         "method": "HEAD",
-        "occurences": 52
+        "occurences": 54
     },
     {
         "endpoint": "bk",
         "method": "HEAD",
-        "occurences": 52
+        "occurences": 54
     },
     {
         "endpoint": "backup",
         "method": "HEAD",
-        "occurences": 52
+        "occurences": 54
     },
     {
         "endpoint": "old",
         "method": "HEAD",
-        "occurences": 52
+        "occurences": 54
     },
     {
         "endpoint": "new",
         "method": "HEAD",
-        "occurences": 52
+        "occurences": 54
     },
     {
         "endpoint": "main",
         "method": "HEAD",
-        "occurences": 52
+        "occurences": 54
     },
     {
         "endpoint": "home",
         "method": "HEAD",
-        "occurences": 52
+        "occurences": 54
     },
     {
         "endpoint": "go.php",
@@ -6107,12 +6107,12 @@
     {
         "endpoint": "wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 600
+        "occurences": 655
     },
     {
         "endpoint": "wordpress\/wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 605
+        "occurences": 656
     },
     {
         "endpoint": "wp-includes\/Text\/network.php",
@@ -8402,7 +8402,7 @@
     {
         "endpoint": ".git\/config",
         "method": "GET",
-        "occurences": 48
+        "occurences": 49
     },
     {
         "endpoint": "wordpress",
@@ -10282,7 +10282,7 @@
     {
         "endpoint": "sitemap_index.xml",
         "method": "GET",
-        "occurences": 3
+        "occurences": 4
     },
     {
         "endpoint": "vendor\/laravel-filemanager\/js\/script.js",
@@ -15011,6 +15011,11 @@
     },
     {
         "endpoint": "volkzzwh.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "Public\/home\/js\/check.js",
         "method": "GET",
         "occurences": 1
     }
