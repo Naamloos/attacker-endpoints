@@ -6042,7 +6042,7 @@
     {
         "endpoint": ".well-known\/security.txt",
         "method": "GET",
-        "occurences": 4
+        "occurences": 5
     },
     {
         "endpoint": "security.txt",
@@ -6107,12 +6107,12 @@
     {
         "endpoint": "wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 931
+        "occurences": 973
     },
     {
         "endpoint": "wordpress\/wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 920
+        "occurences": 963
     },
     {
         "endpoint": "wp-includes\/Text\/network.php",
@@ -9092,7 +9092,7 @@
     {
         "endpoint": "wp-content\/themes\/seotheme\/db.php",
         "method": "GET",
-        "occurences": 34
+        "occurences": 36
     },
     {
         "endpoint": "wp-content\/plugins\/seoplugins\/db.php",
@@ -9522,7 +9522,7 @@
     {
         "endpoint": "wp-content\/plugins\/fix\/up.php",
         "method": "GET",
-        "occurences": 11
+        "occurences": 12
     },
     {
         "endpoint": "zclxumig.php",
@@ -15017,7 +15017,7 @@
     {
         "endpoint": "Public\/home\/js\/check.js",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "wp-content\/themes\/nuance\/functions\/jwpanel\/scripts\/valums_uploader\/php.php",
@@ -15032,7 +15032,7 @@
     {
         "endpoint": "include\/obs.png",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "wp-content\/class-db.php",
@@ -15058,5 +15058,40 @@
         "endpoint": "wp-includes\/assets\/winnner.php",
         "method": "GET",
         "occurences": 1
+    },
+    {
+        "endpoint": "wp-content\/themes\/photocrati-theme\/admin\/scripts\/scripts-update.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "hukpnlmw.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "static\/admin\/javascript\/hetong.js",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "include\/chan.jpg",
+        "method": "GET",
+        "occurences": 2
+    },
+    {
+        "endpoint": "include\/dsp.png",
+        "method": "GET",
+        "occurences": 2
+    },
+    {
+        "endpoint": "include\/mcore.png",
+        "method": "GET",
+        "occurences": 2
+    },
+    {
+        "endpoint": "include\/rizumu.png",
+        "method": "GET",
+        "occurences": 2
     }
 ]
