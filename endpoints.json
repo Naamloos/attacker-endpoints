@@ -6107,12 +6107,12 @@
     {
         "endpoint": "wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 1024
+        "occurences": 1066
     },
     {
         "endpoint": "wordpress\/wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 1015
+        "occurences": 1061
     },
     {
         "endpoint": "wp-includes\/Text\/network.php",
@@ -6477,7 +6477,7 @@
     {
         "endpoint": "wp-content\/plugins\/index.php",
         "method": "GET",
-        "occurences": 22
+        "occurences": 23
     },
     {
         "endpoint": "wp-includes\/sitemaps\/providers\/about.php",
@@ -6572,7 +6572,7 @@
     {
         "endpoint": "index\/function.php",
         "method": "GET",
-        "occurences": 25
+        "occurences": 26
     },
     {
         "endpoint": "wp-content\/languages\/index.php",
@@ -7237,7 +7237,7 @@
     {
         "endpoint": "wp-includes\/fonts\/about.php",
         "method": "GET",
-        "occurences": 18
+        "occurences": 19
     },
     {
         "endpoint": "1.php",
@@ -7647,7 +7647,7 @@
     {
         "endpoint": "wp-admin\/network\/index.php",
         "method": "GET",
-        "occurences": 24
+        "occurences": 25
     },
     {
         "endpoint": ".well-known\/acme-challenge\/classwithtostring.php",
@@ -7837,7 +7837,7 @@
     {
         "endpoint": "wp-admin\/images\/index.php",
         "method": "GET",
-        "occurences": 46
+        "occurences": 47
     },
     {
         "endpoint": "wp-admin\/css\/colors\/coffee\/about.php",
@@ -8237,7 +8237,7 @@
     {
         "endpoint": "makeasmtp.php",
         "method": "GET",
-        "occurences": 24
+        "occurences": 26
     },
     {
         "endpoint": "wp-admin\/css\/colors\/blue\/lock.php",
@@ -8402,7 +8402,7 @@
     {
         "endpoint": ".git\/config",
         "method": "GET",
-        "occurences": 49
+        "occurences": 50
     },
     {
         "endpoint": "wordpress",
@@ -9462,17 +9462,17 @@
     {
         "endpoint": "wp-admin\/css\/makeasmtp.php",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "wp-admin\/js\/makeasmtp.php",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "wp-includes\/rest-api\/search\/makeasmtp.php",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "assets\/elfinder\/connectors\/php\/connector.php",
@@ -9482,12 +9482,12 @@
     {
         "endpoint": "links.php",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "wp-admin\/includes\/links.php",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "wp-content\/plugins\/super-interactive-maps\/sim-wp-admin\/pages\/manage-maps.php",
@@ -11897,7 +11897,7 @@
     {
         "endpoint": "wp-includes\/js\/jcrop\/Jcrop.php",
         "method": "GET",
-        "occurences": 5
+        "occurences": 7
     },
     {
         "endpoint": "a.php",
@@ -15093,5 +15093,30 @@
         "endpoint": "include\/rizumu.png",
         "method": "GET",
         "occurences": 2
+    },
+    {
+        "endpoint": "images\/images\/cache.php",
+        "method": "GET",
+        "occurences": 2
+    },
+    {
+        "endpoint": "wp-admin\/images\/links.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "wp-includes\/fonts\/links.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "wp-includes\/ID3\/links.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "wp-admin\/css\/colors\/ectoplasm\/links.php",
+        "method": "GET",
+        "occurences": 1
     }
 ]
