@@ -7,7 +7,7 @@
     {
         "endpoint": "wp-login.php",
         "method": "GET",
-        "occurences": 49
+        "occurences": 50
     },
     {
         "endpoint": ".well-known\/discord",
@@ -5467,7 +5467,7 @@
     {
         "endpoint": ".env",
         "method": "GET",
-        "occurences": 101
+        "occurences": 102
     },
     {
         "endpoint": "wp-content",
@@ -6107,12 +6107,12 @@
     {
         "endpoint": "wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 1386
+        "occurences": 1390
     },
     {
         "endpoint": "wordpress\/wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 1372
+        "occurences": 1375
     },
     {
         "endpoint": "wp-includes\/Text\/network.php",
@@ -9092,7 +9092,7 @@
     {
         "endpoint": "wp-content\/themes\/seotheme\/db.php",
         "method": "GET",
-        "occurences": 38
+        "occurences": 40
     },
     {
         "endpoint": "wp-content\/plugins\/seoplugins\/db.php",
@@ -9522,7 +9522,7 @@
     {
         "endpoint": "wp-content\/plugins\/fix\/up.php",
         "method": "GET",
-        "occurences": 12
+        "occurences": 13
     },
     {
         "endpoint": "zclxumig.php",
@@ -15276,6 +15276,11 @@
     },
     {
         "endpoint": "wp-content\/plugins\/essential-addons-for-elementor-lite\/readme.txt",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "ispqirno.php",
         "method": "GET",
         "occurences": 1
     }
