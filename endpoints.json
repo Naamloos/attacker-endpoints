@@ -12,7 +12,7 @@
     {
         "endpoint": ".well-known\/discord",
         "method": "GET",
-        "occurences": 46
+        "occurences": 47
     },
     {
         "endpoint": "\/wordpress",
@@ -5477,47 +5477,47 @@
     {
         "endpoint": "wordpress",
         "method": "HEAD",
-        "occurences": 70
+        "occurences": 71
     },
     {
         "endpoint": "wp",
         "method": "HEAD",
-        "occurences": 65
+        "occurences": 66
     },
     {
         "endpoint": "bc",
         "method": "HEAD",
-        "occurences": 64
+        "occurences": 65
     },
     {
         "endpoint": "bk",
         "method": "HEAD",
-        "occurences": 64
+        "occurences": 65
     },
     {
         "endpoint": "backup",
         "method": "HEAD",
-        "occurences": 64
+        "occurences": 65
     },
     {
         "endpoint": "old",
         "method": "HEAD",
-        "occurences": 64
+        "occurences": 65
     },
     {
         "endpoint": "new",
         "method": "HEAD",
-        "occurences": 64
+        "occurences": 65
     },
     {
         "endpoint": "main",
         "method": "HEAD",
-        "occurences": 64
+        "occurences": 65
     },
     {
         "endpoint": "home",
         "method": "HEAD",
-        "occurences": 64
+        "occurences": 65
     },
     {
         "endpoint": "go.php",
@@ -6107,12 +6107,12 @@
     {
         "endpoint": "wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 1390
+        "occurences": 1392
     },
     {
         "endpoint": "wordpress\/wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 1375
+        "occurences": 1377
     },
     {
         "endpoint": "wp-includes\/Text\/network.php",
@@ -9672,12 +9672,12 @@
     {
         "endpoint": "license.txt",
         "method": "GET",
-        "occurences": 3
+        "occurences": 4
     },
     {
         "endpoint": "wp-json",
         "method": "GET",
-        "occurences": 3
+        "occurences": 4
     },
     {
         "endpoint": "admin\/.env",
