@@ -8822,7 +8822,7 @@
     {
         "endpoint": "sitemap.xml",
         "method": "GET",
-        "occurences": 7
+        "occurences": 8
     },
     {
         "endpoint": "style.php",
@@ -15307,7 +15307,7 @@
     {
         "endpoint": "tempfuns.php",
         "method": "GET",
-        "occurences": 2
+        "occurences": 3
     },
     {
         "endpoint": "classfuns.php",
@@ -17036,6 +17036,16 @@
     },
     {
         "endpoint": "wp-content\/themes\/twentytwentythree\/patterns\/index.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "adminfuns.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "wp-content\/themes\/holding_pattern\/admin\/options-tab-sample.txt",
         "method": "GET",
         "occurences": 1
     }
