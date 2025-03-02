@@ -6002,7 +6002,7 @@
     {
         "endpoint": "ads.txt",
         "method": "GET",
-        "occurences": 11
+        "occurences": 12
     },
     {
         "endpoint": "app-ads.txt",
@@ -6107,12 +6107,12 @@
     {
         "endpoint": "wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 1417
+        "occurences": 1419
     },
     {
         "endpoint": "wordpress\/wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 1398
+        "occurences": 1400
     },
     {
         "endpoint": "wp-includes\/Text\/network.php",
@@ -6542,7 +6542,7 @@
     {
         "endpoint": "inputs.php",
         "method": "GET",
-        "occurences": 42
+        "occurences": 43
     },
     {
         "endpoint": "wp-includes\/block-supports\/about.php",
@@ -15297,12 +15297,12 @@
     {
         "endpoint": "thoms.php",
         "method": "GET",
-        "occurences": 3
+        "occurences": 4
     },
     {
         "endpoint": "userfuns.php",
         "method": "GET",
-        "occurences": 4
+        "occurences": 5
     },
     {
         "endpoint": "tempfuns.php",
@@ -17056,6 +17056,11 @@
     },
     {
         "endpoint": "wp-content\/themes\/satoshi\/styles\/functions.css",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "profiles.php",
         "method": "GET",
         "occurences": 1
     }
