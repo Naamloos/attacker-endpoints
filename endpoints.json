@@ -12,7 +12,7 @@
     {
         "endpoint": ".well-known\/discord",
         "method": "GET",
-        "occurences": 53
+        "occurences": 54
     },
     {
         "endpoint": "\/wordpress",
@@ -5467,7 +5467,7 @@
     {
         "endpoint": ".env",
         "method": "GET",
-        "occurences": 107
+        "occurences": 108
     },
     {
         "endpoint": "wp-content",
@@ -6002,32 +6002,32 @@
     {
         "endpoint": "ads.txt",
         "method": "GET",
-        "occurences": 10
+        "occurences": 11
     },
     {
         "endpoint": "app-ads.txt",
         "method": "GET",
-        "occurences": 4
+        "occurences": 5
     },
     {
         "endpoint": ".well-known\/apple-app-site-association",
         "method": "GET",
-        "occurences": 3
+        "occurences": 4
     },
     {
         "endpoint": "apple-app-site-association",
         "method": "GET",
-        "occurences": 3
+        "occurences": 4
     },
     {
         "endpoint": ".well-known\/assetlinks.json",
         "method": "GET",
-        "occurences": 4
+        "occurences": 5
     },
     {
         "endpoint": ".well-known\/gpc.json",
         "method": "GET",
-        "occurences": 4
+        "occurences": 5
     },
     {
         "endpoint": ".well-known\/nodeinfo",
@@ -6037,22 +6037,22 @@
     {
         "endpoint": ".well-known\/openid-configuration",
         "method": "GET",
-        "occurences": 3
+        "occurences": 4
     },
     {
         "endpoint": ".well-known\/security.txt",
         "method": "GET",
-        "occurences": 5
+        "occurences": 6
     },
     {
         "endpoint": "security.txt",
         "method": "GET",
-        "occurences": 4
+        "occurences": 5
     },
     {
         "endpoint": ".well-known\/trust.txt",
         "method": "GET",
-        "occurences": 4
+        "occurences": 5
     },
     {
         "endpoint": "trust.txt",
@@ -6107,12 +6107,12 @@
     {
         "endpoint": "wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 1415
+        "occurences": 1417
     },
     {
         "endpoint": "wordpress\/wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 1396
+        "occurences": 1398
     },
     {
         "endpoint": "wp-includes\/Text\/network.php",
@@ -6542,7 +6542,7 @@
     {
         "endpoint": "inputs.php",
         "method": "GET",
-        "occurences": 41
+        "occurences": 42
     },
     {
         "endpoint": "wp-includes\/block-supports\/about.php",
@@ -8402,7 +8402,7 @@
     {
         "endpoint": ".git\/config",
         "method": "GET",
-        "occurences": 59
+        "occurences": 60
     },
     {
         "endpoint": "wordpress",
@@ -12327,7 +12327,7 @@
     {
         "endpoint": "termps.php",
         "method": "GET",
-        "occurences": 7
+        "occurences": 8
     },
     {
         "endpoint": "sck.php",
@@ -15297,22 +15297,22 @@
     {
         "endpoint": "thoms.php",
         "method": "GET",
-        "occurences": 2
+        "occurences": 3
     },
     {
         "endpoint": "userfuns.php",
         "method": "GET",
-        "occurences": 3
+        "occurences": 4
     },
     {
         "endpoint": "tempfuns.php",
         "method": "GET",
-        "occurences": 3
+        "occurences": 4
     },
     {
         "endpoint": "classfuns.php",
         "method": "GET",
-        "occurences": 2
+        "occurences": 3
     },
     {
         "endpoint": "wp-content\/themes\/purevision\/scripts\/admin\/uploadify\/uploadify.css",
@@ -17051,6 +17051,11 @@
     },
     {
         "endpoint": "rbottuxp.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "wp-content\/themes\/satoshi\/styles\/functions.css",
         "method": "GET",
         "occurences": 1
     }
