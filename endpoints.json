@@ -12,7 +12,7 @@
     {
         "endpoint": ".well-known\/discord",
         "method": "GET",
-        "occurences": 54
+        "occurences": 55
     },
     {
         "endpoint": "\/wordpress",
@@ -5467,7 +5467,7 @@
     {
         "endpoint": ".env",
         "method": "GET",
-        "occurences": 109
+        "occurences": 110
     },
     {
         "endpoint": "wp-content",
@@ -5992,7 +5992,7 @@
     {
         "endpoint": "index.html",
         "method": "GET",
-        "occurences": 13
+        "occurences": 14
     },
     {
         "endpoint": "a.js",
@@ -17066,6 +17066,36 @@
     },
     {
         "endpoint": "mlpbxpdq.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "feeds\/posts\/default",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "feed\/atom",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "rss\/artykuly",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "rss.xml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "wp-content\/themes\/theagency\/includes\/uploadify\/upload.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "elmah.axd",
         "method": "GET",
         "occurences": 1
     }
