@@ -5467,7 +5467,7 @@
     {
         "endpoint": ".env",
         "method": "GET",
-        "occurences": 123
+        "occurences": 125
     },
     {
         "endpoint": "wp-content",
@@ -5992,7 +5992,7 @@
     {
         "endpoint": "index.html",
         "method": "GET",
-        "occurences": 15
+        "occurences": 16
     },
     {
         "endpoint": "a.js",
@@ -6252,7 +6252,7 @@
     {
         "endpoint": "info.php",
         "method": "GET",
-        "occurences": 30
+        "occurences": 31
     },
     {
         "endpoint": "wp-includes\/assets\/about.php",
@@ -8402,7 +8402,7 @@
     {
         "endpoint": ".git\/config",
         "method": "GET",
-        "occurences": 64
+        "occurences": 68
     },
     {
         "endpoint": "wordpress",
@@ -9707,62 +9707,62 @@
     {
         "endpoint": "actuator\/env",
         "method": "GET",
-        "occurences": 11
+        "occurences": 12
     },
     {
         "endpoint": "server",
         "method": "GET",
-        "occurences": 2
+        "occurences": 3
     },
     {
         "endpoint": ".vscode\/sftp.json",
         "method": "GET",
-        "occurences": 12
+        "occurences": 13
     },
     {
         "endpoint": "about",
         "method": "GET",
-        "occurences": 2
+        "occurences": 3
     },
     {
         "endpoint": "debug\/default\/view",
         "method": "GET",
-        "occurences": 2
+        "occurences": 3
     },
     {
         "endpoint": "v2\/_catalog",
         "method": "GET",
-        "occurences": 2
+        "occurences": 3
     },
     {
         "endpoint": "ecp\/Current\/exporttool\/microsoft.exchange.ediscovery.exporttool.application",
         "method": "GET",
-        "occurences": 2
+        "occurences": 3
     },
     {
         "endpoint": "login.action",
         "method": "GET",
-        "occurences": 2
+        "occurences": 3
     },
     {
         "endpoint": "_all_dbs",
         "method": "GET",
-        "occurences": 2
+        "occurences": 3
     },
     {
         "endpoint": ".DS_Store",
         "method": "GET",
-        "occurences": 2
+        "occurences": 3
     },
     {
         "endpoint": "s\/33e27393e2431313e2838313\/_\/;\/META-INF\/maven\/com.atlassian.jira\/jira-webapp-dist\/pom.properties",
         "method": "GET",
-        "occurences": 2
+        "occurences": 3
     },
     {
         "endpoint": "config.json",
         "method": "GET",
-        "occurences": 5
+        "occurences": 6
     },
     {
         "endpoint": "adminer-3.0.1-mysql.php",
@@ -17476,6 +17476,21 @@
     },
     {
         "endpoint": "admin\/editor3\/src\/elrte.src.html",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "assets\/plugins\/plugins\/elrte\/src\/elrte.src.html",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "public\/assets\/plugins\/plugins\/elrte\/src\/elrte.src.html",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "assets\/global\/plugins\/plugins\/elrte\/src\/elrte.src.html",
         "method": "GET",
         "occurences": 1
     }
