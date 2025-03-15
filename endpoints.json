@@ -12,7 +12,7 @@
     {
         "endpoint": ".well-known\/discord",
         "method": "GET",
-        "occurences": 60
+        "occurences": 61
     },
     {
         "endpoint": "\/wordpress",
@@ -8402,7 +8402,7 @@
     {
         "endpoint": ".git\/config",
         "method": "GET",
-        "occurences": 76
+        "occurences": 77
     },
     {
         "endpoint": "wordpress",
@@ -9267,7 +9267,7 @@
     {
         "endpoint": ".aws\/credentials",
         "method": "GET",
-        "occurences": 16
+        "occurences": 17
     },
     {
         "endpoint": "adminer-3.3.1-mysql-en.php",
@@ -10177,7 +10177,7 @@
     {
         "endpoint": "vendor\/phpunit\/phpunit\/src\/Util\/PHP",
         "method": "GET",
-        "occurences": 4
+        "occurences": 5
     },
     {
         "endpoint": "wp-content\/uploads",
@@ -18222,7 +18222,7 @@
     {
         "endpoint": "assets\/admin\/plugins\/elrte\/src\/elrte.src.html",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "xbeqoecb.php",
@@ -18371,6 +18371,11 @@
     },
     {
         "endpoint": "public\/assets\/global\/plugins\/elrte\/src\/elrte.src.html",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "sites\/all\/libraries\/plupload\/examples\/upload.php",
         "method": "GET",
         "occurences": 1
     }
