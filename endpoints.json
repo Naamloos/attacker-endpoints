@@ -5467,7 +5467,7 @@
     {
         "endpoint": ".env",
         "method": "GET",
-        "occurences": 133
+        "occurences": 134
     },
     {
         "endpoint": "wp-content",
@@ -5477,47 +5477,47 @@
     {
         "endpoint": "wordpress",
         "method": "HEAD",
-        "occurences": 86
+        "occurences": 87
     },
     {
         "endpoint": "wp",
         "method": "HEAD",
-        "occurences": 81
+        "occurences": 82
     },
     {
         "endpoint": "bc",
         "method": "HEAD",
-        "occurences": 80
+        "occurences": 81
     },
     {
         "endpoint": "bk",
         "method": "HEAD",
-        "occurences": 80
+        "occurences": 81
     },
     {
         "endpoint": "backup",
         "method": "HEAD",
-        "occurences": 80
+        "occurences": 81
     },
     {
         "endpoint": "old",
         "method": "HEAD",
-        "occurences": 80
+        "occurences": 81
     },
     {
         "endpoint": "new",
         "method": "HEAD",
-        "occurences": 80
+        "occurences": 81
     },
     {
         "endpoint": "main",
         "method": "HEAD",
-        "occurences": 80
+        "occurences": 81
     },
     {
         "endpoint": "home",
         "method": "HEAD",
-        "occurences": 80
+        "occurences": 81
     },
     {
         "endpoint": "go.php",
@@ -8402,7 +8402,7 @@
     {
         "endpoint": ".git\/config",
         "method": "GET",
-        "occurences": 75
+        "occurences": 76
     },
     {
         "endpoint": "wordpress",
@@ -8507,27 +8507,27 @@
     {
         "endpoint": "xmlrpc.php",
         "method": "GET",
-        "occurences": 51
+        "occurences": 52
     },
     {
         "endpoint": "blog\/wp-includes\/wlwmanifest.xml",
         "method": "GET",
-        "occurences": 22
+        "occurences": 23
     },
     {
         "endpoint": "web\/wp-includes\/wlwmanifest.xml",
         "method": "GET",
-        "occurences": 21
+        "occurences": 22
     },
     {
         "endpoint": "wordpress\/wp-includes\/wlwmanifest.xml",
         "method": "GET",
-        "occurences": 21
+        "occurences": 22
     },
     {
         "endpoint": "wp\/wp-includes\/wlwmanifest.xml",
         "method": "GET",
-        "occurences": 21
+        "occurences": 22
     },
     {
         "endpoint": "2020\/wp-includes\/wlwmanifest.xml",
@@ -8537,7 +8537,7 @@
     {
         "endpoint": "2019\/wp-includes\/wlwmanifest.xml",
         "method": "GET",
-        "occurences": 21
+        "occurences": 22
     },
     {
         "endpoint": "2021\/wp-includes\/wlwmanifest.xml",
@@ -8547,27 +8547,27 @@
     {
         "endpoint": "shop\/wp-includes\/wlwmanifest.xml",
         "method": "GET",
-        "occurences": 21
+        "occurences": 22
     },
     {
         "endpoint": "wp1\/wp-includes\/wlwmanifest.xml",
         "method": "GET",
-        "occurences": 21
+        "occurences": 22
     },
     {
         "endpoint": "test\/wp-includes\/wlwmanifest.xml",
         "method": "GET",
-        "occurences": 21
+        "occurences": 22
     },
     {
         "endpoint": "site\/wp-includes\/wlwmanifest.xml",
         "method": "GET",
-        "occurences": 21
+        "occurences": 22
     },
     {
         "endpoint": "cms\/wp-includes\/wlwmanifest.xml",
         "method": "GET",
-        "occurences": 21
+        "occurences": 22
     },
     {
         "endpoint": "bypass.php",
@@ -8827,7 +8827,7 @@
     {
         "endpoint": "style.php",
         "method": "GET",
-        "occurences": 21
+        "occurences": 22
     },
     {
         "endpoint": "wp-content\/plugins\/hellopress\/wp_filemanager.php",
@@ -9267,7 +9267,7 @@
     {
         "endpoint": ".aws\/credentials",
         "method": "GET",
-        "occurences": 15
+        "occurences": 16
     },
     {
         "endpoint": "adminer-3.3.1-mysql-en.php",
@@ -9567,37 +9567,37 @@
     {
         "endpoint": "wp-includes\/wlwmanifest.xml",
         "method": "GET",
-        "occurences": 8
+        "occurences": 9
     },
     {
         "endpoint": "website\/wp-includes\/wlwmanifest.xml",
         "method": "GET",
-        "occurences": 9
+        "occurences": 10
     },
     {
         "endpoint": "news\/wp-includes\/wlwmanifest.xml",
         "method": "GET",
-        "occurences": 8
+        "occurences": 9
     },
     {
         "endpoint": "2018\/wp-includes\/wlwmanifest.xml",
         "method": "GET",
-        "occurences": 8
+        "occurences": 9
     },
     {
         "endpoint": "media\/wp-includes\/wlwmanifest.xml",
         "method": "GET",
-        "occurences": 8
+        "occurences": 9
     },
     {
         "endpoint": "wp2\/wp-includes\/wlwmanifest.xml",
         "method": "GET",
-        "occurences": 9
+        "occurences": 10
     },
     {
         "endpoint": "sito\/wp-includes\/wlwmanifest.xml",
         "method": "GET",
-        "occurences": 8
+        "occurences": 9
     },
     {
         "endpoint": "wp-content\/plugins\/superstorefinder-wp\/css\/ssf-wp-pop.css",
@@ -9672,12 +9672,12 @@
     {
         "endpoint": "license.txt",
         "method": "GET",
-        "occurences": 5
+        "occurences": 6
     },
     {
         "endpoint": "wp-json",
         "method": "GET",
-        "occurences": 5
+        "occurences": 6
     },
     {
         "endpoint": "admin\/.env",
@@ -9982,7 +9982,7 @@
     {
         "endpoint": "backend\/.env",
         "method": "GET",
-        "occurences": 4
+        "occurences": 5
     },
     {
         "endpoint": ".env.development",
@@ -18351,6 +18351,26 @@
     },
     {
         "endpoint": "naamloos.dev.sql",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "assets\/admin\/global\/plugins\/elrte\/src\/elrte.src.html",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "assets\/js\/plugins\/elrte\/src\/elrte.src.html",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "public\/admin\/assets\/plugins\/elrte\/src\/elrte.src.html",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "public\/assets\/global\/plugins\/elrte\/src\/elrte.src.html",
         "method": "GET",
         "occurences": 1
     }
