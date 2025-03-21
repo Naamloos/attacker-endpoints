@@ -12,7 +12,7 @@
     {
         "endpoint": ".well-known\/discord",
         "method": "GET",
-        "occurences": 65
+        "occurences": 66
     },
     {
         "endpoint": "\/wordpress",
@@ -5477,47 +5477,47 @@
     {
         "endpoint": "wordpress",
         "method": "HEAD",
-        "occurences": 106
+        "occurences": 109
     },
     {
         "endpoint": "wp",
         "method": "HEAD",
-        "occurences": 101
+        "occurences": 104
     },
     {
         "endpoint": "bc",
         "method": "HEAD",
-        "occurences": 100
+        "occurences": 103
     },
     {
         "endpoint": "bk",
         "method": "HEAD",
-        "occurences": 100
+        "occurences": 103
     },
     {
         "endpoint": "backup",
         "method": "HEAD",
-        "occurences": 100
+        "occurences": 103
     },
     {
         "endpoint": "old",
         "method": "HEAD",
-        "occurences": 100
+        "occurences": 103
     },
     {
         "endpoint": "new",
         "method": "HEAD",
-        "occurences": 100
+        "occurences": 103
     },
     {
         "endpoint": "main",
         "method": "HEAD",
-        "occurences": 100
+        "occurences": 103
     },
     {
         "endpoint": "home",
         "method": "HEAD",
-        "occurences": 100
+        "occurences": 103
     },
     {
         "endpoint": "go.php",
@@ -6542,7 +6542,7 @@
     {
         "endpoint": "inputs.php",
         "method": "GET",
-        "occurences": 81
+        "occurences": 83
     },
     {
         "endpoint": "wp-includes\/block-supports\/about.php",
@@ -8402,7 +8402,7 @@
     {
         "endpoint": ".git\/config",
         "method": "GET",
-        "occurences": 79
+        "occurences": 80
     },
     {
         "endpoint": "wordpress",
@@ -12327,7 +12327,7 @@
     {
         "endpoint": "termps.php",
         "method": "GET",
-        "occurences": 16
+        "occurences": 18
     },
     {
         "endpoint": "sck.php",
@@ -15297,17 +15297,17 @@
     {
         "endpoint": "thoms.php",
         "method": "GET",
-        "occurences": 14
+        "occurences": 16
     },
     {
         "endpoint": "userfuns.php",
         "method": "GET",
-        "occurences": 14
+        "occurences": 16
     },
     {
         "endpoint": "tempfuns.php",
         "method": "GET",
-        "occurences": 11
+        "occurences": 13
     },
     {
         "endpoint": "classfuns.php",
@@ -19241,6 +19241,11 @@
     },
     {
         "endpoint": "public\/assets\/elrte\/src\/elrte.src.html",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "elrte\/src\/elrte.src.html",
         "method": "GET",
         "occurences": 1
     }
