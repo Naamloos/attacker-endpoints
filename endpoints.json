@@ -7,7 +7,7 @@
     {
         "endpoint": "wp-login.php",
         "method": "GET",
-        "occurences": 113
+        "occurences": 114
     },
     {
         "endpoint": ".well-known\/discord",
@@ -5477,47 +5477,47 @@
     {
         "endpoint": "wordpress",
         "method": "HEAD",
-        "occurences": 123
+        "occurences": 124
     },
     {
         "endpoint": "wp",
         "method": "HEAD",
-        "occurences": 118
+        "occurences": 119
     },
     {
         "endpoint": "bc",
         "method": "HEAD",
-        "occurences": 117
+        "occurences": 118
     },
     {
         "endpoint": "bk",
         "method": "HEAD",
-        "occurences": 117
+        "occurences": 118
     },
     {
         "endpoint": "backup",
         "method": "HEAD",
-        "occurences": 117
+        "occurences": 118
     },
     {
         "endpoint": "old",
         "method": "HEAD",
-        "occurences": 117
+        "occurences": 118
     },
     {
         "endpoint": "new",
         "method": "HEAD",
-        "occurences": 117
+        "occurences": 118
     },
     {
         "endpoint": "main",
         "method": "HEAD",
-        "occurences": 117
+        "occurences": 118
     },
     {
         "endpoint": "home",
         "method": "HEAD",
-        "occurences": 117
+        "occurences": 118
     },
     {
         "endpoint": "go.php",
@@ -5992,7 +5992,7 @@
     {
         "endpoint": "index.html",
         "method": "GET",
-        "occurences": 19
+        "occurences": 20
     },
     {
         "endpoint": "a.js",
@@ -6102,17 +6102,17 @@
     {
         "endpoint": "_profiler\/phpinfo",
         "method": "GET",
-        "occurences": 19
+        "occurences": 20
     },
     {
         "endpoint": "wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 1847
+        "occurences": 1884
     },
     {
         "endpoint": "wordpress\/wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 1790
+        "occurences": 1826
     },
     {
         "endpoint": "wp-includes\/Text\/network.php",
@@ -6252,7 +6252,7 @@
     {
         "endpoint": "info.php",
         "method": "GET",
-        "occurences": 74
+        "occurences": 75
     },
     {
         "endpoint": "wp-includes\/assets\/about.php",
@@ -10172,7 +10172,7 @@
     {
         "endpoint": "app\/.git\/config",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "vendor\/phpunit\/phpunit\/src\/Util\/PHP",
@@ -11312,7 +11312,7 @@
     {
         "endpoint": "phpinfo",
         "method": "GET",
-        "occurences": 11
+        "occurences": 12
     },
     {
         "endpoint": ".env.prod",
@@ -15907,12 +15907,12 @@
     {
         "endpoint": "i.php",
         "method": "GET",
-        "occurences": 8
+        "occurences": 9
     },
     {
         "endpoint": "p.php",
         "method": "GET",
-        "occurences": 6
+        "occurences": 7
     },
     {
         "endpoint": "q.php",
@@ -24781,6 +24781,111 @@
     },
     {
         "endpoint": "bash.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "admin\/assets\/jquery-file-upload\/server\/php\/index.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "src\/.git\/config",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "old\/.git\/config",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "admin\/.git\/config",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "frontend\/.git\/config",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "source\/.git\/config",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "backend\/.git\/config",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "logs\/.git\/config",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "public\/.git\/config",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "sandbox\/.git\/config",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "dist\/.git\/config",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "panel\/.git\/config",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "test\/.git\/config",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "static..\/.git\/config",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "docs\/.git\/config",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "dev\/.git\/config",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "www\/.git\/config",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "wp-content\/.git\/config",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "staging\/.git\/config",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "plugins\/.git\/config",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "core\/.git\/config",
         "method": "GET",
         "occurences": 1
     }
