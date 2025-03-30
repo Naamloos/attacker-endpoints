@@ -12,7 +12,7 @@
     {
         "endpoint": ".well-known\/discord",
         "method": "GET",
-        "occurences": 72
+        "occurences": 73
     },
     {
         "endpoint": "\/wordpress",
@@ -5467,57 +5467,57 @@
     {
         "endpoint": ".env",
         "method": "GET",
-        "occurences": 161
+        "occurences": 162
     },
     {
         "endpoint": "wp-content",
         "method": "GET",
-        "occurences": 17
+        "occurences": 18
     },
     {
         "endpoint": "wordpress",
         "method": "HEAD",
-        "occurences": 124
+        "occurences": 125
     },
     {
         "endpoint": "wp",
         "method": "HEAD",
-        "occurences": 119
+        "occurences": 120
     },
     {
         "endpoint": "bc",
         "method": "HEAD",
-        "occurences": 118
+        "occurences": 119
     },
     {
         "endpoint": "bk",
         "method": "HEAD",
-        "occurences": 118
+        "occurences": 119
     },
     {
         "endpoint": "backup",
         "method": "HEAD",
-        "occurences": 118
+        "occurences": 119
     },
     {
         "endpoint": "old",
         "method": "HEAD",
-        "occurences": 118
+        "occurences": 119
     },
     {
         "endpoint": "new",
         "method": "HEAD",
-        "occurences": 118
+        "occurences": 119
     },
     {
         "endpoint": "main",
         "method": "HEAD",
-        "occurences": 118
+        "occurences": 119
     },
     {
         "endpoint": "home",
         "method": "HEAD",
-        "occurences": 118
+        "occurences": 119
     },
     {
         "endpoint": "go.php",
@@ -5612,7 +5612,7 @@
     {
         "endpoint": "shell.php",
         "method": "GET",
-        "occurences": 93
+        "occurences": 95
     },
     {
         "endpoint": "access.php",
@@ -5857,7 +5857,7 @@
     {
         "endpoint": "phpinfo.php",
         "method": "GET",
-        "occurences": 30
+        "occurences": 32
     },
     {
         "endpoint": "chosen.php",
@@ -6002,7 +6002,7 @@
     {
         "endpoint": "ads.txt",
         "method": "GET",
-        "occurences": 19
+        "occurences": 20
     },
     {
         "endpoint": "app-ads.txt",
@@ -6042,7 +6042,7 @@
     {
         "endpoint": ".well-known\/security.txt",
         "method": "GET",
-        "occurences": 13
+        "occurences": 15
     },
     {
         "endpoint": "security.txt",
@@ -6102,17 +6102,17 @@
     {
         "endpoint": "_profiler\/phpinfo",
         "method": "GET",
-        "occurences": 20
+        "occurences": 22
     },
     {
         "endpoint": "wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 1884
+        "occurences": 1936
     },
     {
         "endpoint": "wordpress\/wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 1826
+        "occurences": 1873
     },
     {
         "endpoint": "wp-includes\/Text\/network.php",
@@ -6177,7 +6177,7 @@
     {
         "endpoint": "wp-content\/themes\/include.php",
         "method": "GET",
-        "occurences": 66
+        "occurences": 67
     },
     {
         "endpoint": "wp-admin\/network\/about.php",
@@ -6252,7 +6252,7 @@
     {
         "endpoint": "info.php",
         "method": "GET",
-        "occurences": 75
+        "occurences": 76
     },
     {
         "endpoint": "wp-includes\/assets\/about.php",
@@ -6262,7 +6262,7 @@
     {
         "endpoint": "test.php",
         "method": "GET",
-        "occurences": 83
+        "occurences": 86
     },
     {
         "endpoint": "wp-admin\/css\/colors\/ectoplasm\/wp-login.php",
@@ -8402,7 +8402,7 @@
     {
         "endpoint": ".git\/config",
         "method": "GET",
-        "occurences": 89
+        "occurences": 93
     },
     {
         "endpoint": "wordpress",
@@ -8437,7 +8437,7 @@
     {
         "endpoint": "test",
         "method": "GET",
-        "occurences": 16
+        "occurences": 18
     },
     {
         "endpoint": "main",
@@ -8787,7 +8787,7 @@
     {
         "endpoint": "backup.zip",
         "method": "GET",
-        "occurences": 10
+        "occurences": 11
     },
     {
         "endpoint": "administrator.zip",
@@ -8802,7 +8802,7 @@
     {
         "endpoint": "dump.sql",
         "method": "GET",
-        "occurences": 11
+        "occurences": 15
     },
     {
         "endpoint": "assets\/admin\/plugins\/elfinder\/connectors\/php\/connector.php",
@@ -8822,7 +8822,7 @@
     {
         "endpoint": "sitemap.xml",
         "method": "GET",
-        "occurences": 8
+        "occurences": 9
     },
     {
         "endpoint": "style.php",
@@ -9202,7 +9202,7 @@
     {
         "endpoint": ".aws\/config",
         "method": "GET",
-        "occurences": 3
+        "occurences": 5
     },
     {
         "endpoint": "secrets.json",
@@ -9232,7 +9232,7 @@
     {
         "endpoint": "smtp.json",
         "method": "GET",
-        "occurences": 3
+        "occurences": 5
     },
     {
         "endpoint": ".ssh\/id_rsa",
@@ -9247,7 +9247,7 @@
     {
         "endpoint": ".env.production",
         "method": "GET",
-        "occurences": 12
+        "occurences": 14
     },
     {
         "endpoint": "s3cmd.ini",
@@ -9262,12 +9262,12 @@
     {
         "endpoint": "wp-content\/plugins\/WordPressCore\/include.php",
         "method": "GET",
-        "occurences": 34
+        "occurences": 35
     },
     {
         "endpoint": ".aws\/credentials",
         "method": "GET",
-        "occurences": 25
+        "occurences": 27
     },
     {
         "endpoint": "adminer-3.3.1-mysql-en.php",
@@ -9682,7 +9682,7 @@
     {
         "endpoint": "admin\/.env",
         "method": "GET",
-        "occurences": 9
+        "occurences": 11
     },
     {
         "endpoint": "wp-content\/plugins\/superlogoshowcase-wp\/sls-wp-admin\/pages\/exportAjax.php",
@@ -9792,12 +9792,12 @@
     {
         "endpoint": ".git\/HEAD",
         "method": "GET",
-        "occurences": 7
+        "occurences": 9
     },
     {
         "endpoint": "database.sql",
         "method": "GET",
-        "occurences": 9
+        "occurences": 13
     },
     {
         "endpoint": "_vti_pvt\/service.pwd",
@@ -9832,7 +9832,7 @@
     {
         "endpoint": "backup.sql",
         "method": "GET",
-        "occurences": 7
+        "occurences": 9
     },
     {
         "endpoint": "feed",
@@ -9847,7 +9847,7 @@
     {
         "endpoint": "docker-compose.yml",
         "method": "GET",
-        "occurences": 7
+        "occurences": 9
     },
     {
         "endpoint": ".ssh\/id_ed25519",
@@ -9857,7 +9857,7 @@
     {
         "endpoint": "backup.tar.gz",
         "method": "GET",
-        "occurences": 7
+        "occurences": 9
     },
     {
         "endpoint": "_vti_pvt\/authors.pwd",
@@ -9897,7 +9897,7 @@
     {
         "endpoint": "api\/.env",
         "method": "GET",
-        "occurences": 16
+        "occurences": 18
     },
     {
         "endpoint": ".svn\/wc.db",
@@ -9962,17 +9962,17 @@
     {
         "endpoint": "backup\/.env",
         "method": "GET",
-        "occurences": 4
+        "occurences": 6
     },
     {
         "endpoint": "old\/.env",
         "method": "GET",
-        "occurences": 6
+        "occurences": 8
     },
     {
         "endpoint": "laravel\/.env",
         "method": "GET",
-        "occurences": 7
+        "occurences": 9
     },
     {
         "endpoint": ".env.save",
@@ -9982,7 +9982,7 @@
     {
         "endpoint": "backend\/.env",
         "method": "GET",
-        "occurences": 7
+        "occurences": 9
     },
     {
         "endpoint": ".env.development",
@@ -10032,12 +10032,12 @@
     {
         "endpoint": "app\/.env",
         "method": "GET",
-        "occurences": 7
+        "occurences": 9
     },
     {
         "endpoint": "public\/.env",
         "method": "GET",
-        "occurences": 6
+        "occurences": 8
     },
     {
         "endpoint": "plugins\/elfinder\/php\/connector.php",
@@ -10147,7 +10147,7 @@
     {
         "endpoint": "dev\/.env",
         "method": "GET",
-        "occurences": 4
+        "occurences": 6
     },
     {
         "endpoint": "admin\/view\/javascript\/common.js",
@@ -11317,7 +11317,7 @@
     {
         "endpoint": ".env.prod",
         "method": "GET",
-        "occurences": 3
+        "occurences": 5
     },
     {
         "endpoint": "login\/.env",
@@ -11392,12 +11392,12 @@
     {
         "endpoint": "config\/.env",
         "method": "GET",
-        "occurences": 5
+        "occurences": 7
     },
     {
         "endpoint": ".env.local",
         "method": "GET",
-        "occurences": 4
+        "occurences": 6
     },
     {
         "endpoint": "api\/shared\/config\/config.env",
@@ -15127,12 +15127,12 @@
     {
         "endpoint": "config.js",
         "method": "GET",
-        "occurences": 3
+        "occurences": 5
     },
     {
         "endpoint": "symfony\/.env",
         "method": "GET",
-        "occurences": 4
+        "occurences": 6
     },
     {
         "endpoint": "django\/.env",
@@ -15452,7 +15452,7 @@
     {
         "endpoint": "core\/.env",
         "method": "GET",
-        "occurences": 3
+        "occurences": 5
     },
     {
         "endpoint": "wp-content\/plugins\/yyobang\/mar.php",
@@ -17462,7 +17462,7 @@
     {
         "endpoint": "admin\/phpinfo.php",
         "method": "GET",
-        "occurences": 7
+        "occurences": 9
     },
     {
         "endpoint": "www.naamloos.sql",
@@ -18297,7 +18297,7 @@
     {
         "endpoint": "vendor\/.env",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "home\/user\/.aws\/credentials",
@@ -18332,7 +18332,7 @@
     {
         "endpoint": "config\/settings.json",
         "method": "GET",
-        "occurences": 3
+        "occurences": 5
     },
     {
         "endpoint": "config.py",
@@ -20982,7 +20982,7 @@
     {
         "endpoint": "sitemap",
         "method": "GET",
-        "occurences": 2
+        "occurences": 3
     },
     {
         "endpoint": "wp-content\/berlin.php",
@@ -21597,7 +21597,7 @@
     {
         "endpoint": "debug.php",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "superadmin.php",
@@ -22402,2387 +22402,2387 @@
     {
         "endpoint": ".env.dev",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".env.backup",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "config\/config.env",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "config\/settings.env",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "settings.env",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "private\/.env",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "hidden\/.env",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "secret\/.env",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "data\/.env",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/credentials.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/ses.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws_secrets.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws_smtp.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "ses\/keys.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "ses.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws_keys.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "config\/smtp.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "email.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "email\/smtp_config.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "email\/credentials.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "hidden\/aws_keys.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "private\/aws.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "private\/smtp.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "hidden\/.aws\/credentials",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "hidden\/.aws\/config",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "config\/aws_keys.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "data\/aws\/credentials",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "secrets\/aws.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "private\/aws_credentials.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".git\/logs\/HEAD",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".gitignore",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".gitmodules",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".git\/refs\/heads\/main",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".git\/refs\/heads\/master",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".git\/refs\/remotes\/origin\/main",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".git\/refs\/remotes\/origin\/master",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".git\/index",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".git\/info\/exclude",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "config\/config.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "config\/parameters.yml",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "config\/config.yml",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "config\/parameters.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "config\/dev.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "storage\/oauth-private.key",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "storage\/oauth-public.key",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "wordpress\/.env",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "db.sql",
         "method": "GET",
-        "occurences": 4
+        "occurences": 8
     },
     {
         "endpoint": "dump.tar.gz",
         "method": "GET",
-        "occurences": 4
+        "occurences": 8
     },
     {
         "endpoint": "old\/config.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "backups\/.env",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "db\/.env",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "debug.log",
         "method": "GET",
-        "occurences": 2
+        "occurences": 3
     },
     {
         "endpoint": "error.log",
         "method": "GET",
-        "occurences": 2
+        "occurences": 3
     },
     {
         "endpoint": "logs\/debug.log",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "logs\/error.log",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "tmp\/error.log",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "test\/.env",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws_secret.txt",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws_credentials.txt",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/config.ini",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/ses_smtp.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 3
     },
     {
         "endpoint": "aws\/keys_backup.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 3
     },
     {
         "endpoint": "aws\/env_vars.txt",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/.env.ses",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/.env.prod",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "smtp\/keys.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "smtp\/private.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "smtp\/backup.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "smtp.env",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "id_rsa",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "id_rsa.pub",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "ssh\/id_rsa",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "ssh\/id_rsa.pub",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "keys\/private.pem",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "keys\/public.pem",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "ssl\/private.key",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "ssl\/cert.pem",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "certs\/fullchain.pem",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "certs\/privkey.pem",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "secrets\/secret.key",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "config\/.htpasswd",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "config\/.htaccess",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "docker-compose.override.yml",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "docker\/.env",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "kubernetes\/.env",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "k8s\/.env",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "vault\/.env",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "terraform\/.env",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "ansible\/.env",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".circleci\/config.yml",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".travis.yml",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".github\/workflows\/deploy.yml",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".github\/workflows\/build.yml",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "azure-pipelines.yml",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "gitlab-ci.yml",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "jenkins.yml",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "api\/graphql",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "graphql",
         "method": "GET",
-        "occurences": 8
+        "occurences": 16
     },
     {
         "endpoint": "graphql\/api",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "graphql\/query",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "admin\/graphql",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "admin\/api\/graphql",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "admin\/graphql\/explore",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "graphql-explorer",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "graphiql",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "graphql\/console",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "graphql\/playground",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "graphql\/dev",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "graphql\/test",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "admin\/test",
         "method": "GET",
-        "occurences": 4
+        "occurences": 8
     },
     {
         "endpoint": "admin\/debug",
         "method": "GET",
-        "occurences": 4
+        "occurences": 8
     },
     {
         "endpoint": "admin\/debug.php",
         "method": "GET",
-        "occurences": 3
+        "occurences": 7
     },
     {
         "endpoint": "admin\/test.php",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "admin\/secret",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "api\/debug",
         "method": "GET",
-        "occurences": 5
+        "occurences": 11
     },
     {
         "endpoint": "api\/debug.php",
         "method": "GET",
-        "occurences": 3
+        "occurences": 7
     },
     {
         "endpoint": "api\/test",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "api\/test.php",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "api\/token",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "api\/token.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "api\/key",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "api\/key.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "api\/aws\/token",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "api\/aws\/credentials",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "api\/aws\/keys",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "api\/aws\/s3",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "api\/aws\/sns",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "api\/aws\/ses",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "api\/aws\/iam",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "api\/aws\/cognito",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "api\/aws\/lambda",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "api\/aws\/cloudfront",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "api\/aws\/api-gateway",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "api\/v1\/aws\/token",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "api\/v1\/aws\/credentials",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "api\/v1\/aws\/keys",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "api\/v1\/token",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "api\/v1\/keys",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "api\/v1\/credentials",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".well-known\/aws.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".well-known\/credentials.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/metadata",
         "method": "GET",
-        "occurences": 4
+        "occurences": 8
     },
     {
         "endpoint": "aws\/metadata.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/metadata\/iam",
         "method": "GET",
-        "occurences": 4
+        "occurences": 8
     },
     {
         "endpoint": "aws\/metadata\/iam\/security-credentials",
         "method": "GET",
-        "occurences": 4
+        "occurences": 8
     },
     {
         "endpoint": "aws\/token.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/cognito\/token.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/cognito\/config.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/cognito\/secrets.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/eks\/config.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/eks\/secrets.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/lambda\/config.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/lambda\/secrets.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/sts\/config.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/sts\/secrets.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/iam\/keys.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/iam\/secrets.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/iam\/credentials.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/iam\/config.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/api-gateway.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/api-gateway\/keys.json",
         "method": "GET",
-        "occurences": 4
+        "occurences": 8
     },
     {
         "endpoint": "aws\/api-gateway\/secrets.json",
         "method": "GET",
-        "occurences": 4
+        "occurences": 8
     },
     {
         "endpoint": "aws\/api-gateway\/config.json",
         "method": "GET",
-        "occurences": 4
+        "occurences": 8
     },
     {
         "endpoint": ".aws_lambda",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".aws_lambda\/handler.js",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".aws_lambda\/config.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".aws_lambda\/secrets.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".aws_lambda\/token.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws_lambda\/handler.js",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws_lambda\/config.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws_lambda\/secrets.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws_lambda\/token.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".cloudfront\/config.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".cloudfront\/keys.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".cloudfront\/secrets.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "cloudfront\/config.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "cloudfront\/secrets.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "cloudfront\/api-keys.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "cloudfront\/keys.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "api-gateway\/config.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "api-gateway\/secrets.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "api-gateway\/keys.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "api-gateway\/swagger.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "api-gateway\/openapi.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/cloudfront\/config.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/cloudfront\/secrets.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/api-gateway\/swagger.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/api-gateway\/openapi.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/api-gateway\/tokens.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "api-gateway\/production\/swagger.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "api-gateway\/dev\/swagger.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "api-gateway\/staging\/swagger.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "api-gateway\/v1\/swagger.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "api-gateway\/v2\/swagger.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "api-gateway\/v1\/openapi.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "api-gateway\/v2\/openapi.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "api-gateway\/.env",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "api-gateway\/.env.bak",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "api-gateway\/config.yml",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "api-gateway\/config.yaml",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "api-gateway\/.env.production",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "api-gateway\/.env.staging",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "api-gateway\/.env.dev",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "api-gateway\/.env.local",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".s3cfg",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".s3cfg.bak",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".s3cfg.old",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".s3cfg~",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".s3\/keys.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".s3\/secrets.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".s3\/config.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "s3\/keys.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "s3\/secrets.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "s3\/config.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/s3\/keys.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/s3\/secrets.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/s3\/config.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "s3-bucket.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "s3-bucket-list.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "s3-access.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "s3-credentials.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "s3-credentials.bak",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "public\/.s3cfg",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "public\/s3-bucket.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "public\/s3.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "public\/bucket.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "public\/storage.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "public\/uploads\/.s3cfg",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "public\/uploads\/.bucket",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "public\/uploads\/s3-keys.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/s3\/public.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/s3\/private.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/s3\/public-bucket.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/s3\/public-buckets.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "s3\/.env",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "s3\/.env.bak",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "s3\/.aws",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "s3\/.aws\/credentials",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "s3\/.aws\/config",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "s3\/.aws\/config.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".aws\/s3\/keys",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".aws\/s3\/secrets",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".aws\/s3\/tokens",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/s3\/tokens.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/s3\/tokens.yml",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/s3\/credentials.yml",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/s3\/credentials.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/s3\/credentials.bak",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/s3\/.env",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "s3\/presigned-url",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "s3\/presigned-urls",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "s3\/presigned-links",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "s3\/presigned",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "s3\/public\/keys",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "s3\/public\/credentials",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "169.254.169.254\/latest\/meta-data",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "169.254.169.254\/latest\/meta-data\/iam\/security-credentials",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "169.254.169.254\/latest\/meta-data\/iam",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "169.254.169.254\/latest\/meta-data\/iam\/info",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "169.254.169.254\/latest\/meta-data\/iam\/security-credentials\/aws-sdk-credentials",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "169.254.169.254\/latest\/meta-data\/iam\/security-credentials\/ecsTaskExecutionRole",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "169.254.169.254\/latest\/meta-data\/instance-id",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "169.254.169.254\/latest\/meta-data\/instance-type",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "169.254.169.254\/latest\/meta-data\/public-ipv4",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "169.254.169.254\/latest\/meta-data\/local-ipv4",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "169.254.169.254\/latest\/meta-data\/placement",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "169.254.169.254\/latest\/meta-data\/placement\/availability-zone",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "169.254.169.254\/latest\/meta-data\/network\/interfaces\/macs",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "169.254.169.254\/latest\/meta-data\/network\/interfaces\/macs\/mac",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "169.254.169.254\/latest\/meta-data\/network\/interfaces\/macs\/mac\/vpc-id",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "169.254.169.254\/latest\/meta-data\/network\/interfaces\/macs\/mac\/subnet-id",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "169.254.169.254\/latest\/meta-data\/public-hostname",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "169.254.169.254\/latest\/meta-data\/ami-id",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "169.254.169.254\/latest\/meta-data\/hostname",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "169.254.169.254\/latest\/user-data",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "169.254.170.2\/v2\/credentials",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "169.254.170.2\/v2\/metadata",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "169.254.170.2\/v2\/credentials\/ecsTaskExecutionRole",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "169.254.170.2\/v2\/credentials\/container-role",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "169.254.170.2\/latest\/meta-data",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "169.254.170.2\/latest\/meta-data\/iam\/security-credentials",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "metadata\/instance\/compute",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "metadata\/instance\/compute\/location",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "metadata\/instance\/compute\/tags",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "metadata\/instance\/compute\/name",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "metadata\/instance\/compute\/subscriptionId",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "metadata\/instance\/compute\/resourceGroupName",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "metadata\/instance\/compute\/zone",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "metadata\/instance\/compute\/vmId",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "metadata\/instance\/compute\/vmSize",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "metadata\/instance\/compute\/plan",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "metadata\/instance\/compute\/platformFaultDomain",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "metadata\/instance\/network\/interface\/0\/ipv4\/ipAddress\/0\/privateIpAddress",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "metadata\/instance\/network\/interface\/0\/ipv4\/ipAddress\/0\/publicIpAddress",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "metadata\/instance\/network\/interface\/0\/ipv4\/ipAddress\/0",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "latest\/user-data",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "latest\/meta-data",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "latest\/meta-data\/iam\/security-credentials",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "latest\/meta-data\/iam\/info",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".aws\/metadata",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".aws\/metadata\/iam",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".aws\/metadata\/iam\/security-credentials",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "internal-api\/iam\/credentials",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "internal-api\/aws\/iam",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "internal-api\/aws\/metadata",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "internal-api\/aws\/credentials",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "internal\/aws\/iam\/keys.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "internal\/aws\/credentials",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "internal\/aws\/metadata.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "internal\/169.254.169.254\/latest\/meta-data\/iam\/security-credentials",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "api\/v1\/proxy",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "debug",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "internal\/admin",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "api\/internal-aws",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws-admin",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws-api",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "169.254.169.254\/latest\/meta-data\/iam\/security-credentials\/ec2-instance-role",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "169.254.169.254\/latest\/meta-data\/iam\/security-credentials\/aws-elasticbeanstalk-ec2-role",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/iam\/temporary-credentials",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/iam\/temp-keys",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/iam\/assume-role.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/iam\/role-assume",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/iam\/role-chain.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/iam\/temporary.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/iam\/temp-creds.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/iam\/ecs-task-credentials.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "ecs\/task-credentials",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "ecs\/task-credentials.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".aws\/ecs-task-credentials",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".aws\/ecs-task-credentials.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/ecs\/task-credentials",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "aws\/ecs\/task-credentials.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "eks\/secrets\/iam",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "eks\/metadata",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "k8s\/metadata",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "kubernetes\/metadata",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "k8s\/secrets\/iam",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "k8s\/secrets\/aws",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "k8s\/eks\/secrets\/aws",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "k8s\/eks\/credentials",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "k8s\/eks\/token.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "kubernetes\/eks\/secrets.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "backup.tar",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "backup.bak",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "backup_old.zip",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "db_backup.sql",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "db.dump",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "db_backup.dump",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "mysqldump.sql",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "pgsql.dump",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "pg_dump.sql",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "database.bak",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "dump.bak",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".backup",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".backup.sql",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".backup.tar",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".backup.tar.gz",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".backup.zip",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".dump",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".dump.sql",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".dump.tar",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".dump.tar.gz",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".db_backup",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".db_backup.sql",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".db_backup.tar",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".db_backup.tar.gz",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".database",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".database.sql",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".database.tar.gz",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": ".database.bak",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "mysql.sql",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": ".backup\/db.sql",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": ".backup\/mysql.sql",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": ".backup\/pgsql.dump",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": ".config.js",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "settings.js",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "settings.json",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": ".settings.json",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": ".aws_config.js",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": ".aws_secrets.js",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "aws_config.js",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "aws_keys.js",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "aws_creds.js",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "config\/aws.js",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": ".aws_secrets.json",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": ".aws_keys.json",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": ".aws_creds.json",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": ".env.js",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": ".env.json",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": ".env.local.json",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": ".env.prod.json",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": ".env.dev.json",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": ".env.staging.json",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "admin\/execute.php",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "admin\/shell.php",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "admin\/terminal.php",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "admin\/rce.php",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "admin\/run.php",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "admin\/command.php",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "admin\/db.php",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "admin\/db_dump.php",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "admin\/db.sql",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "api\/shell.php",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "api\/db_dump.php",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "api\/execute.php",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "api\/db.sql",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "api\/db_backup.sql",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "api\/backup.zip",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "dev\/shell.php",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "dev\/execute.php",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "dev\/db.sql",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "dev\/backup.zip",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "dev\/test.php",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "test\/shell.php",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "test\/execute.php",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "test\/db.sql",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "test\/backup.zip",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "beta\/shell.php",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "beta\/execute.php",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "beta\/db.sql",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "beta\/backup.zip",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": ".git\/backup",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": ".git\/db.sql",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": ".git\/dump.sql",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": ".git\/shell.php",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": ".git\/execute.php",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": ".git\/.env",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": ".git\/config.bak",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": ".git\/config.old",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": ".git\/config~",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "vendor\/.aws",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "vendor\/.aws\/credentials",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "vendor\/.aws\/config",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "vendor\/.aws\/secrets.json",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "vendor\/.aws\/keys.json",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "vendor\/aws\/.env",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "vendor\/aws\/credentials",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "vendor\/aws\/config",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "vendor\/aws\/secrets.json",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "vendor\/aws\/keys.json",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "tmp\/.env",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "tmp\/backup.zip",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "tmp\/db.sql",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "tmp\/.aws\/credentials",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "tmp\/.aws\/secrets.json",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "tmp\/.aws\/config",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "tmp\/.aws\/keys.json",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "tmp\/aws_secrets.json",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "tmp\/aws_keys.json",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "tmp\/execute.php",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "tmp\/shell.php",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "tmp\/db_dump.sql",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "public\/backup.zip",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "public\/db.sql",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "public\/.aws\/credentials",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "public\/.aws\/secrets.json",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "public\/.aws\/config",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "public\/aws_secrets.json",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "public\/aws_keys.json",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "public\/execute.php",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "public\/shell.php",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "public\/db_dump.sql",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "api\/rce",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "api\/execute",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "api\/run",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "api\/bash",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "api\/command",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "console.php",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "console",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "shell",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "rce.php",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "execute.php",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "terminal.php",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "run.php",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "command.php",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "bash.php",
         "method": "GET",
-        "occurences": 1
+        "occurences": 3
     },
     {
         "endpoint": "admin\/assets\/jquery-file-upload\/server\/php\/index.php",
@@ -24888,5 +24888,10 @@
         "endpoint": "core\/.git\/config",
         "method": "GET",
         "occurences": 1
+    },
+    {
+        "endpoint": "config\/aws.json",
+        "method": "GET",
+        "occurences": 2
     }
 ]
