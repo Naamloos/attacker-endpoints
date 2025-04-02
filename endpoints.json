@@ -5467,7 +5467,7 @@
     {
         "endpoint": ".env",
         "method": "GET",
-        "occurences": 164
+        "occurences": 165
     },
     {
         "endpoint": "wp-content",
@@ -6107,12 +6107,12 @@
     {
         "endpoint": "wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 2179
+        "occurences": 2223
     },
     {
         "endpoint": "wordpress\/wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 2127
+        "occurences": 2155
     },
     {
         "endpoint": "wp-includes\/Text\/network.php",
@@ -25771,6 +25771,11 @@
     },
     {
         "endpoint": "nVNQj6",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "assets\/admin\/plugins\/jquery-file-upload\/server\/php\/index.php",
         "method": "GET",
         "occurences": 1
     }
