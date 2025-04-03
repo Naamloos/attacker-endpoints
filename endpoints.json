@@ -5477,47 +5477,47 @@
     {
         "endpoint": "wordpress",
         "method": "HEAD",
-        "occurences": 126
+        "occurences": 127
     },
     {
         "endpoint": "wp",
         "method": "HEAD",
-        "occurences": 121
+        "occurences": 122
     },
     {
         "endpoint": "bc",
         "method": "HEAD",
-        "occurences": 120
+        "occurences": 121
     },
     {
         "endpoint": "bk",
         "method": "HEAD",
-        "occurences": 120
+        "occurences": 121
     },
     {
         "endpoint": "backup",
         "method": "HEAD",
-        "occurences": 120
+        "occurences": 121
     },
     {
         "endpoint": "old",
         "method": "HEAD",
-        "occurences": 120
+        "occurences": 121
     },
     {
         "endpoint": "new",
         "method": "HEAD",
-        "occurences": 120
+        "occurences": 121
     },
     {
         "endpoint": "main",
         "method": "HEAD",
-        "occurences": 120
+        "occurences": 121
     },
     {
         "endpoint": "home",
         "method": "HEAD",
-        "occurences": 120
+        "occurences": 121
     },
     {
         "endpoint": "go.php",
@@ -6107,12 +6107,12 @@
     {
         "endpoint": "wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 2223
+        "occurences": 2269
     },
     {
         "endpoint": "wordpress\/wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 2155
+        "occurences": 2210
     },
     {
         "endpoint": "wp-includes\/Text\/network.php",
@@ -25778,5 +25778,15 @@
         "endpoint": "assets\/admin\/plugins\/jquery-file-upload\/server\/php\/index.php",
         "method": "GET",
         "occurences": 1
+    },
+    {
+        "endpoint": "__media__\/js\/netsoltrademark.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "app",
+        "method": "GET",
+        "occurences": 5
     }
 ]
