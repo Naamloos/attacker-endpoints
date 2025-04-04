@@ -12,7 +12,7 @@
     {
         "endpoint": ".well-known\/discord",
         "method": "GET",
-        "occurences": 76
+        "occurences": 77
     },
     {
         "endpoint": "\/wordpress",
@@ -5467,7 +5467,7 @@
     {
         "endpoint": ".env",
         "method": "GET",
-        "occurences": 170
+        "occurences": 173
     },
     {
         "endpoint": "wp-content",
@@ -6107,12 +6107,12 @@
     {
         "endpoint": "wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 2346
+        "occurences": 2387
     },
     {
         "endpoint": "wordpress\/wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 2303
+        "occurences": 2341
     },
     {
         "endpoint": "wp-includes\/Text\/network.php",
@@ -6252,7 +6252,7 @@
     {
         "endpoint": "info.php",
         "method": "GET",
-        "occurences": 81
+        "occurences": 83
     },
     {
         "endpoint": "wp-includes\/assets\/about.php",
@@ -8402,7 +8402,7 @@
     {
         "endpoint": ".git\/config",
         "method": "GET",
-        "occurences": 96
+        "occurences": 98
     },
     {
         "endpoint": "wordpress",
@@ -8822,7 +8822,7 @@
     {
         "endpoint": "sitemap.xml",
         "method": "GET",
-        "occurences": 9
+        "occurences": 10
     },
     {
         "endpoint": "style.php",
@@ -9707,62 +9707,62 @@
     {
         "endpoint": "actuator\/env",
         "method": "GET",
-        "occurences": 14
+        "occurences": 16
     },
     {
         "endpoint": "server",
         "method": "GET",
-        "occurences": 6
+        "occurences": 8
     },
     {
         "endpoint": ".vscode\/sftp.json",
         "method": "GET",
-        "occurences": 18
+        "occurences": 20
     },
     {
         "endpoint": "about",
         "method": "GET",
-        "occurences": 5
+        "occurences": 7
     },
     {
         "endpoint": "debug\/default\/view",
         "method": "GET",
-        "occurences": 5
+        "occurences": 7
     },
     {
         "endpoint": "v2\/_catalog",
         "method": "GET",
-        "occurences": 5
+        "occurences": 7
     },
     {
         "endpoint": "ecp\/Current\/exporttool\/microsoft.exchange.ediscovery.exporttool.application",
         "method": "GET",
-        "occurences": 6
+        "occurences": 8
     },
     {
         "endpoint": "login.action",
         "method": "GET",
-        "occurences": 6
+        "occurences": 8
     },
     {
         "endpoint": "_all_dbs",
         "method": "GET",
-        "occurences": 5
+        "occurences": 7
     },
     {
         "endpoint": ".DS_Store",
         "method": "GET",
-        "occurences": 6
+        "occurences": 8
     },
     {
         "endpoint": "s\/33e27393e2431313e2838313\/_\/;\/META-INF\/maven\/com.atlassian.jira\/jira-webapp-dist\/pom.properties",
         "method": "GET",
-        "occurences": 5
+        "occurences": 7
     },
     {
         "endpoint": "config.json",
         "method": "GET",
-        "occurences": 11
+        "occurences": 13
     },
     {
         "endpoint": "adminer-3.0.1-mysql.php",
@@ -20982,7 +20982,7 @@
     {
         "endpoint": "sitemap",
         "method": "GET",
-        "occurences": 3
+        "occurences": 4
     },
     {
         "endpoint": "wp-content\/berlin.php",
@@ -25801,6 +25801,11 @@
     },
     {
         "endpoint": "wp-content\/plugins\/wp-automatic\/inc\/csv.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "a.nel.cloudflare.c",
         "method": "GET",
         "occurences": 1
     }
