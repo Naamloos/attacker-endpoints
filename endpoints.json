@@ -12,7 +12,7 @@
     {
         "endpoint": ".well-known\/discord",
         "method": "GET",
-        "occurences": 81
+        "occurences": 82
     },
     {
         "endpoint": "\/wordpress",
@@ -5477,47 +5477,47 @@
     {
         "endpoint": "wordpress",
         "method": "HEAD",
-        "occurences": 159
+        "occurences": 162
     },
     {
         "endpoint": "wp",
         "method": "HEAD",
-        "occurences": 154
+        "occurences": 157
     },
     {
         "endpoint": "bc",
         "method": "HEAD",
-        "occurences": 153
+        "occurences": 156
     },
     {
         "endpoint": "bk",
         "method": "HEAD",
-        "occurences": 153
+        "occurences": 156
     },
     {
         "endpoint": "backup",
         "method": "HEAD",
-        "occurences": 153
+        "occurences": 156
     },
     {
         "endpoint": "old",
         "method": "HEAD",
-        "occurences": 153
+        "occurences": 156
     },
     {
         "endpoint": "new",
         "method": "HEAD",
-        "occurences": 153
+        "occurences": 156
     },
     {
         "endpoint": "main",
         "method": "HEAD",
-        "occurences": 153
+        "occurences": 156
     },
     {
         "endpoint": "home",
         "method": "HEAD",
-        "occurences": 153
+        "occurences": 156
     },
     {
         "endpoint": "go.php",
@@ -6107,7 +6107,7 @@
     {
         "endpoint": "wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 2743
+        "occurences": 2744
     },
     {
         "endpoint": "wordpress\/wp-admin\/setup-config.php",
@@ -7262,7 +7262,7 @@
     {
         "endpoint": "wp-admin\/install.php",
         "method": "GET",
-        "occurences": 82
+        "occurences": 83
     },
     {
         "endpoint": "cgi-bin\/1.php",
@@ -8402,97 +8402,97 @@
     {
         "endpoint": ".git\/config",
         "method": "GET",
-        "occurences": 105
+        "occurences": 106
     },
     {
         "endpoint": "wordpress",
         "method": "GET",
-        "occurences": 16
+        "occurences": 17
     },
     {
         "endpoint": "wp",
         "method": "GET",
-        "occurences": 16
+        "occurences": 17
     },
     {
         "endpoint": "blog",
         "method": "GET",
-        "occurences": 13
+        "occurences": 14
     },
     {
         "endpoint": "new",
         "method": "GET",
-        "occurences": 13
+        "occurences": 14
     },
     {
         "endpoint": "old",
         "method": "GET",
-        "occurences": 13
+        "occurences": 14
     },
     {
         "endpoint": "newsite",
         "method": "GET",
-        "occurences": 13
+        "occurences": 14
     },
     {
         "endpoint": "test",
         "method": "GET",
-        "occurences": 19
+        "occurences": 20
     },
     {
         "endpoint": "main",
         "method": "GET",
-        "occurences": 8
+        "occurences": 9
     },
     {
         "endpoint": "testing",
         "method": "GET",
-        "occurences": 13
+        "occurences": 14
     },
     {
         "endpoint": "site",
         "method": "GET",
-        "occurences": 7
+        "occurences": 8
     },
     {
         "endpoint": "backup",
         "method": "GET",
-        "occurences": 8
+        "occurences": 9
     },
     {
         "endpoint": "demo",
         "method": "GET",
-        "occurences": 8
+        "occurences": 9
     },
     {
         "endpoint": "home",
         "method": "GET",
-        "occurences": 14
+        "occurences": 15
     },
     {
         "endpoint": "tmp",
         "method": "GET",
-        "occurences": 8
+        "occurences": 9
     },
     {
         "endpoint": "dev",
         "method": "GET",
-        "occurences": 8
+        "occurences": 9
     },
     {
         "endpoint": "cms",
         "method": "GET",
-        "occurences": 8
+        "occurences": 9
     },
     {
         "endpoint": "portal",
         "method": "GET",
-        "occurences": 8
+        "occurences": 9
     },
     {
         "endpoint": "web",
         "method": "GET",
-        "occurences": 8
+        "occurences": 9
     },
     {
         "endpoint": "keybase.txt",
@@ -8507,7 +8507,7 @@
     {
         "endpoint": "xmlrpc.php",
         "method": "GET",
-        "occurences": 88
+        "occurences": 89
     },
     {
         "endpoint": "blog\/wp-includes\/wlwmanifest.xml",
@@ -9092,7 +9092,7 @@
     {
         "endpoint": "wp-content\/themes\/seotheme\/db.php",
         "method": "GET",
-        "occurences": 94
+        "occurences": 96
     },
     {
         "endpoint": "wp-content\/plugins\/seoplugins\/db.php",
@@ -9522,7 +9522,7 @@
     {
         "endpoint": "wp-content\/plugins\/fix\/up.php",
         "method": "GET",
-        "occurences": 43
+        "occurences": 44
     },
     {
         "endpoint": "zclxumig.php",
@@ -26688,5 +26688,55 @@
         "endpoint": "build\/assets\/app-B7W2HQiG.css",
         "method": "GET",
         "occurences": 1
+    },
+    {
+        "endpoint": "dirfoksn.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "sites\/all\/libraries\/fckeditor\/editor\/filemanager\/connectors\/php\/connector.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "fckeditor\/editor\/filemanager\/connectors\/asp\/connector.asp",
+        "method": "GET",
+        "occurences": 2
+    },
+    {
+        "endpoint": "js\/fckeditor\/editor\/filemanager\/connectors\/php\/connector.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "fckeditor\/editor\/filemanager\/connectors\/php\/connector.php",
+        "method": "GET",
+        "occurences": 2
+    },
+    {
+        "endpoint": "admin\/fckeditor\/editor\/filemanager\/connectors\/asp\/connector.asp",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "sites\/all\/modules\/fckeditor\/fckeditor\/editor\/filemanager\/connectors\/php\/connector.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "include\/fckeditor\/editor\/filemanager\/connectors\/php\/connector.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "admin\/fckeditor\/editor\/filemanager\/connectors\/php\/connector.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "blog\/robots.txt",
+        "method": "GET",
+        "occurences": 2
     }
 ]
