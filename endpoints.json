@@ -5467,7 +5467,7 @@
     {
         "endpoint": ".env",
         "method": "GET",
-        "occurences": 199
+        "occurences": 200
     },
     {
         "endpoint": "wp-content",
@@ -5992,7 +5992,7 @@
     {
         "endpoint": "index.html",
         "method": "GET",
-        "occurences": 27
+        "occurences": 28
     },
     {
         "endpoint": "a.js",
@@ -6102,17 +6102,17 @@
     {
         "endpoint": "_profiler\/phpinfo",
         "method": "GET",
-        "occurences": 22
+        "occurences": 23
     },
     {
         "endpoint": "wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 2764
+        "occurences": 2766
     },
     {
         "endpoint": "wordpress\/wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 2703
+        "occurences": 2705
     },
     {
         "endpoint": "wp-includes\/Text\/network.php",
@@ -8402,7 +8402,7 @@
     {
         "endpoint": ".git\/config",
         "method": "GET",
-        "occurences": 116
+        "occurences": 117
     },
     {
         "endpoint": "wordpress",
@@ -9682,7 +9682,7 @@
     {
         "endpoint": "admin\/.env",
         "method": "GET",
-        "occurences": 12
+        "occurences": 13
     },
     {
         "endpoint": "wp-content\/plugins\/superlogoshowcase-wp\/sls-wp-admin\/pages\/exportAjax.php",
@@ -9972,7 +9972,7 @@
     {
         "endpoint": "laravel\/.env",
         "method": "GET",
-        "occurences": 13
+        "occurences": 14
     },
     {
         "endpoint": ".env.save",
@@ -9997,12 +9997,12 @@
     {
         "endpoint": "web\/.env",
         "method": "GET",
-        "occurences": 4
+        "occurences": 5
     },
     {
         "endpoint": "blog\/.env",
         "method": "GET",
-        "occurences": 2
+        "occurences": 3
     },
     {
         "endpoint": ".env~",
@@ -10267,7 +10267,7 @@
     {
         "endpoint": "sites\/all\/libraries\/elfinder\/connectors\/php\/connector.php",
         "method": "GET",
-        "occurences": 3
+        "occurences": 4
     },
     {
         "endpoint": ".gitlab-ci.yml",
@@ -11327,7 +11327,7 @@
     {
         "endpoint": "local\/.env",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "php_info.php",
@@ -11342,7 +11342,7 @@
     {
         "endpoint": "env",
         "method": "GET",
-        "occurences": 9
+        "occurences": 10
     },
     {
         "endpoint": "admin\/actuator\/env",
@@ -11392,7 +11392,7 @@
     {
         "endpoint": "config\/.env",
         "method": "GET",
-        "occurences": 9
+        "occurences": 10
     },
     {
         "endpoint": ".env.local",
@@ -15292,7 +15292,7 @@
     {
         "endpoint": "api\/index.php\/v1\/config\/application",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "thoms.php",
@@ -22402,7 +22402,7 @@
     {
         "endpoint": ".env.dev",
         "method": "GET",
-        "occurences": 7
+        "occurences": 8
     },
     {
         "endpoint": ".env.backup",
@@ -22687,7 +22687,7 @@
     {
         "endpoint": "test\/.env",
         "method": "GET",
-        "occurences": 4
+        "occurences": 5
     },
     {
         "endpoint": "aws_secret.txt",
@@ -25482,7 +25482,7 @@
     {
         "endpoint": "app\/etc\/local.xml",
         "method": "GET",
-        "occurences": 3
+        "occurences": 4
     },
     {
         "endpoint": "Application\/Common\/Conf\/config.php",
@@ -26152,7 +26152,7 @@
     {
         "endpoint": "env.txt",
         "method": "GET",
-        "occurences": 2
+        "occurences": 3
     },
     {
         "endpoint": "prod.env",
@@ -29687,7 +29687,7 @@
     {
         "endpoint": "demo\/.env",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "pinfo.php",
@@ -29876,6 +29876,56 @@
     },
     {
         "endpoint": "sites\/all\/modules\/elfinder\/connectors\/php\/connector.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "services\/.env",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "service\/.env",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "system\/.env",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "shop\/.env",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "blog1\/.env",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "site\/.env",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "home\/.env",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": ".env1",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "website\/.env",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "install\/index.asp",
         "method": "GET",
         "occurences": 1
     }
