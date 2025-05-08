@@ -12,7 +12,7 @@
     {
         "endpoint": ".well-known\/discord",
         "method": "GET",
-        "occurences": 98
+        "occurences": 99
     },
     {
         "endpoint": "\/wordpress",
@@ -5477,47 +5477,47 @@
     {
         "endpoint": "wordpress",
         "method": "HEAD",
-        "occurences": 192
+        "occurences": 193
     },
     {
         "endpoint": "wp",
         "method": "HEAD",
-        "occurences": 187
+        "occurences": 188
     },
     {
         "endpoint": "bc",
         "method": "HEAD",
-        "occurences": 186
+        "occurences": 187
     },
     {
         "endpoint": "bk",
         "method": "HEAD",
-        "occurences": 186
+        "occurences": 187
     },
     {
         "endpoint": "backup",
         "method": "HEAD",
-        "occurences": 186
+        "occurences": 187
     },
     {
         "endpoint": "old",
         "method": "HEAD",
-        "occurences": 186
+        "occurences": 187
     },
     {
         "endpoint": "new",
         "method": "HEAD",
-        "occurences": 186
+        "occurences": 187
     },
     {
         "endpoint": "main",
         "method": "HEAD",
-        "occurences": 186
+        "occurences": 187
     },
     {
         "endpoint": "home",
         "method": "HEAD",
-        "occurences": 186
+        "occurences": 187
     },
     {
         "endpoint": "go.php",
@@ -6107,12 +6107,12 @@
     {
         "endpoint": "wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 2862
+        "occurences": 2864
     },
     {
         "endpoint": "wordpress\/wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 2782
+        "occurences": 2784
     },
     {
         "endpoint": "wp-includes\/Text\/network.php",
@@ -8402,7 +8402,7 @@
     {
         "endpoint": ".git\/config",
         "method": "GET",
-        "occurences": 124
+        "occurences": 125
     },
     {
         "endpoint": "wordpress",
@@ -26807,7 +26807,7 @@
     {
         "endpoint": "sites\/all\/libraries\/elfinder\/elfinder.html",
         "method": "GET",
-        "occurences": 4
+        "occurences": 5
     },
     {
         "endpoint": ".env.config",
@@ -35741,6 +35741,41 @@
     },
     {
         "endpoint": "wp-content\/uploads\/2023\/08\/admiin.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "geapi\/webConfig",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "api\/common\/config",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "kefu\/css\/style.css",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "index\/login\/register",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "apix\/tongchengyue\/tags",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "api\/client\/app\/config.do",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "api\/common\/menus",
         "method": "GET",
         "occurences": 1
     }
