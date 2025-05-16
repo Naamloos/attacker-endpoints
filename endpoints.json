@@ -12,7 +12,7 @@
     {
         "endpoint": ".well-known\/discord",
         "method": "GET",
-        "occurences": 106
+        "occurences": 107
     },
     {
         "endpoint": "\/wordpress",
@@ -6062,32 +6062,32 @@
     {
         "endpoint": "wp-admin\/css",
         "method": "GET",
-        "occurences": 57
+        "occurences": 58
     },
     {
         "endpoint": ".well-known",
         "method": "GET",
-        "occurences": 66
+        "occurences": 67
     },
     {
         "endpoint": "sites\/default\/files",
         "method": "GET",
-        "occurences": 41
+        "occurences": 42
     },
     {
         "endpoint": "admin\/controller\/extension\/extension",
         "method": "GET",
-        "occurences": 37
+        "occurences": 38
     },
     {
         "endpoint": "uploads",
         "method": "GET",
-        "occurences": 42
+        "occurences": 43
     },
     {
         "endpoint": "images",
         "method": "GET",
-        "occurences": 42
+        "occurences": 43
     },
     {
         "endpoint": "files",
@@ -6107,12 +6107,12 @@
     {
         "endpoint": "wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 2919
+        "occurences": 2923
     },
     {
         "endpoint": "wordpress\/wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 2826
+        "occurences": 2830
     },
     {
         "endpoint": "wp-includes\/Text\/network.php",
@@ -37571,6 +37571,11 @@
     },
     {
         "endpoint": ".well-known\/mcp.json",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "elfinder\/php\/connector.php",
         "method": "GET",
         "occurences": 1
     }
