@@ -5467,7 +5467,7 @@
     {
         "endpoint": ".env",
         "method": "GET",
-        "occurences": 239
+        "occurences": 240
     },
     {
         "endpoint": "wp-content",
@@ -6107,12 +6107,12 @@
     {
         "endpoint": "wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 2932
+        "occurences": 2933
     },
     {
         "endpoint": "wordpress\/wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 2837
+        "occurences": 2839
     },
     {
         "endpoint": "wp-includes\/Text\/network.php",
@@ -8827,7 +8827,7 @@
     {
         "endpoint": "style.php",
         "method": "GET",
-        "occurences": 59
+        "occurences": 60
     },
     {
         "endpoint": "wp-content\/plugins\/hellopress\/wp_filemanager.php",
@@ -31147,7 +31147,7 @@
     {
         "endpoint": "ss.php",
         "method": "GET",
-        "occurences": 13
+        "occurences": 14
     },
     {
         "endpoint": ".well-known\/custom.file.1.1735117699.php",
@@ -37577,10 +37577,25 @@
     {
         "endpoint": "elfinder\/php\/connector.php",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "network_xo.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "l00_gs\/t012314t_x55234534x.txt",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "l00_gs\/t012314t_x55234534x_created.txt",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "logs.txt",
         "method": "GET",
         "occurences": 1
     }
