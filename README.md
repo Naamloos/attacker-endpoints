@@ -2,7 +2,10 @@
 
 My personal resume site frequently experiences scans from various bots, which I find to be interesting data. You might find this information useful as well. Feel free to use it to set up a catch-all on your server to thwart these bots.
 
-This list is updated twice daily via a GitHub action, based on data collected from naamloos.dev through a catch-all endpoint. While I strive to filter out valid endpoints, some false positives may still slip through.
+This list is updated twice daily via a GitHub action, based on data collected from naamloos.dev through a catch-all endpoint.
+
+> [!CAUTION]
+> I have stopped filtering endpoints, as the list has become way too big. There may be some false positives and domain-specific (naamloos.dev) that slip through now.
 
 ## Format
 
