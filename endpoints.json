@@ -5477,47 +5477,47 @@
     {
         "endpoint": "wordpress",
         "method": "HEAD",
-        "occurences": 201
+        "occurences": 202
     },
     {
         "endpoint": "wp",
         "method": "HEAD",
-        "occurences": 196
+        "occurences": 197
     },
     {
         "endpoint": "bc",
         "method": "HEAD",
-        "occurences": 195
+        "occurences": 196
     },
     {
         "endpoint": "bk",
         "method": "HEAD",
-        "occurences": 195
+        "occurences": 196
     },
     {
         "endpoint": "backup",
         "method": "HEAD",
-        "occurences": 195
+        "occurences": 196
     },
     {
         "endpoint": "old",
         "method": "HEAD",
-        "occurences": 195
+        "occurences": 196
     },
     {
         "endpoint": "new",
         "method": "HEAD",
-        "occurences": 195
+        "occurences": 196
     },
     {
         "endpoint": "main",
         "method": "HEAD",
-        "occurences": 195
+        "occurences": 196
     },
     {
         "endpoint": "home",
         "method": "HEAD",
-        "occurences": 195
+        "occurences": 196
     },
     {
         "endpoint": "go.php",
@@ -6107,12 +6107,12 @@
     {
         "endpoint": "wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 2947
+        "occurences": 2949
     },
     {
         "endpoint": "wordpress\/wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 2850
+        "occurences": 2851
     },
     {
         "endpoint": "wp-includes\/Text\/network.php",
@@ -9657,7 +9657,7 @@
     {
         "endpoint": "wp-content\/plugins\/litespeed-cache\/readme.txt",
         "method": "GET",
-        "occurences": 5
+        "occurences": 7
     },
     {
         "endpoint": "plugins\/filemanager\/dialog.php",
@@ -9897,7 +9897,7 @@
     {
         "endpoint": "api\/.env",
         "method": "GET",
-        "occurences": 30
+        "occurences": 31
     },
     {
         "endpoint": ".svn\/wc.db",
@@ -11392,7 +11392,7 @@
     {
         "endpoint": "config\/.env",
         "method": "GET",
-        "occurences": 15
+        "occurences": 16
     },
     {
         "endpoint": ".env.local",
