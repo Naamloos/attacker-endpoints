@@ -5467,7 +5467,7 @@
     {
         "endpoint": ".env",
         "method": "GET",
-        "occurences": 250
+        "occurences": 251
     },
     {
         "endpoint": "wp-content",
@@ -5992,7 +5992,7 @@
     {
         "endpoint": "index.html",
         "method": "GET",
-        "occurences": 62
+        "occurences": 63
     },
     {
         "endpoint": "a.js",
@@ -6062,32 +6062,32 @@
     {
         "endpoint": "wp-admin\/css",
         "method": "GET",
-        "occurences": 70
+        "occurences": 71
     },
     {
         "endpoint": ".well-known",
         "method": "GET",
-        "occurences": 77
+        "occurences": 78
     },
     {
         "endpoint": "sites\/default\/files",
         "method": "GET",
-        "occurences": 52
+        "occurences": 53
     },
     {
         "endpoint": "admin\/controller\/extension\/extension",
         "method": "GET",
-        "occurences": 49
+        "occurences": 50
     },
     {
         "endpoint": "uploads",
         "method": "GET",
-        "occurences": 50
+        "occurences": 51
     },
     {
         "endpoint": "images",
         "method": "GET",
-        "occurences": 51
+        "occurences": 52
     },
     {
         "endpoint": "files",
@@ -6107,12 +6107,12 @@
     {
         "endpoint": "wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 2962
+        "occurences": 2966
     },
     {
         "endpoint": "wordpress\/wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 2865
+        "occurences": 2869
     },
     {
         "endpoint": "wp-includes\/Text\/network.php",
@@ -9627,7 +9627,7 @@
     {
         "endpoint": "media\/system\/js\/core.js",
         "method": "GET",
-        "occurences": 44
+        "occurences": 45
     },
     {
         "endpoint": "admin\/elfinder\/php\/connector.minimal.php",
@@ -9652,7 +9652,7 @@
     {
         "endpoint": "wp-includes\/js\/jquery\/jquery.js",
         "method": "GET",
-        "occurences": 46
+        "occurences": 47
     },
     {
         "endpoint": "wp-content\/plugins\/litespeed-cache\/readme.txt",
