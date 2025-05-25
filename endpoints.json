@@ -12,7 +12,7 @@
     {
         "endpoint": ".well-known\/discord",
         "method": "GET",
-        "occurences": 112
+        "occurences": 113
     },
     {
         "endpoint": "\/wordpress",
@@ -5467,7 +5467,7 @@
     {
         "endpoint": ".env",
         "method": "GET",
-        "occurences": 252
+        "occurences": 253
     },
     {
         "endpoint": "wp-content",
@@ -5992,7 +5992,7 @@
     {
         "endpoint": "index.html",
         "method": "GET",
-        "occurences": 64
+        "occurences": 65
     },
     {
         "endpoint": "a.js",
@@ -6107,12 +6107,12 @@
     {
         "endpoint": "wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 2976
+        "occurences": 2978
     },
     {
         "endpoint": "wordpress\/wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 2878
+        "occurences": 2880
     },
     {
         "endpoint": "wp-includes\/Text\/network.php",
@@ -25747,12 +25747,12 @@
     {
         "endpoint": "heapdump",
         "method": "GET",
-        "occurences": 2
+        "occurences": 3
     },
     {
         "endpoint": "actuator\/heapdump",
         "method": "GET",
-        "occurences": 2
+        "occurences": 3
     },
     {
         "endpoint": "Telerik.Web.UI.DialogHandler.aspx",
@@ -31777,12 +31777,12 @@
     {
         "endpoint": "wp-content\/plugins\/HelloDollyV2\/hello_dolly_v2.php",
         "method": "GET",
-        "occurences": 12
+        "occurences": 14
     },
     {
         "endpoint": "wp-content\/themes\/hello_dolly_v2.php",
         "method": "GET",
-        "occurences": 12
+        "occurences": 14
     },
     {
         "endpoint": "js\/player\/dmplayer\/dmku\/dm_rule.html",
@@ -37936,6 +37936,16 @@
     },
     {
         "endpoint": "Archive.zip",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "dump",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "actuator\/dump",
         "method": "GET",
         "occurences": 1
     }
