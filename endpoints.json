@@ -12,7 +12,7 @@
     {
         "endpoint": ".well-known\/discord",
         "method": "GET",
-        "occurences": 142
+        "occurences": 143
     },
     {
         "endpoint": "\/wordpress",
@@ -5467,12 +5467,12 @@
     {
         "endpoint": ".env",
         "method": "GET",
-        "occurences": 341
+        "occurences": 344
     },
     {
         "endpoint": "wp-content",
         "method": "GET",
-        "occurences": 33
+        "occurences": 34
     },
     {
         "endpoint": "wordpress",
@@ -6107,12 +6107,12 @@
     {
         "endpoint": "wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 3314
+        "occurences": 3320
     },
     {
         "endpoint": "wordpress\/wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 3156
+        "occurences": 3160
     },
     {
         "endpoint": "wp-includes\/Text\/network.php",
@@ -8402,7 +8402,7 @@
     {
         "endpoint": ".git\/config",
         "method": "GET",
-        "occurences": 212
+        "occurences": 216
     },
     {
         "endpoint": "wordpress",
@@ -9792,7 +9792,7 @@
     {
         "endpoint": ".git\/HEAD",
         "method": "GET",
-        "occurences": 50
+        "occurences": 54
     },
     {
         "endpoint": "database.sql",
@@ -46011,6 +46011,11 @@
     },
     {
         "endpoint": "sites\/default\/modules\/civicrm\/packages\/OpenFlashChart\/php-ofc-library\/ofc_upload_image.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "etc\/passwd",
         "method": "GET",
         "occurences": 1
     }
