@@ -12,7 +12,7 @@
     {
         "endpoint": ".well-known\/discord",
         "method": "GET",
-        "occurences": 191
+        "occurences": 192
     },
     {
         "endpoint": "\/wordpress",
@@ -5467,7 +5467,7 @@
     {
         "endpoint": ".env",
         "method": "GET",
-        "occurences": 515
+        "occurences": 518
     },
     {
         "endpoint": "wp-content",
@@ -5477,47 +5477,47 @@
     {
         "endpoint": "wordpress",
         "method": "HEAD",
-        "occurences": 359
+        "occurences": 360
     },
     {
         "endpoint": "wp",
         "method": "HEAD",
-        "occurences": 341
+        "occurences": 342
     },
     {
         "endpoint": "bc",
         "method": "HEAD",
-        "occurences": 333
+        "occurences": 334
     },
     {
         "endpoint": "bk",
         "method": "HEAD",
-        "occurences": 333
+        "occurences": 334
     },
     {
         "endpoint": "backup",
         "method": "HEAD",
-        "occurences": 337
+        "occurences": 338
     },
     {
         "endpoint": "old",
         "method": "HEAD",
-        "occurences": 340
+        "occurences": 341
     },
     {
         "endpoint": "new",
         "method": "HEAD",
-        "occurences": 337
+        "occurences": 338
     },
     {
         "endpoint": "main",
         "method": "HEAD",
-        "occurences": 333
+        "occurences": 334
     },
     {
         "endpoint": "home",
         "method": "HEAD",
-        "occurences": 330
+        "occurences": 331
     },
     {
         "endpoint": "go.php",
@@ -5992,7 +5992,7 @@
     {
         "endpoint": "index.html",
         "method": "GET",
-        "occurences": 150
+        "occurences": 151
     },
     {
         "endpoint": "a.js",
@@ -6107,12 +6107,12 @@
     {
         "endpoint": "wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 3767
+        "occurences": 3768
     },
     {
         "endpoint": "wordpress\/wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 3521
+        "occurences": 3523
     },
     {
         "endpoint": "wp-includes\/Text\/network.php",
@@ -9182,7 +9182,7 @@
     {
         "endpoint": "filemanager\/dialog.php",
         "method": "GET",
-        "occurences": 99
+        "occurences": 100
     },
     {
         "endpoint": "assets\/filemanager\/dialog.php",
@@ -9667,7 +9667,7 @@
     {
         "endpoint": "assets\/plugins\/filemanager\/dialog.php",
         "method": "GET",
-        "occurences": 8
+        "occurences": 9
     },
     {
         "endpoint": "license.txt",
@@ -45392,7 +45392,7 @@
     {
         "endpoint": "admin\/filemanager\/dialog.php",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "admin\/global\/plugins\/filemanager\/dialog.php",
@@ -57492,7 +57492,7 @@
     {
         "endpoint": "old\/Archive.zip",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "backups\/Archive.zip",
@@ -58466,6 +58466,121 @@
     },
     {
         "endpoint": "searchl.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "assets\/admin\/tinymce\/plugins\/filemanager\/dialog.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "assets\/admin\/js\/tinymce\/plugins\/filemanager\/dialog.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "tinymce\/filemanager\/dialog.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "js\/tinymce4\/plugins\/filemanager\/dialog.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "filemanager\/filemanager\/dialog.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "tinymce\/plugins\/filemanager\/dialog.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "phpformbuilder\/plugins\/filemanager\/dialog.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "scripts\/filemanager\/dialog.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "assets\/tinymce\/plugins\/filemanager\/dialog.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "bak\/directory.tar.gz",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "restore\/website.tar",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "backup\/sftp-config.json",
+        "method": "HEAD",
+        "occurences": 1
+    },
+    {
+        "endpoint": "backups\/www.tar",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "old\/website.tar.gz",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "backup\/www.gz",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "backups\/website.tar",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "website.tar",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "back\/backup.sql.tar",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "backups\/backup.gz",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "backup\/public_html.rar",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "old\/bak.gz",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "bak\/website.zip",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "backups\/bak.rar",
         "method": "GET",
         "occurences": 1
     }
