@@ -12,7 +12,7 @@
     {
         "endpoint": ".well-known\/discord",
         "method": "GET",
-        "occurences": 202
+        "occurences": 203
     },
     {
         "endpoint": "\/wordpress",
@@ -5477,47 +5477,47 @@
     {
         "endpoint": "wordpress",
         "method": "HEAD",
-        "occurences": 375
+        "occurences": 376
     },
     {
         "endpoint": "wp",
         "method": "HEAD",
-        "occurences": 357
+        "occurences": 358
     },
     {
         "endpoint": "bc",
         "method": "HEAD",
-        "occurences": 349
+        "occurences": 350
     },
     {
         "endpoint": "bk",
         "method": "HEAD",
-        "occurences": 349
+        "occurences": 350
     },
     {
         "endpoint": "backup",
         "method": "HEAD",
-        "occurences": 353
+        "occurences": 354
     },
     {
         "endpoint": "old",
         "method": "HEAD",
-        "occurences": 356
+        "occurences": 357
     },
     {
         "endpoint": "new",
         "method": "HEAD",
-        "occurences": 353
+        "occurences": 354
     },
     {
         "endpoint": "main",
         "method": "HEAD",
-        "occurences": 349
+        "occurences": 350
     },
     {
         "endpoint": "home",
         "method": "HEAD",
-        "occurences": 346
+        "occurences": 347
     },
     {
         "endpoint": "go.php",
@@ -8787,7 +8787,7 @@
     {
         "endpoint": "backup.zip",
         "method": "GET",
-        "occurences": 20
+        "occurences": 21
     },
     {
         "endpoint": "administrator.zip",
@@ -45542,12 +45542,12 @@
     {
         "endpoint": "e\/data\/ecmseditor\/infoeditor\/plugins\/smiley\/images\/angel_smile.png",
         "method": "GET",
-        "occurences": 4
+        "occurences": 5
     },
     {
         "endpoint": "e\/data\/js\/jscolor\/hs.png",
         "method": "GET",
-        "occurences": 4
+        "occurences": 5
     },
     {
         "endpoint": "include\/ckeditor\/images\/addon.gif",
@@ -57387,7 +57387,7 @@
     {
         "endpoint": "old\/config.json",
         "method": "HEAD",
-        "occurences": 4
+        "occurences": 5
     },
     {
         "endpoint": "restore\/application.zip",
@@ -57492,7 +57492,7 @@
     {
         "endpoint": "old\/Archive.zip",
         "method": "GET",
-        "occurences": 4
+        "occurences": 5
     },
     {
         "endpoint": "backups\/Archive.zip",
@@ -57502,52 +57502,52 @@
     {
         "endpoint": "backup\/website.tar.gz",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "public_html.tar",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "bak\/sql.sql",
         "method": "HEAD",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "back\/www.zip",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "old\/bak.tar.gz",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "restore\/wallet.zip",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "backup\/directory.tar.gz",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "restore\/www.tar.gz",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "www.sql",
         "method": "HEAD",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "restore\/index.zip",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "class9.php",
@@ -58562,27 +58562,27 @@
     {
         "endpoint": "backups\/backup.gz",
         "method": "GET",
-        "occurences": 2
+        "occurences": 3
     },
     {
         "endpoint": "backup\/public_html.rar",
         "method": "GET",
-        "occurences": 2
+        "occurences": 3
     },
     {
         "endpoint": "old\/bak.gz",
         "method": "GET",
-        "occurences": 2
+        "occurences": 3
     },
     {
         "endpoint": "bak\/website.zip",
         "method": "GET",
-        "occurences": 2
+        "occurences": 3
     },
     {
         "endpoint": "backups\/bak.rar",
         "method": "GET",
-        "occurences": 2
+        "occurences": 3
     },
     {
         "endpoint": "back\/backup.zip",
@@ -59422,7 +59422,7 @@
     {
         "endpoint": "bak\/archive.zip",
         "method": "GET",
-        "occurences": 3
+        "occurences": 4
     },
     {
         "endpoint": "directory.rar",
@@ -59887,52 +59887,52 @@
     {
         "endpoint": "credentials.txt",
         "method": "HEAD",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "bak\/directory.gz",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "backups\/web.zip",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "back\/backup.tar.gz",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "backups\/backup.sql",
         "method": "HEAD",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "backups\/application.zip",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "backups\/website.tar.gz",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "back\/directory.tar.gz",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "backup\/application.zip",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "back\/bak.zip",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "mr.php",
@@ -60372,7 +60372,7 @@
     {
         "endpoint": "back\/config.json",
         "method": "HEAD",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "backup\/latest.zip",
@@ -61152,32 +61152,32 @@
     {
         "endpoint": "public_html.tar.gz",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "restore\/bak.tar",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "bak\/public_html.tar",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "backups\/backup.sql.gz",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "restore\/sftp-config.json",
         "method": "HEAD",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "back\/www.tar.gz",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "old\/latest.zip",
