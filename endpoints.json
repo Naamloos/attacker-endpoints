@@ -5467,7 +5467,7 @@
     {
         "endpoint": ".env",
         "method": "GET",
-        "occurences": 602
+        "occurences": 605
     },
     {
         "endpoint": "wp-content",
@@ -6107,12 +6107,12 @@
     {
         "endpoint": "wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 3929
+        "occurences": 3932
     },
     {
         "endpoint": "wordpress\/wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 3647
+        "occurences": 3649
     },
     {
         "endpoint": "wp-includes\/Text\/network.php",
@@ -6252,7 +6252,7 @@
     {
         "endpoint": "info.php",
         "method": "GET",
-        "occurences": 487
+        "occurences": 488
     },
     {
         "endpoint": "wp-includes\/assets\/about.php",
@@ -8402,7 +8402,7 @@
     {
         "endpoint": ".git\/config",
         "method": "GET",
-        "occurences": 334
+        "occurences": 339
     },
     {
         "endpoint": "wordpress",
@@ -9212,7 +9212,7 @@
     {
         "endpoint": ".git-credentials",
         "method": "GET",
-        "occurences": 4
+        "occurences": 5
     },
     {
         "endpoint": "email.config",
@@ -9712,12 +9712,12 @@
     {
         "endpoint": "server",
         "method": "GET",
-        "occurences": 13
+        "occurences": 14
     },
     {
         "endpoint": ".vscode\/sftp.json",
         "method": "GET",
-        "occurences": 62
+        "occurences": 64
     },
     {
         "endpoint": "about",
@@ -9727,12 +9727,12 @@
     {
         "endpoint": "debug\/default\/view",
         "method": "GET",
-        "occurences": 20
+        "occurences": 21
     },
     {
         "endpoint": "v2\/_catalog",
         "method": "GET",
-        "occurences": 14
+        "occurences": 15
     },
     {
         "endpoint": "ecp\/Current\/exporttool\/microsoft.exchange.ediscovery.exporttool.application",
@@ -9752,17 +9752,17 @@
     {
         "endpoint": ".DS_Store",
         "method": "GET",
-        "occurences": 18
+        "occurences": 19
     },
     {
         "endpoint": "s\/33e27393e2431313e2838313\/_\/;\/META-INF\/maven\/com.atlassian.jira\/jira-webapp-dist\/pom.properties",
         "method": "GET",
-        "occurences": 14
+        "occurences": 15
     },
     {
         "endpoint": "config.json",
         "method": "GET",
-        "occurences": 50
+        "occurences": 51
     },
     {
         "endpoint": "adminer-3.0.1-mysql.php",
@@ -10167,7 +10167,7 @@
     {
         "endpoint": "contact.php",
         "method": "GET",
-        "occurences": 86
+        "occurences": 87
     },
     {
         "endpoint": "app\/.git\/config",
@@ -10262,7 +10262,7 @@
     {
         "endpoint": ".git\/credentials",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "sites\/all\/libraries\/elfinder\/connectors\/php\/connector.php",
@@ -35807,7 +35807,7 @@
     {
         "endpoint": "@vite\/env",
         "method": "GET",
-        "occurences": 10
+        "occurences": 11
     },
     {
         "endpoint": "hardhat.config.js",
@@ -46067,7 +46067,7 @@
     {
         "endpoint": "api\/swagger.json",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "style-engine\/about.php",
@@ -59017,7 +59017,7 @@
     {
         "endpoint": "actutor\/env",
         "method": "GET",
-        "occurences": 5
+        "occurences": 6
     },
     {
         "endpoint": "back\/website.rar",
@@ -62067,27 +62067,27 @@
     {
         "endpoint": "directory.tar",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "backup\/bak.rar",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "bak\/wallet.dat",
         "method": "HEAD",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "back\/backup.tar",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "backups\/public_html.gz",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "mysql.sql",
@@ -62097,12 +62097,12 @@
     {
         "endpoint": "backup\/bak.zip",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "back\/wallet.zip",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "restore\/www.sql",
@@ -62112,22 +62112,22 @@
     {
         "endpoint": "bak\/backup.tar.gz",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "restore\/full_backup.zip",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "back\/bak.gz",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "restore\/config.js",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "readme.html",
@@ -63151,6 +63151,36 @@
     },
     {
         "endpoint": "flex.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "v1\/openapi.json",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "v2\/openapi.json",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "v3\/openapi.json",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "api\/v1\/openapi.json",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "swagger\/v1\/swagger.json",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "AAAAAAAA\/BBBBB",
         "method": "GET",
         "occurences": 1
     }
