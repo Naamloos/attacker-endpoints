@@ -2,17 +2,17 @@
     {
         "endpoint": "wp-admin",
         "method": "GET",
-        "occurences": 69
+        "occurences": 72
     },
     {
         "endpoint": "wp-login.php",
         "method": "GET",
-        "occurences": 531
+        "occurences": 536
     },
     {
         "endpoint": ".well-known\/discord",
         "method": "GET",
-        "occurences": 231
+        "occurences": 232
     },
     {
         "endpoint": "\/wordpress",
@@ -5467,7 +5467,7 @@
     {
         "endpoint": ".env",
         "method": "GET",
-        "occurences": 675
+        "occurences": 676
     },
     {
         "endpoint": "wp-content",
@@ -5992,7 +5992,7 @@
     {
         "endpoint": "index.html",
         "method": "GET",
-        "occurences": 181
+        "occurences": 182
     },
     {
         "endpoint": "a.js",
@@ -6107,12 +6107,12 @@
     {
         "endpoint": "wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 4069
+        "occurences": 4071
     },
     {
         "endpoint": "wordpress\/wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 3778
+        "occurences": 3779
     },
     {
         "endpoint": "wp-includes\/Text\/network.php",
@@ -8402,7 +8402,7 @@
     {
         "endpoint": ".git\/config",
         "method": "GET",
-        "occurences": 378
+        "occurences": 379
     },
     {
         "endpoint": "wordpress",
@@ -13812,7 +13812,7 @@
     {
         "endpoint": "appsettings.json",
         "method": "GET",
-        "occurences": 20
+        "occurences": 21
     },
     {
         "endpoint": "appsettings.Production.json",
@@ -60587,7 +60587,7 @@
     {
         "endpoint": "launchSettings.json",
         "method": "GET",
-        "occurences": 2
+        "occurences": 3
     },
     {
         "endpoint": "application\/config\/profiler.php",
