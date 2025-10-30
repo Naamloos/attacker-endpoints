@@ -2,17 +2,17 @@
     {
         "endpoint": "wp-admin",
         "method": "GET",
-        "occurences": 72
+        "occurences": 73
     },
     {
         "endpoint": "wp-login.php",
         "method": "GET",
-        "occurences": 539
+        "occurences": 541
     },
     {
         "endpoint": ".well-known\/discord",
         "method": "GET",
-        "occurences": 233
+        "occurences": 234
     },
     {
         "endpoint": "\/wordpress",
@@ -5992,7 +5992,7 @@
     {
         "endpoint": "index.html",
         "method": "GET",
-        "occurences": 183
+        "occurences": 184
     },
     {
         "endpoint": "a.js",
@@ -6062,37 +6062,37 @@
     {
         "endpoint": "wp-admin\/css",
         "method": "GET",
-        "occurences": 153
+        "occurences": 155
     },
     {
         "endpoint": ".well-known",
         "method": "GET",
-        "occurences": 154
+        "occurences": 155
     },
     {
         "endpoint": "sites\/default\/files",
         "method": "GET",
-        "occurences": 120
+        "occurences": 122
     },
     {
         "endpoint": "admin\/controller\/extension\/extension",
         "method": "GET",
-        "occurences": 115
+        "occurences": 117
     },
     {
         "endpoint": "uploads",
         "method": "GET",
-        "occurences": 122
+        "occurences": 123
     },
     {
         "endpoint": "images",
         "method": "GET",
-        "occurences": 117
+        "occurences": 118
     },
     {
         "endpoint": "files",
         "method": "GET",
-        "occurences": 115
+        "occurences": 117
     },
     {
         "endpoint": "vendor\/phpunit\/phpunit\/src\/Util\/PHP\/eval-stdin.php",
@@ -6107,12 +6107,12 @@
     {
         "endpoint": "wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 4082
+        "occurences": 4084
     },
     {
         "endpoint": "wordpress\/wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 3789
+        "occurences": 3791
     },
     {
         "endpoint": "wp-includes\/Text\/network.php",
@@ -9717,7 +9717,7 @@
     {
         "endpoint": ".vscode\/sftp.json",
         "method": "GET",
-        "occurences": 79
+        "occurences": 80
     },
     {
         "endpoint": "about",
@@ -9942,7 +9942,7 @@
     {
         "endpoint": "sftp-config.json",
         "method": "GET",
-        "occurences": 41
+        "occurences": 42
     },
     {
         "endpoint": ".env.base-distante",
@@ -57942,7 +57942,7 @@
     {
         "endpoint": "backup\/config.json",
         "method": "HEAD",
-        "occurences": 7
+        "occurences": 8
     },
     {
         "endpoint": "backups\/public_html.tar",
@@ -58647,17 +58647,17 @@
     {
         "endpoint": "old\/directory.gz",
         "method": "GET",
-        "occurences": 5
+        "occurences": 6
     },
     {
         "endpoint": "old\/website.gz",
         "method": "GET",
-        "occurences": 5
+        "occurences": 6
     },
     {
         "endpoint": "backups\/website.rar",
         "method": "GET",
-        "occurences": 5
+        "occurences": 6
     },
     {
         "endpoint": "backup\/website.gz",
@@ -58667,22 +58667,22 @@
     {
         "endpoint": "restore\/website.gz",
         "method": "GET",
-        "occurences": 5
+        "occurences": 6
     },
     {
         "endpoint": "old\/www.gz",
         "method": "GET",
-        "occurences": 5
+        "occurences": 6
     },
     {
         "endpoint": "backup\/index.zip",
         "method": "GET",
-        "occurences": 5
+        "occurences": 6
     },
     {
         "endpoint": "old\/directory.tar.gz",
         "method": "GET",
-        "occurences": 5
+        "occurences": 6
     },
     {
         "endpoint": "backups\/public_html.tar.gz",
@@ -58692,12 +58692,12 @@
     {
         "endpoint": "directory.zip",
         "method": "GET",
-        "occurences": 5
+        "occurences": 6
     },
     {
         "endpoint": "backup.sql",
         "method": "HEAD",
-        "occurences": 4
+        "occurences": 5
     },
     {
         "endpoint": "backup\/directory.tar",
@@ -66477,7 +66477,7 @@
     {
         "endpoint": "postnews.php",
         "method": "GET",
-        "occurences": 2
+        "occurences": 3
     },
     {
         "endpoint": "rh.php",
