@@ -5467,7 +5467,7 @@
     {
         "endpoint": ".env",
         "method": "GET",
-        "occurences": 681
+        "occurences": 682
     },
     {
         "endpoint": "wp-content",
@@ -10282,7 +10282,7 @@
     {
         "endpoint": "sitemap_index.xml",
         "method": "GET",
-        "occurences": 10
+        "occurences": 11
     },
     {
         "endpoint": "vendor\/laravel-filemanager\/js\/script.js",
@@ -12767,7 +12767,7 @@
     {
         "endpoint": "sitemap.txt",
         "method": "GET",
-        "occurences": 10
+        "occurences": 11
     },
     {
         "endpoint": "CHANGELOG.txt",
@@ -66616,6 +66616,26 @@
     },
     {
         "endpoint": "2020.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "SiteMap.aspx",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "sitemap-index.xml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "news_sitemap.xml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "news-sitemap.xml",
         "method": "GET",
         "occurences": 1
     }
