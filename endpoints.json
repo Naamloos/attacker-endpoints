@@ -7,7 +7,7 @@
     {
         "endpoint": "wp-login.php",
         "method": "GET",
-        "occurences": 552
+        "occurences": 553
     },
     {
         "endpoint": ".well-known\/discord",
@@ -5467,7 +5467,7 @@
     {
         "endpoint": ".env",
         "method": "GET",
-        "occurences": 691
+        "occurences": 692
     },
     {
         "endpoint": "wp-content",
@@ -8502,72 +8502,72 @@
     {
         "endpoint": "wp-includes\/ID3\/license.txt",
         "method": "GET",
-        "occurences": 26
+        "occurences": 27
     },
     {
         "endpoint": "xmlrpc.php",
         "method": "GET",
-        "occurences": 455
+        "occurences": 458
     },
     {
         "endpoint": "blog\/wp-includes\/wlwmanifest.xml",
         "method": "GET",
-        "occurences": 106
+        "occurences": 109
     },
     {
         "endpoint": "web\/wp-includes\/wlwmanifest.xml",
         "method": "GET",
-        "occurences": 107
+        "occurences": 109
     },
     {
         "endpoint": "wordpress\/wp-includes\/wlwmanifest.xml",
         "method": "GET",
-        "occurences": 104
+        "occurences": 107
     },
     {
         "endpoint": "wp\/wp-includes\/wlwmanifest.xml",
         "method": "GET",
-        "occurences": 103
+        "occurences": 106
     },
     {
         "endpoint": "2020\/wp-includes\/wlwmanifest.xml",
         "method": "GET",
-        "occurences": 52
+        "occurences": 55
     },
     {
         "endpoint": "2019\/wp-includes\/wlwmanifest.xml",
         "method": "GET",
-        "occurences": 103
+        "occurences": 106
     },
     {
         "endpoint": "2021\/wp-includes\/wlwmanifest.xml",
         "method": "GET",
-        "occurences": 26
+        "occurences": 27
     },
     {
         "endpoint": "shop\/wp-includes\/wlwmanifest.xml",
         "method": "GET",
-        "occurences": 104
+        "occurences": 106
     },
     {
         "endpoint": "wp1\/wp-includes\/wlwmanifest.xml",
         "method": "GET",
-        "occurences": 104
+        "occurences": 107
     },
     {
         "endpoint": "test\/wp-includes\/wlwmanifest.xml",
         "method": "GET",
-        "occurences": 104
+        "occurences": 107
     },
     {
         "endpoint": "site\/wp-includes\/wlwmanifest.xml",
         "method": "GET",
-        "occurences": 105
+        "occurences": 108
     },
     {
         "endpoint": "cms\/wp-includes\/wlwmanifest.xml",
         "method": "GET",
-        "occurences": 104
+        "occurences": 107
     },
     {
         "endpoint": "bypass.php",
@@ -9567,17 +9567,17 @@
     {
         "endpoint": "wp-includes\/wlwmanifest.xml",
         "method": "GET",
-        "occurences": 71
+        "occurences": 73
     },
     {
         "endpoint": "website\/wp-includes\/wlwmanifest.xml",
         "method": "GET",
-        "occurences": 81
+        "occurences": 83
     },
     {
         "endpoint": "news\/wp-includes\/wlwmanifest.xml",
         "method": "GET",
-        "occurences": 78
+        "occurences": 80
     },
     {
         "endpoint": "2018\/wp-includes\/wlwmanifest.xml",
@@ -9592,12 +9592,12 @@
     {
         "endpoint": "wp2\/wp-includes\/wlwmanifest.xml",
         "method": "GET",
-        "occurences": 79
+        "occurences": 81
     },
     {
         "endpoint": "sito\/wp-includes\/wlwmanifest.xml",
         "method": "GET",
-        "occurences": 78
+        "occurences": 80
     },
     {
         "endpoint": "wp-content\/plugins\/superstorefinder-wp\/css\/ssf-wp-pop.css",
@@ -15302,7 +15302,7 @@
     {
         "endpoint": "userfuns.php",
         "method": "GET",
-        "occurences": 37
+        "occurences": 38
     },
     {
         "endpoint": "tempfuns.php",
@@ -66477,7 +66477,7 @@
     {
         "endpoint": "postnews.php",
         "method": "GET",
-        "occurences": 11
+        "occurences": 12
     },
     {
         "endpoint": "rh.php",
@@ -67401,6 +67401,26 @@
     },
     {
         "endpoint": ".vscode\/sftp-config~",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "build\/assets\/basedcord-CTXhpHU2.js%3E;",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "build\/assets\/index-BO25ZH14.js%3E;",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "build\/assets\/Index-Lt3JRjUB.js%3E;",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "build\/assets\/app-g-C5jmaF.js%3E;",
         "method": "GET",
         "occurences": 1
     }
