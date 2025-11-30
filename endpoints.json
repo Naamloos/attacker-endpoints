@@ -2,17 +2,17 @@
     {
         "endpoint": "wp-admin",
         "method": "GET",
-        "occurences": 90
+        "occurences": 91
     },
     {
         "endpoint": "wp-login.php",
         "method": "GET",
-        "occurences": 570
+        "occurences": 571
     },
     {
         "endpoint": ".well-known\/discord",
         "method": "GET",
-        "occurences": 261
+        "occurences": 262
     },
     {
         "endpoint": "\/wordpress",
@@ -5467,7 +5467,7 @@
     {
         "endpoint": ".env",
         "method": "GET",
-        "occurences": 775
+        "occurences": 776
     },
     {
         "endpoint": "wp-content",
@@ -5602,7 +5602,7 @@
     {
         "endpoint": "admin.php",
         "method": "GET",
-        "occurences": 1037
+        "occurences": 1038
     },
     {
         "endpoint": "classwithtostring.php",
@@ -5857,7 +5857,7 @@
     {
         "endpoint": "phpinfo.php",
         "method": "GET",
-        "occurences": 167
+        "occurences": 168
     },
     {
         "endpoint": "chosen.php",
@@ -6252,7 +6252,7 @@
     {
         "endpoint": "info.php",
         "method": "GET",
-        "occurences": 605
+        "occurences": 606
     },
     {
         "endpoint": "wp-includes\/assets\/about.php",
@@ -6262,7 +6262,7 @@
     {
         "endpoint": "test.php",
         "method": "GET",
-        "occurences": 381
+        "occurences": 382
     },
     {
         "endpoint": "wp-admin\/css\/colors\/ectoplasm\/wp-login.php",
@@ -8402,7 +8402,7 @@
     {
         "endpoint": ".git\/config",
         "method": "GET",
-        "occurences": 446
+        "occurences": 450
     },
     {
         "endpoint": "wordpress",
@@ -9202,12 +9202,12 @@
     {
         "endpoint": ".aws\/config",
         "method": "GET",
-        "occurences": 30
+        "occurences": 31
     },
     {
         "endpoint": "secrets.json",
         "method": "GET",
-        "occurences": 18
+        "occurences": 19
     },
     {
         "endpoint": ".git-credentials",
@@ -9247,7 +9247,7 @@
     {
         "endpoint": ".env.production",
         "method": "GET",
-        "occurences": 74
+        "occurences": 75
     },
     {
         "endpoint": "s3cmd.ini",
@@ -9267,7 +9267,7 @@
     {
         "endpoint": ".aws\/credentials",
         "method": "GET",
-        "occurences": 123
+        "occurences": 124
     },
     {
         "endpoint": "adminer-3.3.1-mysql-en.php",
@@ -9697,7 +9697,7 @@
     {
         "endpoint": "admin",
         "method": "GET",
-        "occurences": 42
+        "occurences": 43
     },
     {
         "endpoint": "wso.php",
@@ -9807,7 +9807,7 @@
     {
         "endpoint": "config.yaml",
         "method": "GET",
-        "occurences": 16
+        "occurences": 17
     },
     {
         "endpoint": "etc\/ssl\/private\/server.key",
@@ -9827,7 +9827,7 @@
     {
         "endpoint": "config.yml",
         "method": "GET",
-        "occurences": 16
+        "occurences": 17
     },
     {
         "endpoint": "backup.sql",
@@ -9922,7 +9922,7 @@
     {
         "endpoint": ".env.bak",
         "method": "GET",
-        "occurences": 46
+        "occurences": 47
     },
     {
         "endpoint": "adminer-3.7.0-mysql.php",
@@ -10282,7 +10282,7 @@
     {
         "endpoint": "sitemap_index.xml",
         "method": "GET",
-        "occurences": 26
+        "occurences": 27
     },
     {
         "endpoint": "vendor\/laravel-filemanager\/js\/script.js",
@@ -11397,7 +11397,7 @@
     {
         "endpoint": ".env.local",
         "method": "GET",
-        "occurences": 59
+        "occurences": 60
     },
     {
         "endpoint": "api\/shared\/config\/config.env",
@@ -11732,7 +11732,7 @@
     {
         "endpoint": "assets\/jquery-file-upload\/server\/php\/index.php",
         "method": "GET",
-        "occurences": 5
+        "occurences": 6
     },
     {
         "endpoint": "projects",
@@ -12767,7 +12767,7 @@
     {
         "endpoint": "sitemap.txt",
         "method": "GET",
-        "occurences": 26
+        "occurences": 27
     },
     {
         "endpoint": "CHANGELOG.txt",
@@ -18487,7 +18487,7 @@
     {
         "endpoint": ".env.example",
         "method": "GET",
-        "occurences": 56
+        "occurences": 57
     },
     {
         "endpoint": "wp-includes\/Text\/wp-tn.php",
@@ -22447,7 +22447,7 @@
     {
         "endpoint": "aws.json",
         "method": "GET",
-        "occurences": 7
+        "occurences": 8
     },
     {
         "endpoint": "aws\/credentials.json",
@@ -24287,7 +24287,7 @@
     {
         "endpoint": "settings.json",
         "method": "GET",
-        "occurences": 8
+        "occurences": 9
     },
     {
         "endpoint": ".settings.json",
@@ -25442,17 +25442,17 @@
     {
         "endpoint": "config",
         "method": "GET",
-        "occurences": 7
+        "occurences": 8
     },
     {
         "endpoint": "credentials",
         "method": "GET",
-        "occurences": 4
+        "occurences": 5
     },
     {
         "endpoint": "aws\/credentials",
         "method": "GET",
-        "occurences": 20
+        "occurences": 21
     },
     {
         "endpoint": "aws\/config",
@@ -26182,7 +26182,7 @@
     {
         "endpoint": "composer.json",
         "method": "GET",
-        "occurences": 10
+        "occurences": 11
     },
     {
         "endpoint": "api\/v1\/.env",
@@ -33362,7 +33362,7 @@
     {
         "endpoint": "info",
         "method": "GET",
-        "occurences": 10
+        "occurences": 11
     },
     {
         "endpoint": "stage\/.env",
@@ -35787,7 +35787,7 @@
     {
         "endpoint": "include\/dialog\/select_templets.php",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "0995010000813017",
@@ -41802,7 +41802,7 @@
     {
         "endpoint": "phpversion.php",
         "method": "GET",
-        "occurences": 7
+        "occurences": 8
     },
     {
         "endpoint": "config.inc.php-old",
@@ -44197,7 +44197,7 @@
     {
         "endpoint": "sendgrid.php",
         "method": "GET",
-        "occurences": 2
+        "occurences": 3
     },
     {
         "endpoint": "sendinblue.env",
@@ -61292,7 +61292,7 @@
     {
         "endpoint": "env.json",
         "method": "GET",
-        "occurences": 3
+        "occurences": 4
     },
     {
         "endpoint": "shared\/.env",
@@ -66622,22 +66622,22 @@
     {
         "endpoint": "SiteMap.aspx",
         "method": "GET",
-        "occurences": 14
+        "occurences": 15
     },
     {
         "endpoint": "sitemap-index.xml",
         "method": "GET",
-        "occurences": 13
+        "occurences": 14
     },
     {
         "endpoint": "news_sitemap.xml",
         "method": "GET",
-        "occurences": 13
+        "occurences": 14
     },
     {
         "endpoint": "news-sitemap.xml",
         "method": "GET",
-        "occurences": 13
+        "occurences": 14
     },
     {
         "endpoint": "pgipzzkm.php",
@@ -66647,7 +66647,7 @@
     {
         "endpoint": "sitemap.html",
         "method": "GET",
-        "occurences": 14
+        "occurences": 15
     },
     {
         "endpoint": "wp-content\/postnews.php",
@@ -67677,7 +67677,7 @@
     {
         "endpoint": "_ignition\/execute-solution",
         "method": "GET",
-        "occurences": 2
+        "occurences": 3
     },
     {
         "endpoint": "public\/_ignition\/execute-solution",
@@ -69356,6 +69356,76 @@
     },
     {
         "endpoint": "modules\/ckeditor\/config.js",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "env.yaml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "env.yml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "config.ini",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "app.config.js",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "keys.js",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "mailgun",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "mailgun.json",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "mailgun\/config",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "mailgun.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "sendgrid",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "sendgrid\/config",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "brevo.json",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "brevo\/config",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "brevo.php",
         "method": "GET",
         "occurences": 1
     }
