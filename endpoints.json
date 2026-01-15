@@ -5467,7 +5467,7 @@
     {
         "endpoint": ".env",
         "method": "GET",
-        "occurences": 894
+        "occurences": 895
     },
     {
         "endpoint": "wp-content",
@@ -6107,12 +6107,12 @@
     {
         "endpoint": "wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 4356
+        "occurences": 4358
     },
     {
         "endpoint": "wordpress\/wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 4051
+        "occurences": 4053
     },
     {
         "endpoint": "wp-includes\/Text\/network.php",
@@ -8497,7 +8497,7 @@
     {
         "endpoint": "keybase.txt",
         "method": "GET",
-        "occurences": 62
+        "occurences": 63
     },
     {
         "endpoint": "wp-includes\/ID3\/license.txt",
@@ -68867,7 +68867,7 @@
     {
         "endpoint": "txets.php",
         "method": "GET",
-        "occurences": 36
+        "occurences": 37
     },
     {
         "endpoint": "wp-content\/txets.php",
@@ -78146,6 +78146,26 @@
     },
     {
         "endpoint": "cqkokeqi.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "wp-json\/wc\/v3\/payment_gateways",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "wp-json\/wc\/v2\/payment_gateways",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "wp-json\/wc\/store\/v1\/cart",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "wp-json\/wc\/store\/v1\/payment_methods",
         "method": "GET",
         "occurences": 1
     }
