@@ -2,12 +2,12 @@
     {
         "endpoint": "wp-admin",
         "method": "GET",
-        "occurences": 195
+        "occurences": 196
     },
     {
         "endpoint": "wp-login.php",
         "method": "GET",
-        "occurences": 873
+        "occurences": 875
     },
     {
         "endpoint": ".well-known\/discord",
@@ -5467,7 +5467,7 @@
     {
         "endpoint": ".env",
         "method": "GET",
-        "occurences": 1115
+        "occurences": 1118
     },
     {
         "endpoint": "wp-content",
@@ -5602,7 +5602,7 @@
     {
         "endpoint": "admin.php",
         "method": "GET",
-        "occurences": 1500
+        "occurences": 1501
     },
     {
         "endpoint": "classwithtostring.php",
@@ -5612,7 +5612,7 @@
     {
         "endpoint": "shell.php",
         "method": "GET",
-        "occurences": 532
+        "occurences": 535
     },
     {
         "endpoint": "access.php",
@@ -5992,7 +5992,7 @@
     {
         "endpoint": "index.html",
         "method": "GET",
-        "occurences": 229
+        "occurences": 230
     },
     {
         "endpoint": "a.js",
@@ -6107,12 +6107,12 @@
     {
         "endpoint": "wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 4611
+        "occurences": 4613
     },
     {
         "endpoint": "wordpress\/wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 4275
+        "occurences": 4277
     },
     {
         "endpoint": "wp-includes\/Text\/network.php",
@@ -6542,7 +6542,7 @@
     {
         "endpoint": "inputs.php",
         "method": "GET",
-        "occurences": 806
+        "occurences": 807
     },
     {
         "endpoint": "wp-includes\/block-supports\/about.php",
@@ -6737,7 +6737,7 @@
     {
         "endpoint": "edit.php",
         "method": "GET",
-        "occurences": 855
+        "occurences": 856
     },
     {
         "endpoint": "wp-content\/themes\/travelscape\/json.php",
@@ -7582,7 +7582,7 @@
     {
         "endpoint": "about.php",
         "method": "GET",
-        "occurences": 1401
+        "occurences": 1402
     },
     {
         "endpoint": "filemanager.php",
@@ -8402,7 +8402,7 @@
     {
         "endpoint": ".git\/config",
         "method": "GET",
-        "occurences": 616
+        "occurences": 617
     },
     {
         "endpoint": "wordpress",
@@ -8677,7 +8677,7 @@
     {
         "endpoint": "as.php",
         "method": "GET",
-        "occurences": 562
+        "occurences": 563
     },
     {
         "endpoint": "404.php",
@@ -9202,12 +9202,12 @@
     {
         "endpoint": ".aws\/config",
         "method": "GET",
-        "occurences": 64
+        "occurences": 65
     },
     {
         "endpoint": "secrets.json",
         "method": "GET",
-        "occurences": 41
+        "occurences": 42
     },
     {
         "endpoint": ".git-credentials",
@@ -9227,7 +9227,7 @@
     {
         "endpoint": "credentials.json",
         "method": "GET",
-        "occurences": 18
+        "occurences": 19
     },
     {
         "endpoint": "smtp.json",
@@ -9247,7 +9247,7 @@
     {
         "endpoint": ".env.production",
         "method": "GET",
-        "occurences": 118
+        "occurences": 119
     },
     {
         "endpoint": "s3cmd.ini",
@@ -9267,7 +9267,7 @@
     {
         "endpoint": ".aws\/credentials",
         "method": "GET",
-        "occurences": 182
+        "occurences": 183
     },
     {
         "endpoint": "adminer-3.3.1-mysql-en.php",
@@ -9762,7 +9762,7 @@
     {
         "endpoint": "config.json",
         "method": "GET",
-        "occurences": 99
+        "occurences": 100
     },
     {
         "endpoint": "adminer-3.0.1-mysql.php",
@@ -9807,7 +9807,7 @@
     {
         "endpoint": "config.yaml",
         "method": "GET",
-        "occurences": 22
+        "occurences": 23
     },
     {
         "endpoint": "etc\/ssl\/private\/server.key",
@@ -9827,7 +9827,7 @@
     {
         "endpoint": "config.yml",
         "method": "GET",
-        "occurences": 27
+        "occurences": 28
     },
     {
         "endpoint": "backup.sql",
@@ -9897,7 +9897,7 @@
     {
         "endpoint": "api\/.env",
         "method": "GET",
-        "occurences": 187
+        "occurences": 188
     },
     {
         "endpoint": ".svn\/wc.db",
@@ -9922,7 +9922,7 @@
     {
         "endpoint": ".env.bak",
         "method": "GET",
-        "occurences": 94
+        "occurences": 95
     },
     {
         "endpoint": "adminer-3.7.0-mysql.php",
@@ -9977,17 +9977,17 @@
     {
         "endpoint": ".env.save",
         "method": "GET",
-        "occurences": 82
+        "occurences": 83
     },
     {
         "endpoint": "backend\/.env",
         "method": "GET",
-        "occurences": 115
+        "occurences": 116
     },
     {
         "endpoint": ".env.development",
         "method": "GET",
-        "occurences": 44
+        "occurences": 45
     },
     {
         "endpoint": "application\/.env",
@@ -10032,7 +10032,7 @@
     {
         "endpoint": "app\/.env",
         "method": "GET",
-        "occurences": 112
+        "occurences": 113
     },
     {
         "endpoint": "public\/.env",
@@ -10542,7 +10542,7 @@
     {
         "endpoint": "wp-links-opml.php",
         "method": "GET",
-        "occurences": 90
+        "occurences": 91
     },
     {
         "endpoint": "wp-admin\/includes\/mar.php",
@@ -11052,7 +11052,7 @@
     {
         "endpoint": "wp-content\/themes\/admin.php",
         "method": "GET",
-        "occurences": 375
+        "occurences": 376
     },
     {
         "endpoint": ".wp-cli\/as.php",
@@ -11262,7 +11262,7 @@
     {
         "endpoint": "upload.php",
         "method": "GET",
-        "occurences": 171
+        "occurences": 172
     },
     {
         "endpoint": "wp-content\/uploads\/cache.php",
@@ -11367,7 +11367,7 @@
     {
         "endpoint": ".env.php",
         "method": "GET",
-        "occurences": 17
+        "occurences": 18
     },
     {
         "endpoint": "beta\/.env",
@@ -11392,12 +11392,12 @@
     {
         "endpoint": "config\/.env",
         "method": "GET",
-        "occurences": 89
+        "occurences": 90
     },
     {
         "endpoint": ".env.local",
         "method": "GET",
-        "occurences": 103
+        "occurences": 104
     },
     {
         "endpoint": "api\/shared\/config\/config.env",
@@ -13812,12 +13812,12 @@
     {
         "endpoint": "appsettings.json",
         "method": "GET",
-        "occurences": 31
+        "occurences": 32
     },
     {
         "endpoint": "appsettings.Production.json",
         "method": "GET",
-        "occurences": 9
+        "occurences": 10
     },
     {
         "endpoint": "admin\/appsettings.json",
@@ -15372,7 +15372,7 @@
     {
         "endpoint": "wp-content\/uploads\/admin.php",
         "method": "GET",
-        "occurences": 159
+        "occurences": 160
     },
     {
         "endpoint": "wp-express.php",
@@ -17042,7 +17042,7 @@
     {
         "endpoint": "adminfuns.php",
         "method": "GET",
-        "occurences": 493
+        "occurences": 494
     },
     {
         "endpoint": "wp-content\/themes\/holding_pattern\/admin\/options-tab-sample.txt",
@@ -18487,7 +18487,7 @@
     {
         "endpoint": ".env.example",
         "method": "GET",
-        "occurences": 95
+        "occurences": 96
     },
     {
         "endpoint": "wp-includes\/Text\/wp-tn.php",
@@ -20267,7 +20267,7 @@
     {
         "endpoint": "ioxi-o.php",
         "method": "GET",
-        "occurences": 658
+        "occurences": 659
     },
     {
         "endpoint": ".well-known\/pki-validation\/shell.php",
@@ -22407,7 +22407,7 @@
     {
         "endpoint": ".env.backup",
         "method": "GET",
-        "occurences": 57
+        "occurences": 58
     },
     {
         "endpoint": "config\/config.env",
@@ -24287,7 +24287,7 @@
     {
         "endpoint": "settings.json",
         "method": "GET",
-        "occurences": 18
+        "occurences": 19
     },
     {
         "endpoint": ".settings.json",
@@ -24342,17 +24342,17 @@
     {
         "endpoint": ".env.js",
         "method": "GET",
-        "occurences": 14
+        "occurences": 15
     },
     {
         "endpoint": ".env.json",
         "method": "GET",
-        "occurences": 9
+        "occurences": 10
     },
     {
         "endpoint": ".env.local.json",
         "method": "GET",
-        "occurences": 5
+        "occurences": 6
     },
     {
         "endpoint": ".env.prod.json",
@@ -24752,7 +24752,7 @@
     {
         "endpoint": "shell",
         "method": "GET",
-        "occurences": 30
+        "occurences": 31
     },
     {
         "endpoint": "rce.php",
@@ -25442,22 +25442,22 @@
     {
         "endpoint": "config",
         "method": "GET",
-        "occurences": 9
+        "occurences": 10
     },
     {
         "endpoint": "credentials",
         "method": "GET",
-        "occurences": 8
+        "occurences": 9
     },
     {
         "endpoint": "aws\/credentials",
         "method": "GET",
-        "occurences": 26
+        "occurences": 27
     },
     {
         "endpoint": "aws\/config",
         "method": "GET",
-        "occurences": 4
+        "occurences": 5
     },
     {
         "endpoint": ".msmtprc",
@@ -26057,7 +26057,7 @@
     {
         "endpoint": "api\/credentials",
         "method": "GET",
-        "occurences": 6
+        "occurences": 7
     },
     {
         "endpoint": "secure-config.json",
@@ -26082,7 +26082,7 @@
     {
         "endpoint": "settings.yaml",
         "method": "GET",
-        "occurences": 2
+        "occurences": 3
     },
     {
         "endpoint": "auth.json",
@@ -26097,7 +26097,7 @@
     {
         "endpoint": "database.json",
         "method": "GET",
-        "occurences": 3
+        "occurences": 4
     },
     {
         "endpoint": "env.backup",
@@ -26177,7 +26177,7 @@
     {
         "endpoint": "api\/config.json",
         "method": "GET",
-        "occurences": 8
+        "occurences": 9
     },
     {
         "endpoint": "composer.json",
@@ -26232,7 +26232,7 @@
     {
         "endpoint": ".env.test",
         "method": "GET",
-        "occurences": 37
+        "occurences": 38
     },
     {
         "endpoint": "var\/logs\/dev.log",
@@ -26812,7 +26812,7 @@
     {
         "endpoint": ".env.config",
         "method": "GET",
-        "occurences": 4
+        "occurences": 5
     },
     {
         "endpoint": ".env.dev.local",
@@ -26832,7 +26832,7 @@
     {
         "endpoint": ".env.old",
         "method": "GET",
-        "occurences": 52
+        "occurences": 53
     },
     {
         "endpoint": ".env.prod.local",
@@ -26852,7 +26852,7 @@
     {
         "endpoint": ".env.staging",
         "method": "GET",
-        "occurences": 36
+        "occurences": 37
     },
     {
         "endpoint": "index\/ajax\/lang",
@@ -26932,7 +26932,7 @@
     {
         "endpoint": "appsettings.Staging.json",
         "method": "GET",
-        "occurences": 4
+        "occurences": 5
     },
     {
         "endpoint": "Config\/appsettings.json",
@@ -38807,7 +38807,7 @@
     {
         "endpoint": "parameters.yml",
         "method": "GET",
-        "occurences": 5
+        "occurences": 6
     },
     {
         "endpoint": "data.7z",
@@ -39667,7 +39667,7 @@
     {
         "endpoint": "secrets.yml",
         "method": "GET",
-        "occurences": 12
+        "occurences": 13
     },
     {
         "endpoint": "mysql_backup.tar.gz",
@@ -39762,7 +39762,7 @@
     {
         "endpoint": "database.yml",
         "method": "GET",
-        "occurences": 13
+        "occurences": 14
     },
     {
         "endpoint": "wordpress_backup.tar.bz2",
@@ -43702,7 +43702,7 @@
     {
         "endpoint": "config\/.env.local",
         "method": "GET",
-        "occurences": 3
+        "occurences": 4
     },
     {
         "endpoint": "config\/.env.old",
@@ -44447,7 +44447,7 @@
     {
         "endpoint": "src\/.env",
         "method": "GET",
-        "occurences": 28
+        "occurences": 29
     },
     {
         "endpoint": "src\/.env.bak",
@@ -44457,7 +44457,7 @@
     {
         "endpoint": "src\/.env.local",
         "method": "GET",
-        "occurences": 2
+        "occurences": 3
     },
     {
         "endpoint": "src\/.env.old",
@@ -44812,7 +44812,7 @@
     {
         "endpoint": "class-t.api.php",
         "method": "GET",
-        "occurences": 152
+        "occurences": 153
     },
     {
         "endpoint": "wp-content\/lock1.php",
@@ -44952,12 +44952,12 @@
     {
         "endpoint": "frontend\/.env",
         "method": "GET",
-        "occurences": 18
+        "occurences": 19
     },
     {
         "endpoint": ".env.dist",
         "method": "GET",
-        "occurences": 20
+        "occurences": 21
     },
     {
         "endpoint": "api\/config.php",
@@ -46277,7 +46277,7 @@
     {
         "endpoint": "ms-edit.php",
         "method": "GET",
-        "occurences": 104
+        "occurences": 105
     },
     {
         "endpoint": "well-known\/admin.php",
@@ -46422,7 +46422,7 @@
     {
         "endpoint": "backup\/config.json",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "backup\/config.php.bak",
@@ -47272,12 +47272,12 @@
     {
         "endpoint": "webshell",
         "method": "GET",
-        "occurences": 22
+        "occurences": 23
     },
     {
         "endpoint": "webshell.php",
         "method": "GET",
-        "occurences": 21
+        "occurences": 22
     },
     {
         "endpoint": "elfinder\/connectors\/php\/connector.php",
@@ -48017,7 +48017,7 @@
     {
         "endpoint": ".env.sample",
         "method": "GET",
-        "occurences": 21
+        "occurences": 22
     },
     {
         "endpoint": "frontend_dev.php",
@@ -54477,17 +54477,17 @@
     {
         "endpoint": "api\/.env.local",
         "method": "GET",
-        "occurences": 3
+        "occurences": 4
     },
     {
         "endpoint": "api\/.env.staging",
         "method": "GET",
-        "occurences": 2
+        "occurences": 3
     },
     {
         "endpoint": "api\/.env.production",
         "method": "GET",
-        "occurences": 6
+        "occurences": 7
     },
     {
         "endpoint": "apis\/.env",
@@ -54512,17 +54512,17 @@
     {
         "endpoint": "backend\/.env.local",
         "method": "GET",
-        "occurences": 4
+        "occurences": 5
     },
     {
         "endpoint": "backend\/.env.staging",
         "method": "GET",
-        "occurences": 2
+        "occurences": 3
     },
     {
         "endpoint": "backend\/.env.production",
         "method": "GET",
-        "occurences": 6
+        "occurences": 7
     },
     {
         "endpoint": "server\/.env.local",
@@ -54542,17 +54542,17 @@
     {
         "endpoint": "app\/.env.local",
         "method": "GET",
-        "occurences": 4
+        "occurences": 5
     },
     {
         "endpoint": "app\/.env.staging",
         "method": "GET",
-        "occurences": 2
+        "occurences": 3
     },
     {
         "endpoint": "app\/.env.production",
         "method": "GET",
-        "occurences": 6
+        "occurences": 7
     },
     {
         "endpoint": "project\/.env",
@@ -55647,7 +55647,7 @@
     {
         "endpoint": "bolt.php",
         "method": "GET",
-        "occurences": 255
+        "occurences": 256
     },
     {
         "endpoint": "pepe.php",
@@ -55777,7 +55777,7 @@
     {
         "endpoint": "lite.php",
         "method": "GET",
-        "occurences": 24
+        "occurences": 25
     },
     {
         "endpoint": "mod.php",
@@ -60632,7 +60632,7 @@
     {
         "endpoint": "appsettings.Development.json",
         "method": "GET",
-        "occurences": 6
+        "occurences": 7
     },
     {
         "endpoint": "Properties\/launchSettings.json",
@@ -62067,67 +62067,67 @@
     {
         "endpoint": "directory.tar",
         "method": "GET",
-        "occurences": 11
+        "occurences": 12
     },
     {
         "endpoint": "backup\/bak.rar",
         "method": "GET",
-        "occurences": 11
+        "occurences": 12
     },
     {
         "endpoint": "bak\/wallet.dat",
         "method": "HEAD",
-        "occurences": 11
+        "occurences": 12
     },
     {
         "endpoint": "back\/backup.tar",
         "method": "GET",
-        "occurences": 11
+        "occurences": 12
     },
     {
         "endpoint": "backups\/public_html.gz",
         "method": "GET",
-        "occurences": 11
+        "occurences": 12
     },
     {
         "endpoint": "mysql.sql",
         "method": "HEAD",
-        "occurences": 10
+        "occurences": 11
     },
     {
         "endpoint": "backup\/bak.zip",
         "method": "GET",
-        "occurences": 11
+        "occurences": 12
     },
     {
         "endpoint": "back\/wallet.zip",
         "method": "GET",
-        "occurences": 11
+        "occurences": 12
     },
     {
         "endpoint": "restore\/www.sql",
         "method": "HEAD",
-        "occurences": 10
+        "occurences": 11
     },
     {
         "endpoint": "bak\/backup.tar.gz",
         "method": "GET",
-        "occurences": 11
+        "occurences": 12
     },
     {
         "endpoint": "restore\/full_backup.zip",
         "method": "GET",
-        "occurences": 11
+        "occurences": 12
     },
     {
         "endpoint": "back\/bak.gz",
         "method": "GET",
-        "occurences": 11
+        "occurences": 12
     },
     {
         "endpoint": "restore\/config.js",
         "method": "GET",
-        "occurences": 11
+        "occurences": 12
     },
     {
         "endpoint": "readme.html",
@@ -62582,7 +62582,7 @@
     {
         "endpoint": "fff.php",
         "method": "GET",
-        "occurences": 41
+        "occurences": 42
     },
     {
         "endpoint": "ffff.php",
@@ -65187,7 +65187,7 @@
     {
         "endpoint": "secrets",
         "method": "GET",
-        "occurences": 2
+        "occurences": 3
     },
     {
         "endpoint": "home-page",
@@ -68172,7 +68172,7 @@
     {
         "endpoint": ".env.tmp",
         "method": "GET",
-        "occurences": 2
+        "occurences": 3
     },
     {
         "endpoint": "api\/.env.save",
@@ -69372,7 +69372,7 @@
     {
         "endpoint": "config.ini",
         "method": "GET",
-        "occurences": 14
+        "occurences": 15
     },
     {
         "endpoint": "app.config.js",
@@ -69397,7 +69397,7 @@
     {
         "endpoint": "mailgun\/config",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "mailgun.php",
@@ -69412,7 +69412,7 @@
     {
         "endpoint": "sendgrid\/config",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "brevo.json",
@@ -69512,7 +69512,7 @@
     {
         "endpoint": "api\/config",
         "method": "GET",
-        "occurences": 14
+        "occurences": 15
     },
     {
         "endpoint": "api\/v1\/config",
@@ -70247,7 +70247,7 @@
     {
         "endpoint": "secrets.ini",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "app.json",
@@ -70582,7 +70582,7 @@
     {
         "endpoint": "settings.yml",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "constants.js",
@@ -71402,7 +71402,7 @@
     {
         "endpoint": "root\/.aws\/credentials",
         "method": "GET",
-        "occurences": 4
+        "occurences": 5
     },
     {
         "endpoint": "home\/*\/.aws\/credentials",
@@ -71417,7 +71417,7 @@
     {
         "endpoint": "opt\/aws\/credentials",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "google-credentials.json",
@@ -75012,7 +75012,7 @@
     {
         "endpoint": "terraform\/terraform.tfstate",
         "method": "GET",
-        "occurences": 2
+        "occurences": 3
     },
     {
         "endpoint": "infra\/terraform.tfstate",
@@ -75832,7 +75832,7 @@
     {
         "endpoint": ".trash7206\/index.php",
         "method": "GET",
-        "occurences": 18
+        "occurences": 19
     },
     {
         "endpoint": "wordpress\/wp-admin\/maint",
@@ -75857,7 +75857,7 @@
     {
         "endpoint": "wk\/index.php",
         "method": "GET",
-        "occurences": 66
+        "occurences": 67
     },
     {
         "endpoint": "public\/fonts\/index.php",
@@ -76127,7 +76127,7 @@
     {
         "endpoint": "src\/.env.production",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "build\/asset-manifest.json",
@@ -76977,7 +76977,7 @@
     {
         "endpoint": "config\/.env.production",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": ".env_1",
@@ -77502,7 +77502,7 @@
     {
         "endpoint": ".env.copy",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": ".circleci\/.env",
@@ -77557,7 +77557,7 @@
     {
         "endpoint": ".env.template",
         "method": "GET",
-        "occurences": 5
+        "occurences": 6
     },
     {
         "endpoint": "common\/.env",
@@ -77647,7 +77647,7 @@
     {
         "endpoint": ".env.default",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "workbox.js",
@@ -79272,7 +79272,7 @@
     {
         "endpoint": "rip.php",
         "method": "GET",
-        "occurences": 119
+        "occurences": 120
     },
     {
         "endpoint": "wp4.php",
@@ -79937,7 +79937,7 @@
     {
         "endpoint": ".credentials",
         "method": "GET",
-        "occurences": 2
+        "occurences": 3
     },
     {
         "endpoint": "secret.json",
@@ -80702,7 +80702,7 @@
     {
         "endpoint": "rest\/settings",
         "method": "GET",
-        "occurences": 5
+        "occurences": 7
     },
     {
         "endpoint": "%2eenv",
@@ -82327,7 +82327,7 @@
     {
         "endpoint": ".env.sh",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "ch2-mytodo\/.env",
@@ -82697,7 +82697,7 @@
     {
         "endpoint": ".env.py",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "hibernate.cfg.xml",
@@ -83267,7 +83267,7 @@
     {
         "endpoint": "ff1.php",
         "method": "GET",
-        "occurences": 29
+        "occurences": 30
     },
     {
         "endpoint": "vdb.php",
@@ -83577,7 +83577,7 @@
     {
         "endpoint": "wp-act.php",
         "method": "GET",
-        "occurences": 25
+        "occurences": 26
     },
     {
         "endpoint": "yooldisk.php",
@@ -83757,7 +83757,7 @@
     {
         "endpoint": "wp-admin\/css\/bolt.php",
         "method": "GET",
-        "occurences": 22
+        "occurences": 23
     },
     {
         "endpoint": "shas.php",
@@ -85977,7 +85977,7 @@
     {
         "endpoint": "update\/da222.php",
         "method": "GET",
-        "occurences": 13
+        "occurences": 14
     },
     {
         "endpoint": "wp-fast.php",
@@ -87127,7 +87127,7 @@
     {
         "endpoint": "beef_favicon.ico",
         "method": "HEAD",
-        "occurences": 38
+        "occurences": 39
     },
     {
         "endpoint": "file61.php",
@@ -87367,27 +87367,27 @@
     {
         "endpoint": ".well-known\/logs233\/index.php",
         "method": "GET",
-        "occurences": 9
+        "occurences": 10
     },
     {
         "endpoint": "wp-content\/themes\/haha.php",
         "method": "GET",
-        "occurences": 9
+        "occurences": 10
     },
     {
         "endpoint": "wp-content\/themes\/theme\/about.php",
         "method": "GET",
-        "occurences": 10
+        "occurences": 11
     },
     {
         "endpoint": "wp-content\/plugins\/plugin\/index.php",
         "method": "GET",
-        "occurences": 9
+        "occurences": 10
     },
     {
         "endpoint": "xmr.php",
         "method": "GET",
-        "occurences": 9
+        "occurences": 10
     },
     {
         "endpoint": "jb33.php",
@@ -87757,7 +87757,7 @@
     {
         "endpoint": "secrets.yaml",
         "method": "GET",
-        "occurences": 4
+        "occurences": 5
     },
     {
         "endpoint": "src\/config\/.env",
@@ -87787,7 +87787,7 @@
     {
         "endpoint": "database.yaml",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "db.yml",
@@ -87852,7 +87852,7 @@
     {
         "endpoint": "credentials.yml",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "aws_credentials",
@@ -90596,6 +90596,991 @@
     },
     {
         "endpoint": "euhpb.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": ".env.working",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": ".env.current",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": ".env.previous",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": ".env.original",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": ".env.yml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": ".env.yaml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": ".env.xml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": ".env.ini",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": ".env.cfg",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": ".env.conf",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": ".env.settings",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": ".env.local.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": ".env.local.py",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": ".env.local.js",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": ".env.local.yml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": ".env.local.yaml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": ".env.production.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": ".env.production.py",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": ".env.production.js",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": ".env.production.json",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": ".env.production.yml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": ".env.production.yaml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "config\/.env.staging",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "config\/.env.dev",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "config\/.env.test",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "api\/.env.dev",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "app\/.env.dev",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "backend\/.env.dev",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "frontend\/.env.local",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "frontend\/.env.production",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "frontend\/.env.staging",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "frontend\/.env.dev",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "src\/.env.staging",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "src\/.env.dev",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "home\/ec2-user\/.aws\/credentials",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "home\/ubuntu\/.aws\/credentials",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "etc\/aws\/credentials",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "var\/lib\/aws\/credentials",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "shared\/aws\/credentials",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "aws\/credentials.txt",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "aws\/access-keys.txt",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "aws\/iam-credentials.json",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "config.cfg",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "config.conf",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "settings.ini",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "settings.cfg",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "settings.conf",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "parameters.yaml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "parameters.ini",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "parameters.json",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "database.ini",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "db\/config",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "db\/config.yml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "db\/config.yaml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "db\/config.ini",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "db\/config.json",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "database\/config",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "database\/config.yml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "database\/config.yaml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "database\/config.ini",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "database\/config.json",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "credentials.yaml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "credentials.ini",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "credentials.cfg",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "credentials.conf",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "secrets.cfg",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "secrets.conf",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": ".credentials.json",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": ".credentials.yml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": ".credentials.yaml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": ".credentials.ini",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": ".credentials.cfg",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": ".credentials.conf",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "mail\/config",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "mail\/config.json",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "mail\/config.yml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "mail\/config.yaml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "mail\/config.ini",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "mail\/config.cfg",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "mail\/config.conf",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "email\/config",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "email\/config.json",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "email\/config.yml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "email\/config.yaml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "email\/config.ini",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "email\/config.cfg",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "email\/config.conf",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "smtp\/config",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "smtp\/config.json",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "smtp\/config.yml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "smtp\/config.yaml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "smtp\/config.ini",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "smtp\/config.cfg",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "smtp\/config.conf",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "ses\/config",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "ses\/config.json",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "ses\/config.yml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "ses\/config.yaml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "ses\/config.ini",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "ses\/config.cfg",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "ses\/config.conf",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "sendgrid\/config.json",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "sendgrid\/config.yml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "sendgrid\/config.yaml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "sendgrid\/config.ini",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "sendgrid\/config.cfg",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "sendgrid\/config.conf",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "mailgun\/config.json",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "mailgun\/config.yml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "mailgun\/config.yaml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "mailgun\/config.ini",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "mailgun\/config.cfg",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "mailgun\/config.conf",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "api\/config.yml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "api\/config.yaml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "api\/config.ini",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "api\/config.cfg",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "api\/config.conf",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "api\/credentials.json",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "api\/credentials.yml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "api\/credentials.yaml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "api\/credentials.ini",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "api\/credentials.cfg",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "api\/credentials.conf",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "api\/secrets",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "api\/secrets.json",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "api\/secrets.yml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "api\/secrets.yaml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "api\/secrets.ini",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "api\/secrets.cfg",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "api\/secrets.conf",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "deploy\/config",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "deploy\/config.json",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "deploy\/config.yml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "deploy\/config.yaml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "deploy\/config.ini",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "deploy\/config.cfg",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "deploy\/config.conf",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "deployment\/config",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "deployment\/config.json",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "deployment\/config.yml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "deployment\/config.yaml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "deployment\/config.ini",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "deployment\/config.cfg",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "deployment\/config.conf",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "terraform\/terraform.tfvars",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "terraform\/.terraform.lock.hcl",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "ansible\/group_vars\/all.yml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "ansible\/host_vars\/localhost.yml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "storage\/config",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "storage\/config.json",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "storage\/config.yml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "storage\/config.yaml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "storage\/config.ini",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "storage\/config.cfg",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "storage\/config.conf",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "cache\/config",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "cache\/config.json",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "cache\/config.yml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "cache\/config.yaml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "cache\/config.ini",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "cache\/config.cfg",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "cache\/config.conf",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "tmp\/config",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "tmp\/config.json",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "tmp\/config.yml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "tmp\/config.yaml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "tmp\/config.ini",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "tmp\/config.cfg",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "tmp\/config.conf",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "backup\/config",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "backup\/config.yml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "backup\/config.yaml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "backup\/config.ini",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "backup\/config.cfg",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "backup\/config.conf",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "backups\/config",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "backups\/config.json",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "backups\/config.yml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "backups\/config.yaml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "backups\/config.ini",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "backups\/config.cfg",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "backups\/config.conf",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "monitoring\/config",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "monitoring\/config.json",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "monitoring\/config.yml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "monitoring\/config.yaml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "monitoring\/config.ini",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "monitoring\/config.cfg",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "monitoring\/config.conf",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "logs\/config",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "logs\/config.json",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "logs\/config.yml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "logs\/config.yaml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "logs\/config.ini",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "logs\/config.cfg",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "logs\/config.conf",
         "method": "GET",
         "occurences": 1
     }
