@@ -12,7 +12,7 @@
     {
         "endpoint": ".well-known\/discord",
         "method": "GET",
-        "occurences": 361
+        "occurences": 362
     },
     {
         "endpoint": "\/wordpress",
@@ -5577,7 +5577,7 @@
     {
         "endpoint": "alfanew.php",
         "method": "GET",
-        "occurences": 369
+        "occurences": 370
     },
     {
         "endpoint": "1p.php",
@@ -5602,7 +5602,7 @@
     {
         "endpoint": "admin.php",
         "method": "GET",
-        "occurences": 1541
+        "occurences": 1543
     },
     {
         "endpoint": "classwithtostring.php",
@@ -5857,7 +5857,7 @@
     {
         "endpoint": "phpinfo.php",
         "method": "GET",
-        "occurences": 239
+        "occurences": 240
     },
     {
         "endpoint": "chosen.php",
@@ -6102,17 +6102,17 @@
     {
         "endpoint": "_profiler\/phpinfo",
         "method": "GET",
-        "occurences": 185
+        "occurences": 186
     },
     {
         "endpoint": "wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 4637
+        "occurences": 4640
     },
     {
         "endpoint": "wordpress\/wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 4302
+        "occurences": 4305
     },
     {
         "endpoint": "wp-includes\/Text\/network.php",
@@ -6187,7 +6187,7 @@
     {
         "endpoint": "alfa.php",
         "method": "GET",
-        "occurences": 919
+        "occurences": 920
     },
     {
         "endpoint": "wp-mail.php\/wp-includes\/ID3\/rk2.php",
@@ -6252,7 +6252,7 @@
     {
         "endpoint": "info.php",
         "method": "GET",
-        "occurences": 1019
+        "occurences": 1020
     },
     {
         "endpoint": "wp-includes\/assets\/about.php",
@@ -6262,7 +6262,7 @@
     {
         "endpoint": "test.php",
         "method": "GET",
-        "occurences": 482
+        "occurences": 483
     },
     {
         "endpoint": "wp-admin\/css\/colors\/ectoplasm\/wp-login.php",
@@ -6462,7 +6462,7 @@
     {
         "endpoint": "themes.php",
         "method": "GET",
-        "occurences": 765
+        "occurences": 766
     },
     {
         "endpoint": "wp-content\/plugins\/duplicator\/assets\/about.php",
@@ -6477,7 +6477,7 @@
     {
         "endpoint": "wp-content\/plugins\/index.php",
         "method": "GET",
-        "occurences": 571
+        "occurences": 572
     },
     {
         "endpoint": "wp-includes\/sitemaps\/providers\/about.php",
@@ -6542,7 +6542,7 @@
     {
         "endpoint": "inputs.php",
         "method": "GET",
-        "occurences": 830
+        "occurences": 831
     },
     {
         "endpoint": "wp-includes\/block-supports\/about.php",
@@ -6737,7 +6737,7 @@
     {
         "endpoint": "edit.php",
         "method": "GET",
-        "occurences": 886
+        "occurences": 888
     },
     {
         "endpoint": "wp-content\/themes\/travelscape\/json.php",
@@ -6837,7 +6837,7 @@
     {
         "endpoint": ".well-known\/index.php",
         "method": "GET",
-        "occurences": 425
+        "occurences": 427
     },
     {
         "endpoint": "wp-content\/languages\/link.php",
@@ -7077,7 +7077,7 @@
     {
         "endpoint": "wp-admin\/js\/index.php",
         "method": "GET",
-        "occurences": 612
+        "occurences": 613
     },
     {
         "endpoint": "admin\/upload\/themes-install.php",
@@ -7147,7 +7147,7 @@
     {
         "endpoint": ".well-known\/acme-challenge\/about.php",
         "method": "GET",
-        "occurences": 280
+        "occurences": 282
     },
     {
         "endpoint": "wp-includes\/js\/tinymce\/skins\/wordpress\/images\/wp-login.php",
@@ -7242,7 +7242,7 @@
     {
         "endpoint": "1.php",
         "method": "GET",
-        "occurences": 802
+        "occurences": 803
     },
     {
         "endpoint": "install.php",
@@ -7417,7 +7417,7 @@
     {
         "endpoint": "wp-admin\/user\/index.php",
         "method": "GET",
-        "occurences": 319
+        "occurences": 321
     },
     {
         "endpoint": "wp-content\/upgrade-temp-backup\/alfa-rex.php",
@@ -7482,7 +7482,7 @@
     {
         "endpoint": "wp-content\/admin.php",
         "method": "GET",
-        "occurences": 670
+        "occurences": 671
     },
     {
         "endpoint": "images\/autoload_classmap.php",
@@ -7517,7 +7517,7 @@
     {
         "endpoint": "403.php",
         "method": "GET",
-        "occurences": 600
+        "occurences": 601
     },
     {
         "endpoint": "wp-content\/uploads\/plugins.php",
@@ -7582,7 +7582,7 @@
     {
         "endpoint": "about.php",
         "method": "GET",
-        "occurences": 1433
+        "occurences": 1434
     },
     {
         "endpoint": "filemanager.php",
@@ -8677,7 +8677,7 @@
     {
         "endpoint": "as.php",
         "method": "GET",
-        "occurences": 588
+        "occurences": 589
     },
     {
         "endpoint": "404.php",
@@ -9267,7 +9267,7 @@
     {
         "endpoint": ".aws\/credentials",
         "method": "GET",
-        "occurences": 189
+        "occurences": 190
     },
     {
         "endpoint": "adminer-3.3.1-mysql-en.php",
@@ -9917,12 +9917,12 @@
     {
         "endpoint": "aws.yml",
         "method": "GET",
-        "occurences": 21
+        "occurences": 22
     },
     {
         "endpoint": ".env.bak",
         "method": "GET",
-        "occurences": 102
+        "occurences": 103
     },
     {
         "endpoint": "adminer-3.7.0-mysql.php",
@@ -10492,7 +10492,7 @@
     {
         "endpoint": "wp-content\/autoload_classmap.php",
         "method": "GET",
-        "occurences": 263
+        "occurences": 264
     },
     {
         "endpoint": "02.php",
@@ -11052,7 +11052,7 @@
     {
         "endpoint": "wp-content\/themes\/admin.php",
         "method": "GET",
-        "occurences": 408
+        "occurences": 409
     },
     {
         "endpoint": ".wp-cli\/as.php",
@@ -11312,7 +11312,7 @@
     {
         "endpoint": "phpinfo",
         "method": "GET",
-        "occurences": 157
+        "occurences": 158
     },
     {
         "endpoint": ".env.prod",
@@ -11987,7 +11987,7 @@
     {
         "endpoint": "wp-includes\/css\/index.php",
         "method": "GET",
-        "occurences": 221
+        "occurences": 222
     },
     {
         "endpoint": "504.php",
@@ -12167,7 +12167,7 @@
     {
         "endpoint": "w.php",
         "method": "GET",
-        "occurences": 283
+        "occurences": 284
     },
     {
         "endpoint": "wp-HbJxZ2.php",
@@ -15127,7 +15127,7 @@
     {
         "endpoint": "config.js",
         "method": "GET",
-        "occurences": 84
+        "occurences": 85
     },
     {
         "endpoint": "symfony\/.env",
@@ -17042,7 +17042,7 @@
     {
         "endpoint": "adminfuns.php",
         "method": "GET",
-        "occurences": 530
+        "occurences": 533
     },
     {
         "endpoint": "wp-content\/themes\/holding_pattern\/admin\/options-tab-sample.txt",
@@ -17572,7 +17572,7 @@
     {
         "endpoint": "wp-content\/options.php",
         "method": "GET",
-        "occurences": 3
+        "occurences": 4
     },
     {
         "endpoint": "wp-content\/networks.php",
@@ -20407,7 +20407,7 @@
     {
         "endpoint": "aa.php",
         "method": "GET",
-        "occurences": 517
+        "occurences": 518
     },
     {
         "endpoint": "wp-content\/uploads\/upload_handler.php",
@@ -27107,7 +27107,7 @@
     {
         "endpoint": "admin-footer.php",
         "method": "GET",
-        "occurences": 20
+        "occurences": 21
     },
     {
         "endpoint": "admin\/\/function.php",
@@ -37907,7 +37907,7 @@
     {
         "endpoint": "config\/aws.yml",
         "method": "GET",
-        "occurences": 26
+        "occurences": 27
     },
     {
         "endpoint": "elfinder\/elfinder.html",
@@ -37972,7 +37972,7 @@
     {
         "endpoint": "admin\/index.php",
         "method": "GET",
-        "occurences": 57
+        "occurences": 58
     },
     {
         "endpoint": "wp-content\/wp-22.php",
@@ -46087,7 +46087,7 @@
     {
         "endpoint": "update\/f35.php",
         "method": "GET",
-        "occurences": 71
+        "occurences": 72
     },
     {
         "endpoint": "wp-includes\/assets\/admin.php",
@@ -47277,7 +47277,7 @@
     {
         "endpoint": "webshell.php",
         "method": "GET",
-        "occurences": 25
+        "occurences": 26
     },
     {
         "endpoint": "elfinder\/connectors\/php\/connector.php",
@@ -51322,7 +51322,7 @@
     {
         "endpoint": "000.php",
         "method": "GET",
-        "occurences": 28
+        "occurences": 29
     },
     {
         "endpoint": "20.php",
@@ -53792,7 +53792,7 @@
     {
         "endpoint": "f6.php",
         "method": "GET",
-        "occurences": 37
+        "occurences": 38
     },
     {
         "endpoint": "f7.php",
@@ -56637,7 +56637,7 @@
     {
         "endpoint": "abcd.php",
         "method": "GET",
-        "occurences": 460
+        "occurences": 461
     },
     {
         "endpoint": "output.php",
@@ -56802,7 +56802,7 @@
     {
         "endpoint": "1aa.php",
         "method": "GET",
-        "occurences": 31
+        "occurences": 32
     },
     {
         "endpoint": "litanies.php",
@@ -58702,72 +58702,72 @@
     {
         "endpoint": "backup\/directory.tar",
         "method": "GET",
-        "occurences": 14
+        "occurences": 15
     },
     {
         "endpoint": "back\/dump.sql",
         "method": "HEAD",
-        "occurences": 15
+        "occurences": 16
     },
     {
         "endpoint": "www.gz",
         "method": "GET",
-        "occurences": 14
+        "occurences": 15
     },
     {
         "endpoint": "bak\/config.json",
         "method": "HEAD",
-        "occurences": 33
+        "occurences": 34
     },
     {
         "endpoint": "wallets\/log.txt",
         "method": "HEAD",
-        "occurences": 14
+        "occurences": 15
     },
     {
         "endpoint": "old\/directory.tar",
         "method": "GET",
-        "occurences": 15
+        "occurences": 16
     },
     {
         "endpoint": "bak\/www.zip",
         "method": "GET",
-        "occurences": 11
+        "occurences": 12
     },
     {
         "endpoint": "restore\/directory.zip",
         "method": "GET",
-        "occurences": 15
+        "occurences": 16
     },
     {
         "endpoint": "backups\/sftp-config.json",
         "method": "HEAD",
-        "occurences": 14
+        "occurences": 15
     },
     {
         "endpoint": "back\/credentials.txt",
         "method": "HEAD",
-        "occurences": 14
+        "occurences": 15
     },
     {
         "endpoint": "backup.sql.tar",
         "method": "GET",
-        "occurences": 15
+        "occurences": 16
     },
     {
         "endpoint": "backup\/public_html.gz",
         "method": "GET",
-        "occurences": 16
+        "occurences": 17
     },
     {
         "endpoint": "back\/bak.tar.gz",
         "method": "GET",
-        "occurences": 15
+        "occurences": 16
     },
     {
         "endpoint": "restore\/mysql.sql",
         "method": "HEAD",
-        "occurences": 15
+        "occurences": 16
     },
     {
         "endpoint": "bak\/bak.tar.gz",
@@ -63822,7 +63822,7 @@
     {
         "endpoint": "wa.php",
         "method": "GET",
-        "occurences": 10
+        "occurences": 11
     },
     {
         "endpoint": "afile.php",
@@ -66972,7 +66972,7 @@
     {
         "endpoint": "666.php",
         "method": "GET",
-        "occurences": 35
+        "occurences": 36
     },
     {
         "endpoint": "888.php",
@@ -72842,7 +72842,7 @@
     {
         "endpoint": "term.php",
         "method": "GET",
-        "occurences": 44
+        "occurences": 45
     },
     {
         "endpoint": "tlvs8pou.php",
@@ -75857,7 +75857,7 @@
     {
         "endpoint": "wk\/index.php",
         "method": "GET",
-        "occurences": 87
+        "occurences": 88
     },
     {
         "endpoint": "public\/fonts\/index.php",
@@ -82637,7 +82637,7 @@
     {
         "endpoint": "tool.php",
         "method": "GET",
-        "occurences": 9
+        "occurences": 10
     },
     {
         "endpoint": "py.php",
@@ -82792,7 +82792,7 @@
     {
         "endpoint": "wp-access.php",
         "method": "GET",
-        "occurences": 16
+        "occurences": 17
     },
     {
         "endpoint": "ov.php",
@@ -83757,7 +83757,7 @@
     {
         "endpoint": "wp-admin\/css\/bolt.php",
         "method": "GET",
-        "occurences": 46
+        "occurences": 47
     },
     {
         "endpoint": "shas.php",
@@ -83777,7 +83777,7 @@
     {
         "endpoint": "66.php",
         "method": "GET",
-        "occurences": 25
+        "occurences": 26
     },
     {
         "endpoint": "leuk.php",
@@ -84737,7 +84737,7 @@
     {
         "endpoint": "BDKR28WP.php",
         "method": "GET",
-        "occurences": 7
+        "occurences": 8
     },
     {
         "endpoint": "zu.php",
@@ -87382,7 +87382,7 @@
     {
         "endpoint": "wp-content\/plugins\/plugin\/index.php",
         "method": "GET",
-        "occurences": 24
+        "occurences": 25
     },
     {
         "endpoint": "xmr.php",
@@ -91832,7 +91832,7 @@
     {
         "endpoint": "tx78.php",
         "method": "GET",
-        "occurences": 2
+        "occurences": 3
     },
     {
         "endpoint": "wp-png.php",
@@ -93086,6 +93086,16 @@
     },
     {
         "endpoint": "wp-admin\/term.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "wp-admin\/css\/colors\/ectoplasm\/system_core.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "wp-content\/plugins\/elementor\/assets\/lib\/pickr\/themes\/system.php",
         "method": "GET",
         "occurences": 1
     }
