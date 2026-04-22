@@ -2,12 +2,12 @@
     {
         "endpoint": "wp-admin",
         "method": "GET",
-        "occurences": 223
+        "occurences": 224
     },
     {
         "endpoint": "wp-login.php",
         "method": "GET",
-        "occurences": 981
+        "occurences": 982
     },
     {
         "endpoint": ".well-known\/discord",
@@ -5467,7 +5467,7 @@
     {
         "endpoint": ".env",
         "method": "GET",
-        "occurences": 1303
+        "occurences": 1304
     },
     {
         "endpoint": "wp-content",
@@ -5992,7 +5992,7 @@
     {
         "endpoint": "index.html",
         "method": "GET",
-        "occurences": 279
+        "occurences": 280
     },
     {
         "endpoint": "a.js",
@@ -6062,37 +6062,37 @@
     {
         "endpoint": "wp-admin\/css",
         "method": "GET",
-        "occurences": 276
+        "occurences": 277
     },
     {
         "endpoint": ".well-known",
         "method": "GET",
-        "occurences": 251
+        "occurences": 252
     },
     {
         "endpoint": "sites\/default\/files",
         "method": "GET",
-        "occurences": 209
+        "occurences": 210
     },
     {
         "endpoint": "admin\/controller\/extension\/extension",
         "method": "GET",
-        "occurences": 208
+        "occurences": 209
     },
     {
         "endpoint": "uploads",
         "method": "GET",
-        "occurences": 211
+        "occurences": 212
     },
     {
         "endpoint": "images",
         "method": "GET",
-        "occurences": 206
+        "occurences": 207
     },
     {
         "endpoint": "files",
         "method": "GET",
-        "occurences": 209
+        "occurences": 210
     },
     {
         "endpoint": "vendor\/phpunit\/phpunit\/src\/Util\/PHP\/eval-stdin.php",
@@ -6107,12 +6107,12 @@
     {
         "endpoint": "wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 4751
+        "occurences": 4752
     },
     {
         "endpoint": "wordpress\/wp-admin\/setup-config.php",
         "method": "GET",
-        "occurences": 4410
+        "occurences": 4411
     },
     {
         "endpoint": "wp-includes\/Text\/network.php",
@@ -7262,7 +7262,7 @@
     {
         "endpoint": "wp-admin\/install.php",
         "method": "GET",
-        "occurences": 308
+        "occurences": 310
     },
     {
         "endpoint": "cgi-bin\/1.php",
@@ -8402,7 +8402,7 @@
     {
         "endpoint": ".git\/config",
         "method": "GET",
-        "occurences": 723
+        "occurences": 724
     },
     {
         "endpoint": "wordpress",
@@ -8507,7 +8507,7 @@
     {
         "endpoint": "xmlrpc.php",
         "method": "GET",
-        "occurences": 834
+        "occurences": 835
     },
     {
         "endpoint": "blog\/wp-includes\/wlwmanifest.xml",
@@ -8822,7 +8822,7 @@
     {
         "endpoint": "sitemap.xml",
         "method": "GET",
-        "occurences": 229
+        "occurences": 230
     },
     {
         "endpoint": "style.php",
@@ -9202,7 +9202,7 @@
     {
         "endpoint": ".aws\/config",
         "method": "GET",
-        "occurences": 106
+        "occurences": 107
     },
     {
         "endpoint": "secrets.json",
@@ -9247,7 +9247,7 @@
     {
         "endpoint": ".env.production",
         "method": "GET",
-        "occurences": 182
+        "occurences": 183
     },
     {
         "endpoint": "s3cmd.ini",
@@ -9267,7 +9267,7 @@
     {
         "endpoint": ".aws\/credentials",
         "method": "GET",
-        "occurences": 255
+        "occurences": 256
     },
     {
         "endpoint": "adminer-3.3.1-mysql-en.php",
@@ -9502,7 +9502,7 @@
     {
         "endpoint": "include\/ckeditor\/plugins\/smiley\/images\/angel_smile.gif",
         "method": "GET",
-        "occurences": 2
+        "occurences": 3
     },
     {
         "endpoint": "css\/album.css",
@@ -9682,7 +9682,7 @@
     {
         "endpoint": "admin\/.env",
         "method": "GET",
-        "occurences": 186
+        "occurences": 187
     },
     {
         "endpoint": "wp-content\/plugins\/superlogoshowcase-wp\/sls-wp-admin\/pages\/exportAjax.php",
@@ -9762,7 +9762,7 @@
     {
         "endpoint": "config.json",
         "method": "GET",
-        "occurences": 119
+        "occurences": 120
     },
     {
         "endpoint": "adminer-3.0.1-mysql.php",
@@ -9897,7 +9897,7 @@
     {
         "endpoint": "api\/.env",
         "method": "GET",
-        "occurences": 249
+        "occurences": 250
     },
     {
         "endpoint": ".svn\/wc.db",
@@ -9922,7 +9922,7 @@
     {
         "endpoint": ".env.bak",
         "method": "GET",
-        "occurences": 152
+        "occurences": 153
     },
     {
         "endpoint": "adminer-3.7.0-mysql.php",
@@ -9982,12 +9982,12 @@
     {
         "endpoint": "backend\/.env",
         "method": "GET",
-        "occurences": 189
+        "occurences": 190
     },
     {
         "endpoint": ".env.development",
         "method": "GET",
-        "occurences": 86
+        "occurences": 87
     },
     {
         "endpoint": "application\/.env",
@@ -10032,12 +10032,12 @@
     {
         "endpoint": "app\/.env",
         "method": "GET",
-        "occurences": 170
+        "occurences": 171
     },
     {
         "endpoint": "public\/.env",
         "method": "GET",
-        "occurences": 112
+        "occurences": 113
     },
     {
         "endpoint": "plugins\/elfinder\/php\/connector.php",
@@ -11352,7 +11352,7 @@
     {
         "endpoint": "api\/env",
         "method": "GET",
-        "occurences": 9
+        "occurences": 10
     },
     {
         "endpoint": "admin\/env",
@@ -11382,7 +11382,7 @@
     {
         "endpoint": "env.js",
         "method": "GET",
-        "occurences": 54
+        "occurences": 55
     },
     {
         "endpoint": ".json",
@@ -11397,7 +11397,7 @@
     {
         "endpoint": ".env.local",
         "method": "GET",
-        "occurences": 168
+        "occurences": 169
     },
     {
         "endpoint": "api\/shared\/config\/config.env",
@@ -15127,7 +15127,7 @@
     {
         "endpoint": "config.js",
         "method": "GET",
-        "occurences": 122
+        "occurences": 123
     },
     {
         "endpoint": "symfony\/.env",
@@ -18487,7 +18487,7 @@
     {
         "endpoint": ".env.example",
         "method": "GET",
-        "occurences": 147
+        "occurences": 148
     },
     {
         "endpoint": "wp-includes\/Text\/wp-tn.php",
@@ -22407,7 +22407,7 @@
     {
         "endpoint": ".env.backup",
         "method": "GET",
-        "occurences": 105
+        "occurences": 106
     },
     {
         "endpoint": "config\/config.env",
@@ -22892,7 +22892,7 @@
     {
         "endpoint": "graphql",
         "method": "GET",
-        "occurences": 28
+        "occurences": 29
     },
     {
         "endpoint": "graphql\/api",
@@ -24287,7 +24287,7 @@
     {
         "endpoint": "settings.json",
         "method": "GET",
-        "occurences": 19
+        "occurences": 20
     },
     {
         "endpoint": ".settings.json",
@@ -26737,7 +26737,7 @@
     {
         "endpoint": "blog\/robots.txt",
         "method": "GET",
-        "occurences": 19
+        "occurences": 20
     },
     {
         "endpoint": "admin\/server\/php\/index.php",
@@ -26782,12 +26782,12 @@
     {
         "endpoint": "build\/assets\/app-g-C5jmaF.js.map",
         "method": "GET",
-        "occurences": 5
+        "occurences": 6
     },
     {
         "endpoint": "build\/assets\/Index-Lt3JRjUB.js.map",
         "method": "GET",
-        "occurences": 4
+        "occurences": 5
     },
     {
         "endpoint": "kmabzqpd.php",
@@ -26832,7 +26832,7 @@
     {
         "endpoint": ".env.old",
         "method": "GET",
-        "occurences": 93
+        "occurences": 94
     },
     {
         "endpoint": ".env.prod.local",
@@ -37897,7 +37897,7 @@
     {
         "endpoint": "config.env",
         "method": "GET",
-        "occurences": 70
+        "occurences": 71
     },
     {
         "endpoint": "config\/application.yml",
@@ -38292,7 +38292,7 @@
     {
         "endpoint": "manifest.json",
         "method": "GET",
-        "occurences": 41
+        "occurences": 42
     },
     {
         "endpoint": "js\/env.js",
@@ -47272,12 +47272,12 @@
     {
         "endpoint": "webshell",
         "method": "GET",
-        "occurences": 28
+        "occurences": 29
     },
     {
         "endpoint": "webshell.php",
         "method": "GET",
-        "occurences": 30
+        "occurences": 31
     },
     {
         "endpoint": "elfinder\/connectors\/php\/connector.php",
@@ -57377,7 +57377,7 @@
     {
         "endpoint": "enhancecp",
         "method": "GET",
-        "occurences": 8
+        "occurences": 9
     },
     {
         "endpoint": "bak\/www.rar",
@@ -61292,7 +61292,7 @@
     {
         "endpoint": "env.json",
         "method": "GET",
-        "occurences": 51
+        "occurences": 52
     },
     {
         "endpoint": "shared\/.env",
@@ -61407,7 +61407,7 @@
     {
         "endpoint": "wordpress\/wp-admin\/install.php",
         "method": "GET",
-        "occurences": 2
+        "occurences": 4
     },
     {
         "endpoint": "wp2\/wp-admin\/install.php",
@@ -69512,12 +69512,12 @@
     {
         "endpoint": "api\/config",
         "method": "GET",
-        "occurences": 52
+        "occurences": 53
     },
     {
         "endpoint": "api\/v1\/config",
         "method": "GET",
-        "occurences": 43
+        "occurences": 44
     },
     {
         "endpoint": "api\/v2\/config",
@@ -77467,7 +77467,7 @@
     {
         "endpoint": "asset-manifest.json",
         "method": "GET",
-        "occurences": 33
+        "occurences": 34
     },
     {
         "endpoint": "html\/.env",
@@ -77537,7 +77537,7 @@
     {
         "endpoint": "api\/settings",
         "method": "GET",
-        "occurences": 46
+        "occurences": 47
     },
     {
         "endpoint": ".drone.yml",
@@ -77767,7 +77767,7 @@
     {
         "endpoint": "__ENV.js",
         "method": "GET",
-        "occurences": 37
+        "occurences": 38
     },
     {
         "endpoint": ".vscode\/launch.json",
@@ -77922,7 +77922,7 @@
     {
         "endpoint": "runtime-config.js",
         "method": "GET",
-        "occurences": 3
+        "occurences": 4
     },
     {
         "endpoint": "config.php.old",
@@ -82612,12 +82612,12 @@
     {
         "endpoint": "build\/assets\/basedcord-CTXhpHU2.js.map",
         "method": "GET",
-        "occurences": 2
+        "occurences": 3
     },
     {
         "endpoint": "build\/assets\/index-BO25ZH14.js.map",
         "method": "GET",
-        "occurences": 3
+        "occurences": 4
     },
     {
         "endpoint": "obfuscate.php",
@@ -89902,7 +89902,7 @@
     {
         "endpoint": "api\/v1\/settings",
         "method": "GET",
-        "occurences": 30
+        "occurences": 31
     },
     {
         "endpoint": "api\/stripe\/config",
@@ -98522,7 +98522,7 @@
     {
         "endpoint": "app-config.json",
         "method": "GET",
-        "occurences": 1
+        "occurences": 2
     },
     {
         "endpoint": "assets\/images\/icon-vpnweb.ico",
@@ -102533,5 +102533,100 @@
         "endpoint": "sad8210.php",
         "method": "GET",
         "occurences": 2
+    },
+    {
+        "endpoint": "Welcome-tpTTuB32.js",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "ConfirmPassword-NyHXnpzh.js",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "ForgotPassword-BHb3q3K7.js",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "Login-BsGPWGB2.js",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "VerifyEmail-UyA-v8dl.js",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "Donate-C5ZqnMoT.js",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "Dashboard-sLhNIdXI.js",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "DeleteUserForm-BEfSWo13.js",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "ResetPassword-C8dPaQid.js",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "Projects-DgQ4JYYl.js",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "Edit-D8l8IQNF.js",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "BotCatches-B0g2dbDV.js",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "UpdatePasswordForm-BaCJ-DSE.js",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "Index-Lt3JRjUB.js",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "UpdateProfileInformationForm-B3VuuwQH.js",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "build-manifest.json",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "_next\/static\/buildManifest.js",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": ".env.production.bak",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "api\/v1\/env",
+        "method": "GET",
+        "occurences": 1
     }
 ]
