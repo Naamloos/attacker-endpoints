@@ -7,12 +7,12 @@
     {
         "endpoint": "wp-login.php",
         "method": "GET",
-        "occurences": 1059
+        "occurences": 1061
     },
     {
         "endpoint": ".well-known\/discord",
         "method": "GET",
-        "occurences": 421
+        "occurences": 422
     },
     {
         "endpoint": "\/wordpress",
@@ -7262,7 +7262,7 @@
     {
         "endpoint": "wp-admin\/install.php",
         "method": "GET",
-        "occurences": 867
+        "occurences": 879
     },
     {
         "endpoint": "cgi-bin\/1.php",
@@ -9792,7 +9792,7 @@
     {
         "endpoint": ".git\/HEAD",
         "method": "GET",
-        "occurences": 168
+        "occurences": 169
     },
     {
         "endpoint": "database.sql",
@@ -26292,7 +26292,7 @@
     {
         "endpoint": "wp-json\/wp\/v2\/users",
         "method": "GET",
-        "occurences": 13
+        "occurences": 14
     },
     {
         "endpoint": "configuration.php~",
@@ -29612,7 +29612,7 @@
     {
         "endpoint": "wp-json\/wp\/v2\/posts",
         "method": "GET",
-        "occurences": 12
+        "occurences": 13
     },
     {
         "endpoint": "wp-post.php",
@@ -59882,7 +59882,7 @@
     {
         "endpoint": "include\/foobar.png",
         "method": "GET",
-        "occurences": 14
+        "occurences": 15
     },
     {
         "endpoint": "credentials.txt",
@@ -86247,7 +86247,7 @@
     {
         "endpoint": "wp-json\/oembed\/1.0\/embed",
         "method": "GET",
-        "occurences": 3
+        "occurences": 4
     },
     {
         "endpoint": "wp-json\/wp\/v2\/media",
@@ -106431,6 +106431,26 @@
     },
     {
         "endpoint": "wp-content\/plugins\/burst-statistics\/readme.txt",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "wp-json\/wc\/v3\/products",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "author-sitemap.xml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "wp-json\/wcfm\/v1\/store-vendors",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "wp-sitemap-users-1.xml",
         "method": "GET",
         "occurences": 1
     }
