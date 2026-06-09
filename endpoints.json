@@ -7,7 +7,7 @@
     {
         "endpoint": "wp-login.php",
         "method": "GET",
-        "occurences": 1119
+        "occurences": 1120
     },
     {
         "endpoint": ".well-known\/discord",
@@ -5467,7 +5467,7 @@
     {
         "endpoint": ".env",
         "method": "GET",
-        "occurences": 1545
+        "occurences": 1547
     },
     {
         "endpoint": "wp-content",
@@ -6252,7 +6252,7 @@
     {
         "endpoint": "info.php",
         "method": "GET",
-        "occurences": 1240
+        "occurences": 1241
     },
     {
         "endpoint": "wp-includes\/assets\/about.php",
@@ -7262,7 +7262,7 @@
     {
         "endpoint": "wp-admin\/install.php",
         "method": "GET",
-        "occurences": 1222
+        "occurences": 1228
     },
     {
         "endpoint": "cgi-bin\/1.php",
@@ -8402,7 +8402,7 @@
     {
         "endpoint": ".git\/config",
         "method": "GET",
-        "occurences": 872
+        "occurences": 874
     },
     {
         "endpoint": "wordpress",
@@ -9672,7 +9672,7 @@
     {
         "endpoint": "license.txt",
         "method": "GET",
-        "occurences": 51
+        "occurences": 52
     },
     {
         "endpoint": "wp-json",
@@ -9982,7 +9982,7 @@
     {
         "endpoint": "backend\/.env",
         "method": "GET",
-        "occurences": 256
+        "occurences": 257
     },
     {
         "endpoint": ".env.development",
@@ -43537,7 +43537,7 @@
     {
         "endpoint": "api\/user",
         "method": "GET",
-        "occurences": 15
+        "occurences": 16
     },
     {
         "endpoint": "api\/v1\/auth",
@@ -48587,7 +48587,7 @@
     {
         "endpoint": "..%5c..%5c..%5c..%5c..%5c..%5cvar\/log\/apache2\/access.log",
         "method": "GET",
-        "occurences": 10
+        "occurences": 11
     },
     {
         "endpoint": "admin.html",
@@ -48602,7 +48602,7 @@
     {
         "endpoint": "error",
         "method": "GET",
-        "occurences": 5
+        "occurences": 6
     },
     {
         "endpoint": "controlpanel",
@@ -80707,42 +80707,42 @@
     {
         "endpoint": "%2eenv",
         "method": "GET",
-        "occurences": 15
+        "occurences": 16
     },
     {
         "endpoint": "%2egit\/%63onfig",
         "method": "GET",
-        "occurences": 10
+        "occurences": 11
     },
     {
         "endpoint": "%62ackend\/%2eenv",
         "method": "GET",
-        "occurences": 10
+        "occurences": 11
     },
     {
         "endpoint": "var\/task\/next.config.js",
         "method": "GET",
-        "occurences": 5
+        "occurences": 6
     },
     {
         "endpoint": "var\/task\/next.config.mjs",
         "method": "GET",
-        "occurences": 7
+        "occurences": 8
     },
     {
         "endpoint": "var\/task\/next.config.ts",
         "method": "GET",
-        "occurences": 5
+        "occurences": 6
     },
     {
         "endpoint": "app\/next.config.js",
         "method": "GET",
-        "occurences": 5
+        "occurences": 6
     },
     {
         "endpoint": "app\/next.config.mjs",
         "method": "GET",
-        "occurences": 4
+        "occurences": 5
     },
     {
         "endpoint": "$(pwd)\/next.config.js",
@@ -102632,7 +102632,7 @@
     {
         "endpoint": "wp-json\/gravitysmtp\/v1\/tests\/mock-data",
         "method": "GET",
-        "occurences": 39
+        "occurences": 41
     },
     {
         "endpoint": "cvrvk.php",
