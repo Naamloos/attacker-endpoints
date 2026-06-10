@@ -7,7 +7,7 @@
     {
         "endpoint": "wp-login.php",
         "method": "GET",
-        "occurences": 1120
+        "occurences": 1124
     },
     {
         "endpoint": ".well-known\/discord",
@@ -5477,12 +5477,12 @@
     {
         "endpoint": "wordpress",
         "method": "HEAD",
-        "occurences": 518
+        "occurences": 519
     },
     {
         "endpoint": "wp",
         "method": "HEAD",
-        "occurences": 498
+        "occurences": 499
     },
     {
         "endpoint": "bc",
@@ -5497,17 +5497,17 @@
     {
         "endpoint": "backup",
         "method": "HEAD",
-        "occurences": 498
+        "occurences": 499
     },
     {
         "endpoint": "old",
         "method": "HEAD",
-        "occurences": 500
+        "occurences": 501
     },
     {
         "endpoint": "new",
         "method": "HEAD",
-        "occurences": 495
+        "occurences": 496
     },
     {
         "endpoint": "main",
@@ -7262,7 +7262,7 @@
     {
         "endpoint": "wp-admin\/install.php",
         "method": "GET",
-        "occurences": 1228
+        "occurences": 1233
     },
     {
         "endpoint": "cgi-bin\/1.php",
@@ -8822,7 +8822,7 @@
     {
         "endpoint": "sitemap.xml",
         "method": "GET",
-        "occurences": 279
+        "occurences": 281
     },
     {
         "endpoint": "style.php",
@@ -47932,7 +47932,7 @@
     {
         "endpoint": "blog",
         "method": "HEAD",
-        "occurences": 130
+        "occurences": 131
     },
     {
         "endpoint": "wp-content\/plugins\/wp-slimstat-ex\/lib\/ofc\/php-ofc-library\/ofc_upload_image.php",
@@ -102632,7 +102632,7 @@
     {
         "endpoint": "wp-json\/gravitysmtp\/v1\/tests\/mock-data",
         "method": "GET",
-        "occurences": 41
+        "occurences": 42
     },
     {
         "endpoint": "cvrvk.php",
