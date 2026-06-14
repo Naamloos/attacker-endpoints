@@ -7,12 +7,12 @@
     {
         "endpoint": "wp-login.php",
         "method": "GET",
-        "occurences": 1140
+        "occurences": 1143
     },
     {
         "endpoint": ".well-known\/discord",
         "method": "GET",
-        "occurences": 443
+        "occurences": 444
     },
     {
         "endpoint": "\/wordpress",
@@ -6042,7 +6042,7 @@
     {
         "endpoint": ".well-known\/security.txt",
         "method": "GET",
-        "occurences": 105
+        "occurences": 106
     },
     {
         "endpoint": "security.txt",
@@ -7262,7 +7262,7 @@
     {
         "endpoint": "wp-admin\/install.php",
         "method": "GET",
-        "occurences": 1292
+        "occurences": 1299
     },
     {
         "endpoint": "cgi-bin\/1.php",
