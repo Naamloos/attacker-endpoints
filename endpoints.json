@@ -5467,7 +5467,7 @@
     {
         "endpoint": ".env",
         "method": "GET",
-        "occurences": 1579
+        "occurences": 1580
     },
     {
         "endpoint": "wp-content",
@@ -5992,7 +5992,7 @@
     {
         "endpoint": "index.html",
         "method": "GET",
-        "occurences": 292
+        "occurences": 293
     },
     {
         "endpoint": "a.js",
@@ -7262,7 +7262,7 @@
     {
         "endpoint": "wp-admin\/install.php",
         "method": "GET",
-        "occurences": 1366
+        "occurences": 1372
     },
     {
         "endpoint": "cgi-bin\/1.php",
@@ -66437,7 +66437,7 @@
     {
         "endpoint": ".well-known\/passkey-endpoints",
         "method": "GET",
-        "occurences": 33
+        "occurences": 34
     },
     {
         "endpoint": "components\/com_facileforms\/libraries\/jquery\/tooltip.js",
@@ -110131,6 +110131,16 @@
     },
     {
         "endpoint": "connect",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "plugins\/editors\/jce\/jce.xml",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "administrator\/components\/com_jce\/jce.xml",
         "method": "GET",
         "occurences": 1
     }
