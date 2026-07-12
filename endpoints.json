@@ -5467,7 +5467,7 @@
     {
         "endpoint": ".env",
         "method": "GET",
-        "occurences": 1628
+        "occurences": 1630
     },
     {
         "endpoint": "wp-content",
@@ -7262,7 +7262,7 @@
     {
         "endpoint": "wp-admin\/install.php",
         "method": "GET",
-        "occurences": 1656
+        "occurences": 1662
     },
     {
         "endpoint": "cgi-bin\/1.php",
@@ -8787,7 +8787,7 @@
     {
         "endpoint": "backup.zip",
         "method": "GET",
-        "occurences": 44
+        "occurences": 45
     },
     {
         "endpoint": "administrator.zip",
@@ -8822,7 +8822,7 @@
     {
         "endpoint": "sitemap.xml",
         "method": "GET",
-        "occurences": 498
+        "occurences": 505
     },
     {
         "endpoint": "style.php",
@@ -9207,7 +9207,7 @@
     {
         "endpoint": "secrets.json",
         "method": "GET",
-        "occurences": 100
+        "occurences": 101
     },
     {
         "endpoint": ".git-credentials",
@@ -9227,7 +9227,7 @@
     {
         "endpoint": "credentials.json",
         "method": "GET",
-        "occurences": 68
+        "occurences": 69
     },
     {
         "endpoint": "smtp.json",
@@ -9247,7 +9247,7 @@
     {
         "endpoint": ".env.production",
         "method": "GET",
-        "occurences": 271
+        "occurences": 272
     },
     {
         "endpoint": "s3cmd.ini",
@@ -9622,12 +9622,12 @@
     {
         "endpoint": "wp-includes\/css\/buttons.css",
         "method": "GET",
-        "occurences": 62
+        "occurences": 63
     },
     {
         "endpoint": "media\/system\/js\/core.js",
         "method": "GET",
-        "occurences": 159
+        "occurences": 160
     },
     {
         "endpoint": "admin\/elfinder\/php\/connector.minimal.php",
@@ -9707,7 +9707,7 @@
     {
         "endpoint": "actuator\/env",
         "method": "GET",
-        "occurences": 69
+        "occurences": 70
     },
     {
         "endpoint": "server",
@@ -9792,7 +9792,7 @@
     {
         "endpoint": ".git\/HEAD",
         "method": "GET",
-        "occurences": 205
+        "occurences": 206
     },
     {
         "endpoint": "database.sql",
@@ -9922,7 +9922,7 @@
     {
         "endpoint": ".env.bak",
         "method": "GET",
-        "occurences": 223
+        "occurences": 224
     },
     {
         "endpoint": "adminer-3.7.0-mysql.php",
@@ -9987,7 +9987,7 @@
     {
         "endpoint": ".env.development",
         "method": "GET",
-        "occurences": 146
+        "occurences": 147
     },
     {
         "endpoint": "application\/.env",
@@ -11397,7 +11397,7 @@
     {
         "endpoint": ".env.local",
         "method": "GET",
-        "occurences": 280
+        "occurences": 281
     },
     {
         "endpoint": "api\/shared\/config\/config.env",
@@ -17687,7 +17687,7 @@
     {
         "endpoint": "adminer.php",
         "method": "GET",
-        "occurences": 160
+        "occurences": 162
     },
     {
         "endpoint": "sxx.php",
@@ -22407,7 +22407,7 @@
     {
         "endpoint": ".env.backup",
         "method": "GET",
-        "occurences": 165
+        "occurences": 166
     },
     {
         "endpoint": "config\/config.env",
@@ -26782,7 +26782,7 @@
     {
         "endpoint": "build\/assets\/app-g-C5jmaF.js.map",
         "method": "GET",
-        "occurences": 19
+        "occurences": 20
     },
     {
         "endpoint": "build\/assets\/Index-Lt3JRjUB.js.map",
@@ -69472,7 +69472,7 @@
     {
         "endpoint": "gcp-credentials.json",
         "method": "GET",
-        "occurences": 18
+        "occurences": 19
     },
     {
         "endpoint": "azure.json",
@@ -69512,7 +69512,7 @@
     {
         "endpoint": "api\/config",
         "method": "GET",
-        "occurences": 69
+        "occurences": 70
     },
     {
         "endpoint": "api\/v1\/config",
@@ -71422,7 +71422,7 @@
     {
         "endpoint": "google-credentials.json",
         "method": "GET",
-        "occurences": 16
+        "occurences": 17
     },
     {
         "endpoint": "gcp-key.json",
@@ -75102,7 +75102,7 @@
     {
         "endpoint": "firebase-adminsdk.json",
         "method": "GET",
-        "occurences": 13
+        "occurences": 14
     },
     {
         "endpoint": "pnpm-lock.yaml",
@@ -77582,7 +77582,7 @@
     {
         "endpoint": ".vite\/manifest.json",
         "method": "GET",
-        "occurences": 42
+        "occurences": 43
     },
     {
         "endpoint": "v3\/.env",
@@ -106217,7 +106217,7 @@
     {
         "endpoint": "key.json",
         "method": "GET",
-        "occurences": 10
+        "occurences": 11
     },
     {
         "endpoint": "keyfile.json",
@@ -107122,7 +107122,7 @@
     {
         "endpoint": "account.json",
         "method": "GET",
-        "occurences": 3
+        "occurences": 4
     },
     {
         "endpoint": "admin\/.env.prod",
@@ -112836,6 +112836,11 @@
     },
     {
         "endpoint": "stu.php",
+        "method": "GET",
+        "occurences": 1
+    },
+    {
+        "endpoint": "jqueryupload\/server\/php\/index.php",
         "method": "GET",
         "occurences": 1
     }
